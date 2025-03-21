@@ -51595,6 +51595,7 @@
 ./poc/cve/CVE-2023-2404_1.yaml
 ./poc/cve/CVE-2023-2404_2.yaml
 ./poc/cve/CVE-2023-2405-f0837f8b2bc4c6ffa1a21730b1fcacb4.yaml
+./poc/cve/CVE-2023-2405-fa10ad599a0d4928c6550949f02a3681.yaml
 ./poc/cve/CVE-2023-2405.yaml
 ./poc/cve/CVE-2023-2405_1.yaml
 ./poc/cve/CVE-2023-2405_2.yaml
@@ -71549,6 +71550,7 @@
 ./poc/cve/CVE-2024-13366_1.yaml
 ./poc/cve/CVE-2024-13367-527d2b5879b92797c13f408be590869d.yaml
 ./poc/cve/CVE-2024-13367.yaml
+./poc/cve/CVE-2024-13368-7c6d721201aac7f48957075247567dfa.yaml
 ./poc/cve/CVE-2024-13368.yaml
 ./poc/cve/CVE-2024-13369-876bcbfa1395027d25a2c882eb4ce6a1.yaml
 ./poc/cve/CVE-2024-13369-f7cf16693445b5d49eeacbb3fdf087b2.yaml
@@ -82589,6 +82591,7 @@
 ./poc/cve/CVE-2024-38724-657df870da9628bf255b26a03e87a25d.yaml
 ./poc/cve/CVE-2024-38724.yaml
 ./poc/cve/CVE-2024-38724_1.yaml
+./poc/cve/CVE-2024-38725-862263716ecbf941730886e47d73997c.yaml
 ./poc/cve/CVE-2024-38725-b9cf1c834ec7a1a3c0c10c34370d8bfa.yaml
 ./poc/cve/CVE-2024-38725.yaml
 ./poc/cve/CVE-2024-38727-4a9b8817b810833247ae9ab86a437d8a.yaml
@@ -94534,6 +94537,7 @@
 ./poc/cve/CVE-2025-26995-162c39b3b8a2a5ccbe1da4cbff0f6e68.yaml
 ./poc/cve/CVE-2025-26999-08bfdca486f2e9429238d82c09844ec5.yaml
 ./poc/cve/CVE-2025-27012-2a5b1656d91cd487befc5985dd62909b.yaml
+./poc/cve/CVE-2025-27012-cb7ec5a1b617123d316f1a5b03e063e7.yaml
 ./poc/cve/CVE-2025-27012.yaml
 ./poc/cve/CVE-2025-27013-1d762340504666b8fdccac5cf130f9d1.yaml
 ./poc/cve/CVE-2025-27013.yaml
@@ -94636,6 +94640,7 @@
 ./poc/cve/CVE-2025-28872-69c1b42b2a5ad1c143a4eba116d9f537.yaml
 ./poc/cve/CVE-2025-28875-42e73898641b2413e50868e61f221c4f.yaml
 ./poc/cve/CVE-2025-28876-942960e5d918ea63607585099b804fc8.yaml
+./poc/cve/CVE-2025-28876-a2906188c4339470686045c49e26f20b.yaml
 ./poc/cve/CVE-2025-28878-5931087a949447e077491b03b36eb628.yaml
 ./poc/cve/CVE-2025-28879-67025c479715ea486c5bce72dc0a98a9.yaml
 ./poc/cve/CVE-2025-28881-0e6365f62e9b234268d979d3e9251442.yaml
@@ -137415,6 +137420,8 @@
 ./poc/other/installationqualitymanagementsystem.yaml
 ./poc/other/instant-appointment-a1d0e8b88d04928dcebcb7494fd0ab7d.yaml
 ./poc/other/instant-appointment-a445ce7a1ad57b249626cdd5f0cfc37e.yaml
+./poc/other/instant-appointment-c8e377587fad75fab8144c44b3252599.yaml
+./poc/other/instant-appointment-ea2f42ec9d8e31fa93004840bf79b06f.yaml
 ./poc/other/instant-appointment.yaml
 ./poc/other/instant-css-0412387de13d8ece6583ed869523ac10.yaml
 ./poc/other/instant-css-ff1b39a89453147dc071f4217c747cea.yaml
@@ -175580,6 +175587,7 @@
 ./poc/sql/CVE-2025-0687-78cb5fb5749fbfbb1fcfef1a562391db.yaml
 ./poc/sql/CVE-2025-0688-61fff138f8dbdefe6b64882e17da16c0.yaml
 ./poc/sql/CVE-2025-0767-b8535020ef87c830cdb9a002dda8d9c0.yaml
+./poc/sql/CVE-2025-0796-3984db72bc9aa8e3030d639ddfebfec4.yaml
 ./poc/sql/CVE-2025-0862-31fa69bf509db8cfcc259c13e68836ff.yaml
 ./poc/sql/CVE-2025-0897-5d58087a9fadbfc8fb174a31da445737.yaml
 ./poc/sql/CVE-2025-0912-9dba286f35fcc45a0ab2b74bd81650eb.yaml

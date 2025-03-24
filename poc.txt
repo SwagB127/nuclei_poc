@@ -106694,6 +106694,7 @@
 ./poc/exposed/information-disclosure-in-js-files_1.yaml
 ./poc/exposed/information-disclosure-in-js-files_2.yaml
 ./poc/exposed/internal-ip-disclosure.yaml
+./poc/exposed/internal-ip-disclosure_1.yaml
 ./poc/exposed/iotawatt-app-exposure-8186.yaml
 ./poc/exposed/iotawatt-app-exposure-8186_1.yaml
 ./poc/exposed/iotawatt-app-exposure-8186_1_1.yaml
@@ -131583,6 +131584,7 @@
 ./poc/other/external-media.yaml
 ./poc/other/external-media_1.yaml
 ./poc/other/external-service-interaction.yaml
+./poc/other/external-service-interaction_1.yaml
 ./poc/other/external-url-as-post-featured-image-thumbnail-2d8e7f9287713c43830e35ee4b510c3c.yaml
 ./poc/other/external-url-as-post-featured-image-thumbnail-b1b3858f6c6047b198d5dfb12da84b43.yaml
 ./poc/other/external-url-as-post-featured-image-thumbnail-d41d8cd98f00b204e9800998ecf8427e.yaml

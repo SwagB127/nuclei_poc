@@ -92992,6 +92992,7 @@
 ./poc/cve/CVE-2025-2319-b5cf02e77b176b1b4fea8b663b8a47c6.yaml
 ./poc/cve/CVE-2025-2325-509fcf3a38cc859cfe357eb3681389c3.yaml
 ./poc/cve/CVE-2025-2331-01302005e9e92f23f48e9affeebf4c54.yaml
+./poc/cve/CVE-2025-2332-81e21ce0c98d7d8ba9a3e96da8bfff08.yaml
 ./poc/cve/CVE-2025-23422-b476aa1e8963bc06ab5777ee68ef3f9a.yaml
 ./poc/cve/CVE-2025-23422.yaml
 ./poc/cve/CVE-2025-23423-5a60f413511788c649d40b260f7d1a23.yaml
@@ -94288,6 +94289,7 @@
 ./poc/cve/CVE-2025-24782-71e184c2543ed8b615459d6920d74980.yaml
 ./poc/cve/CVE-2025-24782.yaml
 ./poc/cve/CVE-2025-2479-897f249d1c3e52ab0870f1e752158274.yaml
+./poc/cve/CVE-2025-2481-9c93bf3450599fee63a07734298cbdf9.yaml
 ./poc/cve/CVE-2025-24810-47c03c99ce90850a9247025edcda2247.yaml
 ./poc/cve/CVE-2025-24810.yaml
 ./poc/cve/CVE-2025-2482-0ac76e6910cd161da5565d709bf8df87.yaml
@@ -156884,6 +156886,7 @@
 ./poc/other/tablepress-32c13893c2404906ff08443b389c0f94.yaml
 ./poc/other/tablepress-697a9390121841b0782fef3e5b3c9075.yaml
 ./poc/other/tablepress-7f790570e9fba62eccb5ffe420d8073f.yaml
+./poc/other/tablepress-96d0d486dda5a0e534fa68e7fd8ad14d.yaml
 ./poc/other/tablepress-b74cc93d0bc2a1c1c7460d9fe636bf86.yaml
 ./poc/other/tablepress.yaml
 ./poc/other/tablepress_1.yaml
@@ -176063,6 +176066,7 @@
 ./poc/sql/CVE-2025-26774-91273dbdfc2fdd391fe6d07b472cd8c6.yaml
 ./poc/sql/CVE-2025-26776-824842b678c082c6a062ee0f73c1db68.yaml
 ./poc/sql/CVE-2025-26778-37446733f9618e49afdb9f42ea7c962c.yaml
+./poc/sql/CVE-2025-2685-e01b0063f19adfadbdae81229f296eff.yaml
 ./poc/sql/CVE-2025-26871-d6b7fcbb45c9eb2a9db4e4a340eaebba.yaml
 ./poc/sql/CVE-2025-26874-dbb53ff9de39e421592c76ebb16cda13.yaml
 ./poc/sql/CVE-2025-26899-f5dbf9616921f8ea385e7ed3c5d8b56a.yaml
@@ -179342,6 +179346,7 @@
 ./poc/sql/media-download-6477bf18cad6c823db485408d49b337b.yaml
 ./poc/sql/media-download-ce9efb79055dbbf79750953bf0665f87.yaml
 ./poc/sql/media-file-organizer-a0e2426b46dbfbb92ded50a097c6f0fe.yaml
+./poc/sql/mediaview-4b1aab0df021a7fd2542badedbda12aa.yaml
 ./poc/sql/mediavine-create-d48bb7971748fc32d8b925c3fe29e6db.yaml
 ./poc/sql/medicenter-0b6975c1bd2cdba9ef154a17d9c0eb3f.yaml
 ./poc/sql/medma-matix-a77b35dd12f11db8b4ef90494a0e24d4.yaml
@@ -194977,6 +194982,7 @@
 ./poc/wordpress/wp-ultimate-exporter-bfce305189b400165eec932ac2abf371.yaml
 ./poc/wordpress/wp-ultimate-exporter-d41d8cd98f00b204e9800998ecf8427e.yaml
 ./poc/wordpress/wp-ultimate-exporter-d4fa3185dc54580011fa14234b68e2a9.yaml
+./poc/wordpress/wp-ultimate-exporter-da6539979031bf61886133a458e9a40e.yaml
 ./poc/wordpress/wp-ultimate-exporter-ec5f3800c40c2ffa2d28271da9d19163.yaml
 ./poc/wordpress/wp-ultimate-exporter-plugin-d41d8cd98f00b204e9800998ecf8427e.yaml
 ./poc/wordpress/wp-ultimate-exporter-plugin.yaml

@@ -69296,6 +69296,7 @@
 ./poc/cve/CVE-2024-11179_1.yaml
 ./poc/cve/CVE-2024-1118-d2488e79cdb18e5fa6f4b114e5fd1973.yaml
 ./poc/cve/CVE-2024-1118.yaml
+./poc/cve/CVE-2024-11180-55c58c0ffb44f88d23000a6b8c0fb9a9.yaml
 ./poc/cve/CVE-2024-11181-c4fe63ba0d26dbd617ef2b28c772fba5.yaml
 ./poc/cve/CVE-2024-11181.yaml
 ./poc/cve/CVE-2024-11183.yaml
@@ -71923,6 +71924,7 @@
 ./poc/cve/CVE-2024-13555.yaml
 ./poc/cve/CVE-2024-13556-ba9d425ec8a9480bf40a1c92dabc62e0.yaml
 ./poc/cve/CVE-2024-13556.yaml
+./poc/cve/CVE-2024-13557-f10c347b4f25b43fd3c0e7dcbce5a836.yaml
 ./poc/cve/CVE-2024-13558-178b6fb0a138936c97fe2e6a6e6eeb65.yaml
 ./poc/cve/CVE-2024-13559-ab8ed32fadad32599b16331b0097df14.yaml
 ./poc/cve/CVE-2024-13559.yaml
@@ -92442,6 +92444,7 @@
 ./poc/cve/CVE-2025-22364.yaml
 ./poc/cve/CVE-2025-22365-1160694039543ff65d9503a1203238cd.yaml
 ./poc/cve/CVE-2025-22365.yaml
+./poc/cve/CVE-2025-2249-b894c04c6e9b219ee63d0cf7f5a41bc0.yaml
 ./poc/cve/CVE-2025-22496-705e03ac2779127caaeea2bc03d35e99.yaml
 ./poc/cve/CVE-2025-22496.yaml
 ./poc/cve/CVE-2025-22497-668e737b34c8e06af5c132c854810ce1.yaml
@@ -92689,6 +92692,7 @@
 ./poc/cve/CVE-2025-22658-87584d424dd3df558422bfc03c7b60ea.yaml
 ./poc/cve/CVE-2025-22658.yaml
 ./poc/cve/CVE-2025-22659.yaml
+./poc/cve/CVE-2025-2266-257b039b00799909296671392b168a25.yaml
 ./poc/cve/CVE-2025-22660-7410bb4fed29eade800f3a5cd0100b4f.yaml
 ./poc/cve/CVE-2025-22660.yaml
 ./poc/cve/CVE-2025-22661-8b099d6c7ac4535c396bd1886cb59d48.yaml
@@ -93140,6 +93144,7 @@
 ./poc/cve/CVE-2025-23517-899caa6b790c998b1d2cafc9695ba99a.yaml
 ./poc/cve/CVE-2025-23518-06526a9d1d47e51bf2bc9d2c8be12df0.yaml
 ./poc/cve/CVE-2025-23520-dc36e5dd7127cd67e1be9f4cdabf411e.yaml
+./poc/cve/CVE-2025-23521-f25e32ef4d9e37d85c4c155876ec19fb.yaml
 ./poc/cve/CVE-2025-23522-962fac666d8453d300772caaea16ea45.yaml
 ./poc/cve/CVE-2025-23522.yaml
 ./poc/cve/CVE-2025-23523-7cda9119272d0a017df2333fc966d0fa.yaml
@@ -94782,8 +94787,10 @@
 ./poc/cve/CVE-2025-27355-09ee2e84d76f2c0ca82308259e8359f4.yaml
 ./poc/cve/CVE-2025-27356-864dd0a5e5942bd8ca0dd6a1091ff80b.yaml
 ./poc/cve/CVE-2025-27357-39a2d6461dfb81971a5197f612d036ba.yaml
+./poc/cve/CVE-2025-2803-f72e388b0172a00e66d00e20e9514d08.yaml
 ./poc/cve/CVE-2025-2804-e4df0b0c9c881b4bd77b2d526ae42d65.yaml
 ./poc/cve/CVE-2025-2815-e890ff9b328cf805d8f96543e68eeda0.yaml
+./poc/cve/CVE-2025-2840-61769f7d610a8a8c932d076e557c5e33.yaml
 ./poc/cve/CVE-2025-28856-7f4e546968ffa768e8b6e2b439d80c95.yaml
 ./poc/cve/CVE-2025-28857-8cf9646b5cc79f4977a0eb2447beaf0b.yaml
 ./poc/cve/CVE-2025-28859-447d3eb4d986de0381ec71687724a238.yaml
@@ -127186,6 +127193,7 @@
 ./poc/other/dans-gcal.yaml
 ./poc/other/dans-gcal_1.yaml
 ./poc/other/danswer-panel.yaml
+./poc/other/dap-to-autoresponders-daar-6a8bc9484682136aaafbb3f1328508b0.yaml
 ./poc/other/dapr_dashboard.yaml
 ./poc/other/dar-8000-10_firmware.yaml
 ./poc/other/darcie-664bb5b2e3ae0182307d90c1010a7f68.yaml
@@ -130005,6 +130013,7 @@
 ./poc/other/elementskit-lite-7fd8e09d9291a781ee0154f3599812d5.yaml
 ./poc/other/elementskit-lite-867949d0346982948def17951459986c.yaml
 ./poc/other/elementskit-lite-87ba0a93b883572493426b530fd60dcc.yaml
+./poc/other/elementskit-lite-a345b5155794d2f66d67d7516b0d3b8e.yaml
 ./poc/other/elementskit-lite-a3aa5ef74a57aaefa85454d7e0fc6d31.yaml
 ./poc/other/elementskit-lite-b3b8e1d749289c31731fcce504a6de4c.yaml
 ./poc/other/elementskit-lite-bd925d55e3af63aa14a4f679dc732aa7.yaml
@@ -154929,6 +154938,7 @@
 ./poc/other/so-audible-plugin_1.yaml
 ./poc/other/so-audible.yaml
 ./poc/other/so-audible_1.yaml
+./poc/other/so-called-air-quotes-1a5f0bfd01dd25051d95cf2e91103c92.yaml
 ./poc/other/so-pinyin-slugs-f2aa28aa0471358187c21cf264a89ea0.yaml
 ./poc/other/so-pinyin-slugs.yaml
 ./poc/other/so-pinyin-slugs_1.yaml
@@ -154991,6 +155001,7 @@
 ./poc/other/soisy-pagamento-rateale-c5d4d639573497519eabfcc5f40c1297.yaml
 ./poc/other/soisy-pagamento-rateale.yaml
 ./poc/other/soisy-pagamento-rateale_1.yaml
+./poc/other/soj-soundslides-ea7f8f11e7ca486e9a5bbb5498e9a574.yaml
 ./poc/other/sola-newsletters.yaml
 ./poc/other/sola-newsletters_1.yaml
 ./poc/other/sola-support-tickets-1bffe25930754329d14a4fef01783a53.yaml
@@ -175012,6 +175023,7 @@
 ./poc/sql/CVE-2024-1386-9f49adb4a1553fb7e5f119061067e3f5.yaml
 ./poc/sql/CVE-2024-13879-06d19d5ba0ce373df3a728709f8f92db.yaml
 ./poc/sql/CVE-2024-13880-585bee45e2b993a1db3cdd8d3fae7802.yaml
+./poc/sql/CVE-2024-13883-8bf33fdb7113e2d396a659791a8603f4.yaml
 ./poc/sql/CVE-2024-1415-0a567602e6e0c32096c45bed3d0db7cc.yaml
 ./poc/sql/CVE-2024-1416-1fbac7b679c80623db22edd96247011f.yaml
 ./poc/sql/CVE-2024-1421-97519b87bf12c321edb4755a6f665473.yaml
@@ -175923,6 +175935,7 @@
 ./poc/sql/CVE-2025-1798-a651d34c6eadb34ff1c603f9120d7225.yaml
 ./poc/sql/CVE-2025-1802-4bade7e4913e09ea6f8acb838db29a68.yaml
 ./poc/sql/CVE-2025-1971-55cde5cbdba1d420bab838a9520f6d9c.yaml
+./poc/sql/CVE-2025-2006-096e2fc2fdb3a816b87d3d6af234890e.yaml
 ./poc/sql/CVE-2025-2077-e9d958cdb62dad4a0d1c49dd0d5debe9.yaml
 ./poc/sql/CVE-2025-2106-415b8f07fd76428adbc75937fe628860.yaml
 ./poc/sql/CVE-2025-2164-253ca75564f0a60ffeddb3da007b8db9.yaml
@@ -176061,6 +176074,7 @@
 ./poc/sql/CVE-2025-24750-43d3040449d57c70883dbfc257b7e6b6.yaml
 ./poc/sql/CVE-2025-25077-9d65a814db08a4a9e6c972ec05fd3027.yaml
 ./poc/sql/CVE-2025-25078-6ab3996d4bc8ea1fee47e0fddb3dbff9.yaml
+./poc/sql/CVE-2025-25090-480413b4b3b9dbd4de07728d80dc6d3c.yaml
 ./poc/sql/CVE-2025-25093-5a02d8ba2e36bc265db6232fdb9e65f6.yaml
 ./poc/sql/CVE-2025-25111-db636ffa392013ea812642a59cfcf5ac.yaml
 ./poc/sql/CVE-2025-25141-62a16894badc6db99f09702afa7bf302.yaml
@@ -181316,6 +181330,7 @@
 ./poc/sql/users-ultra-afe17cc7dbca1f37fcf5cff6aa933425.yaml
 ./poc/sql/userswp-c29f62e03d546cc27c6dbe34a5329897.yaml
 ./poc/sql/ut-elementor-addons-lite-554edc02623adb32a16438dabfa2e4f4.yaml
+./poc/sql/ut-shortcodes-11079996e5f2e84d5b6f405db5d4ab04.yaml
 ./poc/sql/v-form-72157eee431fc1ecadbd995b8fbb292d.yaml
 ./poc/sql/v-secure-edr-login-sqli.yaml
 ./poc/sql/v-secure-edr-login-sqli_1.yaml
@@ -184329,6 +184344,7 @@
 ./poc/upload/i-dump-iphone-to-wordpress-photo-uploader.yaml
 ./poc/upload/idocview-2word-fileupload.yaml
 ./poc/upload/image-upload-for-bbpress-2ec6c75eb2d99f471a016ea04782aea5.yaml
+./poc/upload/image-upload-for-bbpress-b176d78a5b6a9131b690d551a957e218.yaml
 ./poc/upload/image-upload-for-bbpress.yaml
 ./poc/upload/image-upload-for-bbpress_1.yaml
 ./poc/upload/images-optimize-and-upload-cf7-2a28757ccdd057248b8450e005b76a5a.yaml
@@ -186917,6 +186933,7 @@
 ./poc/wordpress/checkout-mestres-wp-136f2cf4d56ffec9dd361a96a1da74d2.yaml
 ./poc/wordpress/checkout-mestres-wp-1a8d828e853cdf3a210b684019bb3c39.yaml
 ./poc/wordpress/checkout-mestres-wp-5cbd74bd5a117ea9da787f333cf1de44.yaml
+./poc/wordpress/checkout-mestres-wp-a3f7857adcec429ee99c64580a4e1a76.yaml
 ./poc/wordpress/checkout-mestres-wp.yaml
 ./poc/wordpress/checkout-mestres-wp_1.yaml
 ./poc/wordpress/ckeditor-for-wordpress-699fe29a9be50c03ae4c22d445b3deb4.yaml

@@ -92132,6 +92132,7 @@
 ./poc/cve/CVE-2025-1261-3c3313a1217d514cc68cb84e6778b3c5.yaml
 ./poc/cve/CVE-2025-1262-e5d180b6b1cc660a2492f5fb3e3603c3.yaml
 ./poc/cve/CVE-2025-1262.yaml
+./poc/cve/CVE-2025-1264-849353fdfd3152b0813f3436fd7c149d.yaml
 ./poc/cve/CVE-2025-1267-5ecf2179ab8be73b285f1c8a8ca84e23.yaml
 ./poc/cve/CVE-2025-1282-0fc876fe5de702523a75d6b20c1f9ff5.yaml
 ./poc/cve/CVE-2025-1282.yaml
@@ -122367,6 +122368,7 @@
 ./poc/other/broken-link-checker-plugin-d41d8cd98f00b204e9800998ecf8427e.yaml
 ./poc/other/broken-link-checker-plugin.yaml
 ./poc/other/broken-link-checker-plugin_1.yaml
+./poc/other/broken-link-checker-seo-d69177c4f01d2ad71791196ef7582043.yaml
 ./poc/other/broken-link-checker.yaml
 ./poc/other/broken-link-checker_1.yaml
 ./poc/other/broken-link-checker_2.yaml

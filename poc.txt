@@ -2526,6 +2526,9 @@
 ./poc/auth/directadmin-login-panel_3.yaml
 ./poc/auth/directum-login.yaml
 ./poc/auth/directum-login_1.yaml
+./poc/auth/disable-empty-password.yaml
+./poc/auth/disable-nginx-server-tokens.yaml
+./poc/auth/disable-root-login.yaml
 ./poc/auth/disable-user-login-e081053d3461091ab36b623cc2522dea.yaml
 ./poc/auth/disable-user-login.yaml
 ./poc/auth/disable-user-login_1.yaml
@@ -3379,6 +3382,7 @@
 ./poc/auth/helloasso_1.yaml
 ./poc/auth/heroku-api-key.yaml
 ./poc/auth/heroku-api-key_1.yaml
+./poc/auth/hide-last-login-information.yaml
 ./poc/auth/hide-login-4079b4b86857a312f50c47cb6b3de0f3.yaml
 ./poc/auth/hide-login-page-c1c307d2df7d682116006f73d5e737fe.yaml
 ./poc/auth/hide-login-page.yaml
@@ -110390,6 +110394,7 @@
 ./poc/header/custom-header-images.yaml
 ./poc/header/custom-header-images_1.yaml
 ./poc/header/directory-listing-no-host-header.yaml
+./poc/header/disable-server-header.yaml
 ./poc/header/display-via-header-7015.yaml
 ./poc/header/display-via-header-7016.yaml
 ./poc/header/display-via-header-7017.yaml
@@ -110603,6 +110608,7 @@
 ./poc/http/detect-dns-over-https.yaml
 ./poc/http/dionaea-http-honeypot-detect.yaml
 ./poc/http/dionaea-http-honeypot-detection.yaml
+./poc/http/disable-http-trace-method.yaml
 ./poc/http/drupal_module-hosting_https-access-bypass.yaml
 ./poc/http/dynaweb-httpd.yaml
 ./poc/http/eos-http-browser.yaml
@@ -110704,6 +110710,7 @@
 ./poc/http/mingyuanyun-erp-visitorweb-xmlhttp-sqli.yaml
 ./poc/http/mini-httpd.yaml
 ./poc/http/mjniohttpdaemon.yaml
+./poc/http/mongodb-http-interface-enabled.yaml
 ./poc/http/ms-mfc-httpsvr.yaml
 ./poc/http/multi-http-var-sharing.yaml
 ./poc/http/net-https-timeout.yaml
@@ -115741,6 +115748,9 @@
 ./poc/nginx/hestia-nginx-cache-c9e9a831bc9ec8ed5cbdc16fb02a2961.yaml
 ./poc/nginx/hestia-nginx-cache.yaml
 ./poc/nginx/ingress-nginx-admission.yaml
+./poc/nginx/missing-nginx-bof-protection.yaml
+./poc/nginx/missing-nginx-hsts.yaml
+./poc/nginx/missing-nginx-rate-limit.yaml
 ./poc/nginx/neusoft-senginx.yaml
 ./poc/nginx/nginx-admin-panel.yaml
 ./poc/nginx/nginx-admin-panel_1.yaml
@@ -129642,6 +129652,7 @@
 ./poc/other/disable-comments_2.yaml
 ./poc/other/disable-comments_3.yaml
 ./poc/other/disable-comments_4.yaml
+./poc/other/disable-directory-listing.yaml
 ./poc/other/disable-elementor-editor-translation-23822186f40fbdad518bc48b08ce7862.yaml
 ./poc/other/disable-elementor-editor-translation.yaml
 ./poc/other/disable-gutenberg.yaml
@@ -129652,6 +129663,7 @@
 ./poc/other/disable-image-right-click.yaml
 ./poc/other/disable-image-right-click_1.yaml
 ./poc/other/disable-path-automerge.yaml
+./poc/other/disable-server-signature.yaml
 ./poc/other/disable-update-notifications-8ee51f427b6ac5677236482a75c41622.yaml
 ./poc/other/disable-update-notifications.yaml
 ./poc/other/disable-update-notifications_1.yaml
@@ -169274,6 +169286,7 @@
 ./poc/remote_code_execution/empty-cart-button-for-woocommerce-929c766baf63cd7719861818e441ab29.yaml
 ./poc/remote_code_execution/empty-cart-button-for-woocommerce.yaml
 ./poc/remote_code_execution/empty-cart-button-for-woocommerce_1.yaml
+./poc/remote_code_execution/enforce-server-tokens-prod.yaml
 ./poc/remote_code_execution/enhanced-catalog-images-for-woocommerce-76c6b84ccd9f6bd60eada03675ff7bce.yaml
 ./poc/remote_code_execution/enhanced-catalog-images-for-woocommerce-b7c5fef4e19b4435bd19c7ddc442fdea.yaml
 ./poc/remote_code_execution/enhanced-catalog-images-for-woocommerce.yaml
@@ -182023,6 +182036,8 @@
 ./poc/sql/monalisa-81b006d6ad49305b73fdb0ff51154780.yaml
 ./poc/sql/moneymasters-02a4bc9438adbcdaa5664f021e38f12e.yaml
 ./poc/sql/moneytheme-0560e2fcc6071d361ddbd57a75ed8daf.yaml
+./poc/sql/mongodb-audit-log-disabled.yaml
+./poc/sql/mongodb-auth-disabled.yaml
 ./poc/sql/mongodb-detect-8919.yaml
 ./poc/sql/mongodb-detect-8919_1.yaml
 ./poc/sql/mongodb-detect-8920.yaml
@@ -182044,6 +182059,7 @@
 ./poc/sql/mongodb-ops-manager-8924_1.yaml
 ./poc/sql/mongodb-ops-manager.yaml
 ./poc/sql/mongodb-ops-manager_1.yaml
+./poc/sql/mongodb-ssl-disabled.yaml
 ./poc/sql/mongodb-unauth-8925.yaml
 ./poc/sql/mongodb-unauth-8926.yaml
 ./poc/sql/mongodb-unauth-8926_1.yaml
@@ -185564,6 +185580,11 @@
 ./poc/ssh/ClusterEngine-sysShell-rce.yaml
 ./poc/ssh/bitvise-ssh-detect.yaml
 ./poc/ssh/deprecated-sshv1-detection.yaml
+./poc/ssh/disable-ssh-forwarding.yaml
+./poc/ssh/disable-ssh-protocol-1.yaml
+./poc/ssh/enable-ssh-privilege-separation.yaml
+./poc/ssh/limit-ssh-group.yaml
+./poc/ssh/limit-ssh-users-access.yaml
 ./poc/ssh/obsolete-ssh-version.yaml
 ./poc/ssh/obsolete-ssh-version_1.yaml
 ./poc/ssh/openssh-username-enumeration.yaml
@@ -185579,6 +185600,7 @@
 ./poc/ssh/ssh-cbc-mode-ciphers_1.yaml
 ./poc/ssh/ssh-diffie-hellman-logjam.yaml
 ./poc/ssh/ssh-diffie-hellman-logjam_1.yaml
+./poc/ssh/ssh-key-auth-disabled.yaml
 ./poc/ssh/ssh-known-hosts-1.yaml
 ./poc/ssh/ssh-known-hosts-10524.yaml
 ./poc/ssh/ssh-known-hosts-10524_1.yaml
@@ -185590,6 +185612,7 @@
 ./poc/ssh/ssh-server-fingerprint.yaml
 ./poc/ssh/ssh-sha1-hmac-algo.yaml
 ./poc/ssh/ssh-sha1-hmac-algo_1.yaml
+./poc/ssh/ssh-unrestricted-nonwhitelist.yaml
 ./poc/ssh/ssh-weak-algo-supported.yaml
 ./poc/ssh/ssh-weak-algo-supported_1.yaml
 ./poc/ssh/ssh-weak-mac-algo.yaml
@@ -199766,6 +199789,7 @@
 ./poc/xss/mida-eframework-xss-8869.yaml
 ./poc/xss/mida-eframework-xss-8869_1.yaml
 ./poc/xss/mida-eframework-xss.yaml
+./poc/xss/missing-nginx-xss-protection.yaml
 ./poc/xss/modula-image-gallery-xss.yaml
 ./poc/xss/modula-image-gallery-xss_1.yaml
 ./poc/xss/modula-image-gallery-xss_2.yaml

@@ -118994,6 +118994,7 @@
 ./poc/other/addthis.yaml
 ./poc/other/addthis_1.yaml
 ./poc/other/addthis_2.yaml
+./poc/other/adfinity-panel.yaml
 ./poc/other/adforest-a099498d44e931e7b2e9894bd2f7b2ff.yaml
 ./poc/other/adforest-bdfb6dac253b5f4a7c4c84cc3a7205e6.yaml
 ./poc/other/adforest-e83f34353ce1bb79d2c778a1988f4ca8.yaml
@@ -142167,6 +142168,7 @@
 ./poc/other/landingi-landing-pages.yaml
 ./poc/other/landingi-landing-pages_1.yaml
 ./poc/other/landmark-dus.yaml
+./poc/other/landray-eis-ws-infoleak.yaml
 ./poc/other/landray-oa-file-read.yaml
 ./poc/other/landray-oa-fileread-1.yaml
 ./poc/other/landray-oa-fileread-2.yaml
@@ -169736,6 +169738,7 @@
 ./poc/remote_code_execution/cyberpanel-rce_1.yaml
 ./poc/remote_code_execution/cyberpanel-upgrademysqlstatus-rce.yaml
 ./poc/remote_code_execution/dahua-eims-capture-handle-rce.yaml
+./poc/remote_code_execution/dahua-eims-rce.yaml
 ./poc/remote_code_execution/dahua-icc-fastjson-rce.yaml
 ./poc/remote_code_execution/dahua-icc-random-rce.yaml
 ./poc/remote_code_execution/dahua-icc-random-rce_1.yaml

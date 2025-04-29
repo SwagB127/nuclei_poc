@@ -96481,6 +96481,7 @@
 ./poc/cve/CVE-2025-28926-9b10d708e1e0decd6806daa4b506cba8.yaml
 ./poc/cve/CVE-2025-28927-d536ea1e15dd3e4c932bcfa20c7913ee.yaml
 ./poc/cve/CVE-2025-28928-5c6ff5c44435058a5026e2f1e2e4bb02.yaml
+./poc/cve/CVE-2025-2893-33215ef5b7dffe4deeaba485d49ab850.yaml
 ./poc/cve/CVE-2025-28930-759986c7e7685465a81c2eaabd346e7a.yaml
 ./poc/cve/CVE-2025-28931-37987777ef1152e6256bc1eb3ab58c16.yaml
 ./poc/cve/CVE-2025-28933-77296f82ed6642c422a19389609f1054.yaml
@@ -97556,6 +97557,7 @@
 ./poc/cve/CVE-2025-3436-8b516bd62c4b5380cc58048d41c7f338.yaml
 ./poc/cve/CVE-2025-3437-cf4eae6e06a82df4abf9c33afb887b2d.yaml
 ./poc/cve/CVE-2025-3439-d130bc7cc13a25e1a1015261c851761a.yaml
+./poc/cve/CVE-2025-3452-03eea27f8cad493c4540b9334b9810cd.yaml
 ./poc/cve/CVE-2025-3453-3918721ada16889f7d7ba4237d89f1e8.yaml
 ./poc/cve/CVE-2025-3457-2dd9ee2da470b11c35566b9708591082.yaml
 ./poc/cve/CVE-2025-3458-03e905d5d1fc8f0ef3f7d52c344365e3.yaml
@@ -139753,6 +139755,7 @@
 ./poc/other/gutentor-dcb5508a92c5e0f467ea490239f0624b.yaml
 ./poc/other/gutentor.yaml
 ./poc/other/gutentor_1.yaml
+./poc/other/gutenverse-2f0f28c58874e6d681c38cb5ff80f540.yaml
 ./poc/other/gutenverse-40a79e4610379f5cd721264ce32ca881.yaml
 ./poc/other/gutenverse-6f744d9cd8863d765631de4d3721f56e.yaml
 ./poc/other/gutenverse-d18f386a56dccce0e578f26d0a128ebd.yaml
@@ -156684,6 +156687,7 @@
 ./poc/other/section-slider.yaml
 ./poc/other/section-slider_1.yaml
 ./poc/other/secupress-1607cf7b729abff298aa7654ae9c6870.yaml
+./poc/other/secupress-6a01cc934d1acab80f836817b272a7c7.yaml
 ./poc/other/secupress-912d00dd42bce17255511cae0928513b.yaml
 ./poc/other/secupress-98c80aabe75f51be4e1007554cf5520d.yaml
 ./poc/other/secupress-cc37492f3deae39fc7a7815d81d7c15e.yaml
@@ -180790,6 +180794,7 @@
 ./poc/sql/CVE-2024-53721-b5cfee65491f0247c2f1fdb0949e9d6f.yaml
 ./poc/sql/CVE-2024-53726-1e919e9d2a69b020a76e46d4db30570d.yaml
 ./poc/sql/CVE-2024-53745-5b88f5f8304e8fddbc476a349ec52bdb.yaml
+./poc/sql/CVE-2024-53749-247436611da9f1a8948736db0bd87180.yaml
 ./poc/sql/CVE-2024-53759-dbad57d1fe7a81773ada836f186bcbb3.yaml
 ./poc/sql/CVE-2024-53786-e41d57d430f469f2f89c135637eddbf0.yaml
 ./poc/sql/CVE-2024-53790-4ea0f5d6a4c4995649db61ceb9cfefd1.yaml
@@ -202015,6 +202020,7 @@
 ./poc/wordpress/wplms-plugin.yaml
 ./poc/wordpress/wplms-theme.yaml
 ./poc/wordpress/wplms.yaml
+./poc/wordpress/wplms_plugin-7ff2543f0be20f9bc375fb206ac28fa4.yaml
 ./poc/wordpress/wplocalplaces-44551ba5e1fbb4037b7f8d06ce3925d9.yaml
 ./poc/wordpress/wplocalplaces-8a22a2e826d85c0de99cb8f6a3fd4ed2.yaml
 ./poc/wordpress/wplocalplaces-cff242503332880b148546730a9ed50b.yaml

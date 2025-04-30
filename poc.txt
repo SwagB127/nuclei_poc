@@ -97680,6 +97680,7 @@
 ./poc/cve/CVE-2025-39527-e2e5bd81bbe9792577b149d82886f183.yaml
 ./poc/cve/CVE-2025-39528-006c9f3ac898f2aaf15219747b82d3ea.yaml
 ./poc/cve/CVE-2025-39529-f6e0189910e85c595f52534036473d91.yaml
+./poc/cve/CVE-2025-3953-d5fd94e6c8c34cc618d1b4853e25431a.yaml
 ./poc/cve/CVE-2025-39530-f4cc0bf743508243f10d21083f472652.yaml
 ./poc/cve/CVE-2025-39533-d2dd03368d5f3c2f2ed65c179da6d70c.yaml
 ./poc/cve/CVE-2025-39535-6b503faf65838f88465a8b57ddf61b66.yaml
@@ -157149,9 +157150,11 @@
 ./poc/other/seq-dashboard-unath.yaml
 ./poc/other/sequel-6b7d4af40cf0f93b8a0c9eebed207426.yaml
 ./poc/other/seraphinite-accelerator-156ac746f0e80d71dd86392ae25defe1.yaml
+./poc/other/seraphinite-accelerator-1fb61fe7e295099f159e19fff14c01fb.yaml
 ./poc/other/seraphinite-accelerator-786f780ca2d9851bcf290ad838c91b1d.yaml
 ./poc/other/seraphinite-accelerator-7b47964141508c9a920ebd54c423fbf1.yaml
 ./poc/other/seraphinite-accelerator-7f3919973096ab79ec3577b4313ba522.yaml
+./poc/other/seraphinite-accelerator-b1e3c529f94c5facecf312952175a191.yaml
 ./poc/other/seraphinite-accelerator-eaf17b2b7f36fcc54e0c51563f225560.yaml
 ./poc/other/seraphinite-accelerator-ext-d82b60d3f02d2d3fe17bb79ac98ebf36.yaml
 ./poc/other/seraphinite-accelerator-ext.yaml
@@ -161875,6 +161878,7 @@
 ./poc/other/td-composer_1.yaml
 ./poc/other/td-composer_2.yaml
 ./poc/other/td-subscription-21e7baa1b7c412504f0433c9bff1a447.yaml
+./poc/other/td-subscription-24bd043cf2467311425855aaf2c13939.yaml
 ./poc/other/td-subscription-c3a66b27b1645f7f4a0f62b606bb52e5.yaml
 ./poc/other/td-subscription.yaml
 ./poc/other/teachpress-4e522784c40b3ab5d7d55de940d15b75.yaml
@@ -181284,6 +181288,7 @@
 ./poc/sql/CVE-2025-28874-db22feb3f62a7268c8bc73360fc13546.yaml
 ./poc/sql/CVE-2025-28877-4704f3ca1c82032290aed50fdb3af5ba.yaml
 ./poc/sql/CVE-2025-28893-c40fcb3bc92f2914bfd737dbd9b7c657.yaml
+./poc/sql/CVE-2025-2890-dbb48c2bd6fed7c839702c6a0b2cf760.yaml
 ./poc/sql/CVE-2025-28906-c992fadb03769fdc10446859f2c4eca9.yaml
 ./poc/sql/CVE-2025-28909-3ba60c7af3a17508db6d225cfbc827e3.yaml
 ./poc/sql/CVE-2025-2891-52f6880b63fdb7f4568b94d76fd9ac25.yaml
@@ -200324,6 +200329,7 @@
 ./poc/wordpress/wp-statistics-315896a15baa7dad7359362607cbcb34.yaml
 ./poc/wordpress/wp-statistics-318aab9d5b4ef4591308f7aa2fc849a1.yaml
 ./poc/wordpress/wp-statistics-38e5a93565b800abaa98c72c040e294e.yaml
+./poc/wordpress/wp-statistics-3e617a715782708a21d1367766d198a0.yaml
 ./poc/wordpress/wp-statistics-3e6ade33f198e2c1483325fc9bfd6f2b.yaml
 ./poc/wordpress/wp-statistics-45fa54389ce858071a0c0b3cff7eda6d.yaml
 ./poc/wordpress/wp-statistics-4829e52d1d9594be92262174ec5041e8.yaml

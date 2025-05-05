@@ -71041,6 +71041,7 @@
 ./poc/cve/CVE-2024-1161.yaml
 ./poc/cve/CVE-2024-11613-5cb2b6598db48b03a55a2cdc979e7301.yaml
 ./poc/cve/CVE-2024-11613.yaml
+./poc/cve/CVE-2024-11615-0a41807b5662b9df917562d4d6747521.yaml
 ./poc/cve/CVE-2024-1161_1.yaml
 ./poc/cve/CVE-2024-1162-0c1ebc2bdfce0f3620fa5b24e84c3c42.yaml
 ./poc/cve/CVE-2024-1162.yaml
@@ -135035,6 +135036,7 @@
 ./poc/other/envo-extra_2.yaml
 ./poc/other/envo-multipurpose-9c8c8faa33c1fd1b8bca48695eca1ed1.yaml
 ./poc/other/envo-multipurpose.yaml
+./poc/other/envolve-plugin-a96a58f29eebbcc2f7c23fff5b453e79.yaml
 ./poc/other/eonet-manual-user-approve-78af3358073a70e67373d1a1c75cd001.yaml
 ./poc/other/eonet-manual-user-approve.yaml
 ./poc/other/eonet-manual-user-approve_1.yaml

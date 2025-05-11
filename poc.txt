@@ -39343,6 +39343,7 @@
 ./poc/cve/CVE-2022-1119_3.yaml
 ./poc/cve/CVE-2022-1119_3_1.yaml
 ./poc/cve/CVE-2022-1119_4.yaml
+./poc/cve/CVE-2022-1119_6.yaml
 ./poc/cve/CVE-2022-1123-b00dc65af2ec5e68d14ebb1ac10ceae9.yaml
 ./poc/cve/CVE-2022-1123.yaml
 ./poc/cve/CVE-2022-1123_1.yaml
@@ -41229,6 +41230,7 @@
 ./poc/cve/CVE-2022-22965_2.yaml
 ./poc/cve/CVE-2022-22965_2_1.yaml
 ./poc/cve/CVE-2022-22965_3.yaml
+./poc/cve/CVE-2022-22965_5.yaml
 ./poc/cve/CVE-2022-22968.yaml
 ./poc/cve/CVE-2022-22972.yaml
 ./poc/cve/CVE-2022-22972_1.yaml
@@ -53723,6 +53725,7 @@
 ./poc/cve/CVE-2023-23752_2.yaml
 ./poc/cve/CVE-2023-23752_2_1.yaml
 ./poc/cve/CVE-2023-23752_3.yaml
+./poc/cve/CVE-2023-23752_5.yaml
 ./poc/cve/CVE-2023-23785-e8d562b70edac8dabd2c9dfe228bca1b.yaml
 ./poc/cve/CVE-2023-23785.yaml
 ./poc/cve/CVE-2023-23785_1.yaml
@@ -174505,6 +174508,7 @@
 ./poc/remote_code_execution/apache-ofbiz-log4j-rce_1.yaml
 ./poc/remote_code_execution/apache-ofbiz-log4j-rce_2.yaml
 ./poc/remote_code_execution/apache-ofbiz-log4j-rce_2_1.yaml
+./poc/remote_code_execution/apache-ofbiz-log4j-rce_5.yaml
 ./poc/remote_code_execution/apache-redmine-rce.yaml
 ./poc/remote_code_execution/apache-solr-91-rce.yaml
 ./poc/remote_code_execution/apache-solr-91-rce_1.yaml

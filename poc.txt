@@ -730,6 +730,7 @@
 ./poc/api/gitlab-api-user-enum_1.yaml
 ./poc/api/gitlab-api-user-enum_2.yaml
 ./poc/api/gitlab-api-user-enum_3.yaml
+./poc/api/gitlab-api-user-enum_5.yaml
 ./poc/api/gitlab-user-open-api-7702.yaml
 ./poc/api/gitlab-user-open-api-7702_1.yaml
 ./poc/api/gitlab-user-open-api.yaml
@@ -99889,6 +99890,7 @@
 ./poc/cve/CVE-2025-4127-a091742faad5e56b4a7f9aa37450c8a3.yaml
 ./poc/cve/CVE-2025-4131-7b9d39694a689e83ae39c8f45f027ce9.yaml
 ./poc/cve/CVE-2025-4168-18c5a082adc2f969d53d6bf5a04a9737.yaml
+./poc/cve/CVE-2025-4169-ae9f1f187536df61ae76012f4dab908f.yaml
 ./poc/cve/CVE-2025-4170-234aaef88126c8830eaaa276cd1025f5.yaml
 ./poc/cve/CVE-2025-4171-162ca68f019c63a25b3f1acdefe64b4d.yaml
 ./poc/cve/CVE-2025-4172-b8c57f0f800326ea006bd515a3a5fd99.yaml
@@ -153339,6 +153341,7 @@
 ./poc/other/open-proxy-external_1.yaml
 ./poc/other/open-proxy-external_2.yaml
 ./poc/other/open-proxy-external_3.yaml
+./poc/other/open-proxy-localhost-9291.yaml
 ./poc/other/open-rdw-kenteken-voertuiginformatie-3752954a43659b9482b98a260268ba41.yaml
 ./poc/other/open-rdw-kenteken-voertuiginformatie.yaml
 ./poc/other/open-rdw-kenteken-voertuiginformatie_1.yaml
@@ -156259,6 +156262,7 @@
 ./poc/other/posts-like-dislike-plugin_1.yaml
 ./poc/other/posts-like-dislike.yaml
 ./poc/other/posts-like-dislike_1.yaml
+./poc/other/posts-per-cat-73fc3cb91bc18a87e1532a2cb417a215.yaml
 ./poc/other/posts-reminder-47dd7e2c370f0befba82630284b450bc.yaml
 ./poc/other/posts-reminder.yaml
 ./poc/other/posts-table-filterable-3da7b2fe281a9e3dfcb945e6823b8d30.yaml

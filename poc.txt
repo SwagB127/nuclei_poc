@@ -106,6 +106,7 @@
 ./poc/adobe/aem-crx-package-manager_2.yaml
 ./poc/adobe/aem-crx-package-manager_3.yaml
 ./poc/adobe/aem-crx-package-manager_3_1.yaml
+./poc/adobe/aem-crx-package-manager_4.yaml
 ./poc/adobe/aem-crx-search.yaml
 ./poc/adobe/aem-crx-search_1.yaml
 ./poc/adobe/aem-crx-search_2.yaml
@@ -236,6 +237,7 @@
 ./poc/adobe/aem-hash-querybuilder_1.yaml
 ./poc/adobe/aem-hash-querybuilder_2.yaml
 ./poc/adobe/aem-hash-querybuilder_3.yaml
+./poc/adobe/aem-hash-querybuilder_4.yaml
 ./poc/adobe/aem-jcr-querybuilder-162.yaml
 ./poc/adobe/aem-jcr-querybuilder-165.yaml
 ./poc/adobe/aem-jcr-querybuilder-165_1.yaml
@@ -364,6 +366,7 @@
 ./poc/airflow/airflow-panel.yaml
 ./poc/airflow/airflow-panel_1.yaml
 ./poc/airflow/airflow-panel_2.yaml
+./poc/airflow/airflow-panel_3.yaml
 ./poc/airflow/airflow.yaml
 ./poc/airflow/unauthenticated-airflow-10884.yaml
 ./poc/airflow/unauthenticated-airflow-10884_1.yaml
@@ -536,6 +539,7 @@
 ./poc/api/alfacgiapi-wordpress-255.yaml
 ./poc/api/alfacgiapi-wordpress-255_1.yaml
 ./poc/api/alfacgiapi-wordpress-256.yaml
+./poc/api/alfacgiapi-wordpress-256_1.yaml
 ./poc/api/alfacgiapi-wordpress-257.yaml
 ./poc/api/alfacgiapi-wordpress-257_1.yaml
 ./poc/api/alfacgiapi-wordpress-257_1_1.yaml
@@ -730,6 +734,7 @@
 ./poc/api/gitlab-api-user-enum_1.yaml
 ./poc/api/gitlab-api-user-enum_2.yaml
 ./poc/api/gitlab-api-user-enum_3.yaml
+./poc/api/gitlab-api-user-enum_4.yaml
 ./poc/api/gitlab-api-user-enum_5.yaml
 ./poc/api/gitlab-user-open-api-7702.yaml
 ./poc/api/gitlab-user-open-api-7702_1.yaml
@@ -741,6 +746,7 @@
 ./poc/api/google-api-private-key.yaml
 ./poc/api/google-api-private-key_1.yaml
 ./poc/api/google-api-private-key_2.yaml
+./poc/api/google-api-private-key_3.yaml
 ./poc/api/google-cloud-api-key.yaml
 ./poc/api/grafana_with_prometheus_api_proxy.yaml
 ./poc/api/grafana_with_prometheus_api_proxy_1.yaml
@@ -789,12 +795,14 @@
 ./poc/api/kube-api-deployments-8504_1.yaml
 ./poc/api/kube-api-deployments-8504_2.yaml
 ./poc/api/kube-api-deployments.yaml
+./poc/api/kube-api-deployments_1.yaml
 ./poc/api/kube-api-namespaces-8505.yaml
 ./poc/api/kube-api-namespaces-8505_1.yaml
 ./poc/api/kube-api-namespaces-8506.yaml
 ./poc/api/kube-api-namespaces-8506_1.yaml
 ./poc/api/kube-api-namespaces.yaml
 ./poc/api/kube-api-namespaces_1.yaml
+./poc/api/kube-api-namespaces_2.yaml
 ./poc/api/kube-api-nodes-8507.yaml
 ./poc/api/kube-api-nodes-8507_1.yaml
 ./poc/api/kube-api-nodes-8508.yaml
@@ -855,6 +863,7 @@
 ./poc/api/mikrotik-routeros-api-detect.yaml
 ./poc/api/mikrotik-routeros-api.yaml
 ./poc/api/mikrotik-routeros-api_1.yaml
+./poc/api/mikrotik-routeros-api_2.yaml
 ./poc/api/mingyuanyun-ERP-upload-ApiUpdate.yaml
 ./poc/api/mingyuanyun-erp-apiupdate-ashx-fileupload.yaml
 ./poc/api/mingyuanyun-erp-apiupdate-ashx-fileupload_1.yaml
@@ -1165,6 +1174,7 @@
 ./poc/atlassian/atlassian-bamboo-panel.yaml
 ./poc/atlassian/atlassian-bamboo-panel_1.yaml
 ./poc/atlassian/atlassian-bamboo-panel_2.yaml
+./poc/atlassian/atlassian-bamboo-panel_3.yaml
 ./poc/atlassian/atlassian-bamboo-setup-wizard.yaml
 ./poc/atlassian/atlassian-bamboo-setup-wizard_1.yaml
 ./poc/atlassian/atlassian-bamboo-setup-wizard_2.yaml
@@ -1181,6 +1191,7 @@
 ./poc/atlassian/atlassian-crowd-panel_1.yaml
 ./poc/atlassian/atlassian-crowd-panel_2.yaml
 ./poc/atlassian/atlassian-crowd-panel_3.yaml
+./poc/atlassian/atlassian-crowd-panel_4.yaml
 ./poc/atlassian/bamboo-columns-e2d997f74c42c2c8a5f10e34c8968b13.yaml
 ./poc/atlassian/bamboo-columns.yaml
 ./poc/atlassian/bamboo-columns_1.yaml
@@ -1420,6 +1431,7 @@
 ./poc/auth/acemanager-login_1.yaml
 ./poc/auth/acemanager-login_2.yaml
 ./poc/auth/acemanager-login_3.yaml
+./poc/auth/acemanager-login_4.yaml
 ./poc/auth/activemq-default-login-44.yaml
 ./poc/auth/activemq-default-login-46.yaml
 ./poc/auth/activemq-default-login-46_1.yaml
@@ -1522,6 +1534,7 @@
 ./poc/auth/aem-sling-login_1.yaml
 ./poc/auth/aem-sling-login_2.yaml
 ./poc/auth/aem-sling-login_3.yaml
+./poc/auth/aem-sling-login_4.yaml
 ./poc/auth/afterlogic-webmail-login.yaml
 ./poc/auth/age-public-key.yaml
 ./poc/auth/age-public-key_1.yaml
@@ -2119,6 +2132,7 @@
 ./poc/auth/casdoor-login_1.yaml
 ./poc/auth/casdoor-login_2.yaml
 ./poc/auth/casdoor-login_3.yaml
+./poc/auth/casdoor-login_4.yaml
 ./poc/auth/casdoor-unauth-operations.yaml
 ./poc/auth/casdoor-users-password.yaml
 ./poc/auth/casdoor-users-password_1.yaml
@@ -2325,6 +2339,7 @@
 ./poc/auth/composer-auth-json_3.yaml
 ./poc/auth/composer-auth-json_3_1.yaml
 ./poc/auth/composer-auth-json_4.yaml
+./poc/auth/composer-auth-json_5.yaml
 ./poc/auth/comtrend-password-exposure-1166.yaml
 ./poc/auth/comtrend-password-exposure-1168.yaml
 ./poc/auth/comtrend-password-exposure.yaml
@@ -2477,6 +2492,7 @@
 ./poc/auth/credentials-json_3.yaml
 ./poc/auth/credentials-json_3_1.yaml
 ./poc/auth/credentials-json_4.yaml
+./poc/auth/credentials-json_5.yaml
 ./poc/auth/credit-card-number-detect.yaml
 ./poc/auth/credit-tracker-2fde541f2278766f1674a8e26eb35024.yaml
 ./poc/auth/credit-tracker.yaml
@@ -3344,6 +3360,7 @@
 ./poc/auth/get-access-token-json_3.yaml
 ./poc/auth/get-access-token-json_3_1.yaml
 ./poc/auth/get-access-token-json_4.yaml
+./poc/auth/get-access-token-json_5.yaml
 ./poc/auth/git-credentials-7643.yaml
 ./poc/auth/git-credentials-7643_1.yaml
 ./poc/auth/git-credentials-7644.yaml
@@ -3586,6 +3603,7 @@
 ./poc/auth/grafana-key_1.yaml
 ./poc/auth/grafana-login-check.yaml
 ./poc/auth/grafana-login-check_1.yaml
+./poc/auth/grafana-login-check_2.yaml
 ./poc/auth/grafana-public-signup-7814.yaml
 ./poc/auth/grafana-public-signup-7814_1.yaml
 ./poc/auth/grafana-public-signup-7816.yaml
@@ -3597,6 +3615,7 @@
 ./poc/auth/grafana-public-signup_2.yaml
 ./poc/auth/grafana-public-signup_3.yaml
 ./poc/auth/grafana-public-signup_4.yaml
+./poc/auth/grafana-public-signup_5.yaml
 ./poc/auth/grafana-serviceaccount-token.yaml
 ./poc/auth/grafana-serviceaccount-token_1.yaml
 ./poc/auth/graphite-browser-default-credential.yaml
@@ -3608,6 +3627,7 @@
 ./poc/auth/gryphon-login_1.yaml
 ./poc/auth/gryphon-login_2.yaml
 ./poc/auth/gryphon-login_3.yaml
+./poc/auth/gryphon-login_4.yaml
 ./poc/auth/gt-ac2900-login(1).yaml
 ./poc/auth/gt-ac2900-login(1)_1.yaml
 ./poc/auth/guacamole-default-login-7858.yaml
@@ -3801,6 +3821,7 @@
 ./poc/auth/huawei-router-auth-bypass_1.yaml
 ./poc/auth/huawei-router-auth-bypass_2.yaml
 ./poc/auth/huawei-router-auth-bypass_3.yaml
+./poc/auth/huawei-router-auth-bypass_4.yaml
 ./poc/auth/huawei_auth_http_fileread.yaml
 ./poc/auth/hue-default-credential-8080.yaml
 ./poc/auth/hue-default-credential-8080_1.yaml
@@ -7043,6 +7064,7 @@
 ./poc/auth/unauth-xproxy-dashboard-10968.yaml
 ./poc/auth/unauth-xproxy-dashboard-10968_1.yaml
 ./poc/auth/unauth-xproxy-dashboard-10969.yaml
+./poc/auth/unauth-xproxy-dashboard-10969_1.yaml
 ./poc/auth/unauth-xproxy-dashboard.yaml
 ./poc/auth/unauth-xproxy-dashboard_1.yaml
 ./poc/auth/unauth-xproxy-dashboard_2.yaml
@@ -8246,6 +8268,7 @@
 ./poc/aws/aws-bucket-takeover-632.yaml
 ./poc/aws/aws-bucket-takeover.yaml
 ./poc/aws/aws-bucket-takeover_1.yaml
+./poc/aws/aws-bucket-takeover_2.yaml
 ./poc/aws/aws-cdn-by-wpadmin-975bccdb766488fb23747f51954fe8b7.yaml
 ./poc/aws/aws-cdn-by-wpadmin.yaml
 ./poc/aws/aws-cloudfront-service-634.yaml
@@ -8284,6 +8307,7 @@
 ./poc/aws/aws-object-listing_1.yaml
 ./poc/aws/aws-object-listing_2.yaml
 ./poc/aws/aws-object-listing_3.yaml
+./poc/aws/aws-object-listing_4.yaml
 ./poc/aws/aws-opensearch-login-649.yaml
 ./poc/aws/aws-opensearch-login-649_1.yaml
 ./poc/aws/aws-opensearch-login-650.yaml
@@ -8336,6 +8360,7 @@
 ./poc/aws/awstats-script.yaml
 ./poc/aws/awstats-script_1.yaml
 ./poc/aws/awstats-script_2.yaml
+./poc/aws/awstats-script_3.yaml
 ./poc/aws/ayecode-connect-3ab2855db0ac6eeec2c8f4d386e25eac.yaml
 ./poc/aws/ays-facebook-popup-likebox-4d80be371c08993d257d71a67ec23c4b.yaml
 ./poc/aws/better-search-replace-3c2ec25fea844f5749225ba954a54953.yaml
@@ -9096,6 +9121,7 @@
 ./poc/backup/zip-backup-files.yaml
 ./poc/backup/zip-backup-files_1.yaml
 ./poc/backup/zip-backup-files_1_1.yaml
+./poc/backup/zip-backup-files_2.yaml
 ./poc/backup/zip-backup-files_3.yaml
 ./poc/cisco/cisco-ace-device-manager-929.yaml
 ./poc/cisco/cisco-ace-device-manager-931.yaml
@@ -9106,6 +9132,7 @@
 ./poc/cisco/cisco-anyconnect-vpn_2.yaml
 ./poc/cisco/cisco-anyconnect-vpn_3.yaml
 ./poc/cisco/cisco-asa-detect.yaml
+./poc/cisco/cisco-asa-detect_1.yaml
 ./poc/cisco/cisco-asa-honeypot-detection.yaml
 ./poc/cisco/cisco-asa-panel-932.yaml
 ./poc/cisco/cisco-asa-panel-934.yaml
@@ -9114,6 +9141,7 @@
 ./poc/cisco/cisco-asa-panel_1.yaml
 ./poc/cisco/cisco-asa-panel_2.yaml
 ./poc/cisco/cisco-asa-panel_3.yaml
+./poc/cisco/cisco-asa-panel_4.yaml
 ./poc/cisco/cisco-asa-version.yaml
 ./poc/cisco/cisco-broadworks-log4j-rce.yaml
 ./poc/cisco/cisco-broadworks-log4j-rce_1.yaml
@@ -9166,6 +9194,7 @@
 ./poc/cisco/cisco-sd-wan_1.yaml
 ./poc/cisco/cisco-sd-wan_2.yaml
 ./poc/cisco/cisco-sd-wan_3.yaml
+./poc/cisco/cisco-sd-wan_4.yaml
 ./poc/cisco/cisco-secure-cn-958.yaml
 ./poc/cisco/cisco-secure-cn.yaml
 ./poc/cisco/cisco-secure-cn_1.yaml
@@ -9174,6 +9203,7 @@
 ./poc/cisco/cisco-secure-desktop.yaml
 ./poc/cisco/cisco-secure-desktop_1.yaml
 ./poc/cisco/cisco-secure-desktop_2.yaml
+./poc/cisco/cisco-secure-desktop_3.yaml
 ./poc/cisco/cisco-security-details.yaml
 ./poc/cisco/cisco-security-details_1.yaml
 ./poc/cisco/cisco-sendgrid-965.yaml
@@ -9196,6 +9226,7 @@
 ./poc/cisco/cisco-ucs-director-panel-detect_1.yaml
 ./poc/cisco/cisco-ucs-director.yaml
 ./poc/cisco/cisco-ucs-kvm-login.yaml
+./poc/cisco/cisco-ucs-kvm-login_1.yaml
 ./poc/cisco/cisco-unified-communications-log4j.yaml
 ./poc/cisco/cisco-unified-communications-log4j_1.yaml
 ./poc/cisco/cisco-unified-communications-log4j_2.yaml
@@ -9204,6 +9235,7 @@
 ./poc/cisco/cisco-unity-express-panel-detect.yaml
 ./poc/cisco/cisco-unity-panel.yaml
 ./poc/cisco/cisco-unity-panel_1.yaml
+./poc/cisco/cisco-unity-panel_2.yaml
 ./poc/cisco/cisco-vmanage-log4j.yaml
 ./poc/cisco/cisco-vmanage-log4j_1.yaml
 ./poc/cisco/cisco-vmanage-log4j_1_1.yaml
@@ -9211,6 +9243,7 @@
 ./poc/cisco/cisco-vmanage-log4j_3.yaml
 ./poc/cisco/cisco-vmanage-log4j_3_1.yaml
 ./poc/cisco/cisco-vmanage-log4j_4.yaml
+./poc/cisco/cisco-vmanage-log4j_5.yaml
 ./poc/cisco/cisco-vmanage-login.yaml
 ./poc/cisco/cisco-vpn-FileRead.yaml
 ./poc/cisco/cisco-vpn-FileRead_1.yaml
@@ -9491,8 +9524,10 @@
 ./poc/cnvd/cnvd-2019-06255-1050.yaml
 ./poc/cnvd/cnvd-2019-17294.yaml
 ./poc/cnvd/cnvd-2019-19299-1051.yaml
+./poc/cnvd/cnvd-2019-19299-1051_1.yaml
 ./poc/cnvd/cnvd-2019-19299-1052.yaml
 ./poc/cnvd/cnvd-2019-32204-1053.yaml
+./poc/cnvd/cnvd-2019-32204-1053_1.yaml
 ./poc/cnvd/cnvd-2019-32204-1054.yaml
 ./poc/cnvd/cnvd-2020-23735-1055.yaml
 ./poc/cnvd/cnvd-2020-23735-1055_1.yaml
@@ -9523,6 +9558,7 @@
 ./poc/cnvd/cnvd-2020-68596-1076.yaml
 ./poc/cnvd/cnvd-2021-01627.yaml
 ./poc/cnvd/cnvd-2021-01931-1077.yaml
+./poc/cnvd/cnvd-2021-01931-1077_1.yaml
 ./poc/cnvd/cnvd-2021-01931-1078.yaml
 ./poc/cnvd/cnvd-2021-01931-1079.yaml
 ./poc/cnvd/cnvd-2021-09650-1080.yaml
@@ -9604,6 +9640,7 @@
 ./poc/coldfusion/coldfusion-administrator-login-1147.yaml
 ./poc/coldfusion/coldfusion-administrator-login.yaml
 ./poc/coldfusion/coldfusion-administrator-login_1.yaml
+./poc/coldfusion/coldfusion-administrator-login_2.yaml
 ./poc/coldfusion/coldfusion-d41d8cd98f00b204e9800998ecf8427e.yaml
 ./poc/coldfusion/coldfusion-debug-xss-1.yaml
 ./poc/coldfusion/coldfusion-debug-xss-1152.yaml
@@ -9672,6 +9709,7 @@
 ./poc/config/apache-config-344.yaml
 ./poc/config/apache-config.yaml
 ./poc/config/apache-config_1.yaml
+./poc/config/apache-config_2.yaml
 ./poc/config/apache-ozone-conf.yaml
 ./poc/config/apache-pinot-config.yaml
 ./poc/config/appveyor-configuration-file.yaml
@@ -9723,6 +9761,7 @@
 ./poc/config/cisco-network-config-951.yaml
 ./poc/config/cisco-network-config.yaml
 ./poc/config/cisco-network-config_1.yaml
+./poc/config/cisco-network-config_2.yaml
 ./poc/config/cloud-config.yaml
 ./poc/config/cloud-config_1.yaml
 ./poc/config/cloud-config_2.yaml
@@ -9809,9 +9848,11 @@
 ./poc/config/confluence-detect_1.yaml
 ./poc/config/confluence-detect_2.yaml
 ./poc/config/confluence-detect_3.yaml
+./poc/config/confluence-detect_4.yaml
 ./poc/config/confluence-installer.yaml
 ./poc/config/confluence-oauth-admin.yaml
 ./poc/config/confluence-oauth-admin_1.yaml
+./poc/config/confluence-ssrf-sharelinks-1190.yaml
 ./poc/config/confluence-ssrf-sharelinks-1193.yaml
 ./poc/config/confluence-ssrf-sharelinks.yaml
 ./poc/config/confluence-ssrf-sharelinks_1.yaml
@@ -9830,6 +9871,7 @@
 ./poc/config/cors-misconfig.yaml
 ./poc/config/cors-misconfig_1.yaml
 ./poc/config/cors-misconfig_2.yaml
+./poc/config/cors-misconfig_3.yaml
 ./poc/config/cors-misconfiguration.yaml
 ./poc/config/cpanel-config.yaml
 ./poc/config/cypress-web-config.yaml
@@ -9879,6 +9921,7 @@
 ./poc/config/extreme-netconfig-ui-7371_1.yaml
 ./poc/config/extreme-netconfig-ui-7371_2.yaml
 ./poc/config/extreme-netconfig-ui-7372.yaml
+./poc/config/extreme-netconfig-ui-7372_1.yaml
 ./poc/config/extreme-netconfig-ui.yaml
 ./poc/config/extreme-netconfig-ui_1.yaml
 ./poc/config/extreme-netconfig-ui_2.yaml
@@ -10329,6 +10372,7 @@
 ./poc/config/wamp-server-configuration-11099_1.yaml
 ./poc/config/wamp-server-configuration.yaml
 ./poc/config/wamp-server-configuration_1.yaml
+./poc/config/wamp-server-configuration_2.yaml
 ./poc/config/wanhu-ezoffice-teleconferenceservice-xxe.yaml
 ./poc/config/wanhu-teleconferenceservice-xxe.yaml
 ./poc/config/wanhu-teleconferenceservice-xxe_1.yaml
@@ -16625,6 +16669,7 @@
 ./poc/cve/CVE-2015-4074_2.yaml
 ./poc/cve/CVE-2015-4074_3.yaml
 ./poc/cve/CVE-2015-4074_4.yaml
+./poc/cve/CVE-2015-4074_5.yaml
 ./poc/cve/CVE-2015-4084-9675c4197722e1a17e3505b49f9c9c17.yaml
 ./poc/cve/CVE-2015-4084.yaml
 ./poc/cve/CVE-2015-4084_1.yaml
@@ -16735,6 +16780,7 @@
 ./poc/cve/CVE-2015-4668.yaml
 ./poc/cve/CVE-2015-4668_1.yaml
 ./poc/cve/CVE-2015-4668_2.yaml
+./poc/cve/CVE-2015-4668_3.yaml
 ./poc/cve/CVE-2015-4694-2545.yaml
 ./poc/cve/CVE-2015-4694-2546.yaml
 ./poc/cve/CVE-2015-4694-bbfaa835f212f610b17a47bd8740dc68.yaml
@@ -19461,6 +19507,7 @@
 ./poc/cve/CVE-2016-6210.yaml
 ./poc/cve/CVE-2016-6210_1.yaml
 ./poc/cve/CVE-2016-6210_2.yaml
+./poc/cve/CVE-2016-6210_3.yaml
 ./poc/cve/CVE-2016-6277.yaml
 ./poc/cve/CVE-2016-6277_1.yaml
 ./poc/cve/CVE-2016-6277_2.yaml
@@ -19539,6 +19586,7 @@
 ./poc/cve/CVE-2017-1000028_1.yaml
 ./poc/cve/CVE-2017-1000028_2.yaml
 ./poc/cve/CVE-2017-1000028_3.yaml
+./poc/cve/CVE-2017-1000028_4.yaml
 ./poc/cve/CVE-2017-1000029.yaml
 ./poc/cve/CVE-2017-1000029_1.yaml
 ./poc/cve/CVE-2017-1000029_2.yaml
@@ -22780,6 +22828,7 @@
 ./poc/cve/CVE-2018-3760.yaml
 ./poc/cve/CVE-2018-3760_1.yaml
 ./poc/cve/CVE-2018-3760_2.yaml
+./poc/cve/CVE-2018-3760_3.yaml
 ./poc/cve/CVE-2018-3810-3554.yaml
 ./poc/cve/CVE-2018-3810-6de071448d5adb9d4c6352281eb7005f.yaml
 ./poc/cve/CVE-2018-3810.yaml
@@ -23424,6 +23473,7 @@
 ./poc/cve/CVE-2019-10232_1.yaml
 ./poc/cve/CVE-2019-10232_2.yaml
 ./poc/cve/CVE-2019-10232_3.yaml
+./poc/cve/CVE-2019-10232_4.yaml
 ./poc/cve/CVE-2019-10241.yaml
 ./poc/cve/CVE-2019-10246.yaml
 ./poc/cve/CVE-2019-10247.yaml
@@ -25230,6 +25280,7 @@
 ./poc/cve/CVE-2019-20085.yaml
 ./poc/cve/CVE-2019-20085_1.yaml
 ./poc/cve/CVE-2019-20085_2.yaml
+./poc/cve/CVE-2019-20085_3.yaml
 ./poc/cve/CVE-2019-20098.yaml
 ./poc/cve/CVE-2019-20099.yaml
 ./poc/cve/CVE-2019-20100.yaml
@@ -25334,6 +25385,7 @@
 ./poc/cve/CVE-2019-20933_2.yaml
 ./poc/cve/CVE-2019-20933_3.yaml
 ./poc/cve/CVE-2019-20933_4.yaml
+./poc/cve/CVE-2019-20933_5.yaml
 ./poc/cve/CVE-2019-25060-4e3039ac955e5ef5d679e40cb703a1af.yaml
 ./poc/cve/CVE-2019-25060.yaml
 ./poc/cve/CVE-2019-25060_1.yaml
@@ -25707,6 +25759,7 @@
 ./poc/cve/CVE-2019-7238.yaml
 ./poc/cve/CVE-2019-7238_1.yaml
 ./poc/cve/CVE-2019-7238_2.yaml
+./poc/cve/CVE-2019-7238_3.yaml
 ./poc/cve/CVE-2019-7254-1.yaml
 ./poc/cve/CVE-2019-7254-2.yaml
 ./poc/cve/CVE-2019-7254.yaml
@@ -25947,6 +26000,7 @@
 ./poc/cve/CVE-2019-9915_2.yaml
 ./poc/cve/CVE-2019-9915_3.yaml
 ./poc/cve/CVE-2019-9915_4.yaml
+./poc/cve/CVE-2019-9915_5.yaml
 ./poc/cve/CVE-2019-9922.yaml
 ./poc/cve/CVE-2019-9922_1.yaml
 ./poc/cve/CVE-2019-9926.yaml
@@ -26054,6 +26108,7 @@
 ./poc/cve/CVE-2020-10973_4.yaml
 ./poc/cve/CVE-2020-10973_5.yaml
 ./poc/cve/CVE-2020-10973_6.yaml
+./poc/cve/CVE-2020-10973_7.yaml
 ./poc/cve/CVE-2020-11023-3beb604b5149be28498143011514aa9e.yaml
 ./poc/cve/CVE-2020-11023-3beb604b5149be28498143011514aa9e_1.yaml
 ./poc/cve/CVE-2020-11023-cdac0566d7e2780e16ba20fc5a8d2987.yaml
@@ -26103,6 +26158,7 @@
 ./poc/cve/CVE-2020-11110_3.yaml
 ./poc/cve/CVE-2020-11110_4.yaml
 ./poc/cve/CVE-2020-11110_4_1.yaml
+./poc/cve/CVE-2020-11110_5.yaml
 ./poc/cve/CVE-2020-11441.yaml
 ./poc/cve/CVE-2020-11441_1.yaml
 ./poc/cve/CVE-2020-11450.yaml
@@ -26110,10 +26166,12 @@
 ./poc/cve/CVE-2020-11450_2.yaml
 ./poc/cve/CVE-2020-11450_3.yaml
 ./poc/cve/CVE-2020-11450_4.yaml
+./poc/cve/CVE-2020-11450_5.yaml
 ./poc/cve/CVE-2020-11453.yaml
 ./poc/cve/CVE-2020-11455.yaml
 ./poc/cve/CVE-2020-11455_1.yaml
 ./poc/cve/CVE-2020-11455_1_1.yaml
+./poc/cve/CVE-2020-11455_2.yaml
 ./poc/cve/CVE-2020-1147.yaml
 ./poc/cve/CVE-2020-1147_1.yaml
 ./poc/cve/CVE-2020-11497-83f35bb4a7512acd9ceb2c14a3e5caef.yaml
@@ -26277,6 +26335,7 @@
 ./poc/cve/CVE-2020-11991_1.yaml
 ./poc/cve/CVE-2020-11991_2.yaml
 ./poc/cve/CVE-2020-11991_2_1.yaml
+./poc/cve/CVE-2020-11991_3.yaml
 ./poc/cve/CVE-2020-11993.yaml
 ./poc/cve/CVE-2020-11996.yaml
 ./poc/cve/CVE-2020-11998.yaml
@@ -26345,6 +26404,7 @@
 ./poc/cve/CVE-2020-12127_4.yaml
 ./poc/cve/CVE-2020-12127_5.yaml
 ./poc/cve/CVE-2020-12127_6.yaml
+./poc/cve/CVE-2020-12127_7.yaml
 ./poc/cve/CVE-2020-12245.yaml
 ./poc/cve/CVE-2020-12256.yaml
 ./poc/cve/CVE-2020-12256_1.yaml
@@ -26372,6 +26432,7 @@
 ./poc/cve/CVE-2020-12478_4.yaml
 ./poc/cve/CVE-2020-12478_5.yaml
 ./poc/cve/CVE-2020-12478_6.yaml
+./poc/cve/CVE-2020-12478_7.yaml
 ./poc/cve/CVE-2020-12675-db5ea816b063a4c08adfece5343fa6d3.yaml
 ./poc/cve/CVE-2020-12675.yaml
 ./poc/cve/CVE-2020-12675_1.yaml
@@ -26387,6 +26448,7 @@
 ./poc/cve/CVE-2020-12720_2.yaml
 ./poc/cve/CVE-2020-12720_2_1.yaml
 ./poc/cve/CVE-2020-12720_3.yaml
+./poc/cve/CVE-2020-12720_4.yaml
 ./poc/cve/CVE-2020-12735.yaml
 ./poc/cve/CVE-2020-12742-74196ed5f181707a40c18c1ce9fe9145.yaml
 ./poc/cve/CVE-2020-12742.yaml
@@ -26823,6 +26885,7 @@
 ./poc/cve/CVE-2020-16846_1.yaml
 ./poc/cve/CVE-2020-16846_2.yaml
 ./poc/cve/CVE-2020-16846_3.yaml
+./poc/cve/CVE-2020-16846_4.yaml
 ./poc/cve/CVE-2020-16920.yaml
 ./poc/cve/CVE-2020-16920_1.yaml
 ./poc/cve/CVE-2020-16952.yaml
@@ -26867,6 +26930,7 @@
 ./poc/cve/CVE-2020-17518_2.yaml
 ./poc/cve/CVE-2020-17518_3.yaml
 ./poc/cve/CVE-2020-17518_3_1.yaml
+./poc/cve/CVE-2020-17518_4.yaml
 ./poc/cve/CVE-2020-17519.yaml
 ./poc/cve/CVE-2020-17519_1.yaml
 ./poc/cve/CVE-2020-17519_2.yaml
@@ -26882,6 +26946,7 @@
 ./poc/cve/CVE-2020-17530.yaml
 ./poc/cve/CVE-2020-17530_1.yaml
 ./poc/cve/CVE-2020-17530_1_1.yaml
+./poc/cve/CVE-2020-17530_2.yaml
 ./poc/cve/CVE-2020-17531.yaml
 ./poc/cve/CVE-2020-17558.yaml
 ./poc/cve/CVE-2020-18084.yaml
@@ -27387,6 +27452,7 @@
 ./poc/cve/CVE-2020-25213_2.yaml
 ./poc/cve/CVE-2020-25213_3.yaml
 ./poc/cve/CVE-2020-25213_3_1.yaml
+./poc/cve/CVE-2020-25213_4.yaml
 ./poc/cve/CVE-2020-25223.yaml
 ./poc/cve/CVE-2020-25223_1.yaml
 ./poc/cve/CVE-2020-25223_2.yaml
@@ -27502,6 +27568,7 @@
 ./poc/cve/CVE-2020-26153_2.yaml
 ./poc/cve/CVE-2020-26153_2_1.yaml
 ./poc/cve/CVE-2020-26153_3.yaml
+./poc/cve/CVE-2020-26153_4.yaml
 ./poc/cve/CVE-2020-26167.yaml
 ./poc/cve/CVE-2020-26214.yaml
 ./poc/cve/CVE-2020-26214_1.yaml
@@ -27891,6 +27958,7 @@
 ./poc/cve/CVE-2020-35476_1.yaml
 ./poc/cve/CVE-2020-35476_2.yaml
 ./poc/cve/CVE-2020-35476_3.yaml
+./poc/cve/CVE-2020-35476_4.yaml
 ./poc/cve/CVE-2020-35489 (copy 1).yaml
 ./poc/cve/CVE-2020-35489-5040.yaml
 ./poc/cve/CVE-2020-35489-a5e26fbee40cf70fb4ae932dd2eeb716.yaml
@@ -27968,6 +28036,7 @@
 ./poc/cve/CVE-2020-3580_4.yaml
 ./poc/cve/CVE-2020-3580_5.yaml
 ./poc/cve/CVE-2020-3580_6.yaml
+./poc/cve/CVE-2020-3580_7.yaml
 ./poc/cve/CVE-2020-35846.yaml
 ./poc/cve/CVE-2020-35846_1.yaml
 ./poc/cve/CVE-2020-35847.yaml
@@ -28942,10 +29011,12 @@
 ./poc/cve/CVE-2020-8191_1.yaml
 ./poc/cve/CVE-2020-8191_2.yaml
 ./poc/cve/CVE-2020-8191_2_1.yaml
+./poc/cve/CVE-2020-8191_3.yaml
 ./poc/cve/CVE-2020-8193.yaml
 ./poc/cve/CVE-2020-8193_1.yaml
 ./poc/cve/CVE-2020-8193_2.yaml
 ./poc/cve/CVE-2020-8193_3.yaml
+./poc/cve/CVE-2020-8193_3_1.yaml
 ./poc/cve/CVE-2020-8194.yaml
 ./poc/cve/CVE-2020-8194_1.yaml
 ./poc/cve/CVE-2020-8194_2.yaml
@@ -29246,6 +29317,7 @@
 ./poc/cve/CVE-2020-9496_1.yaml
 ./poc/cve/CVE-2020-9496_2.yaml
 ./poc/cve/CVE-2020-9496_2_1.yaml
+./poc/cve/CVE-2020-9496_3.yaml
 ./poc/cve/CVE-2020-9514-0a1c1901613f871185a79994c4f7a3f8.yaml
 ./poc/cve/CVE-2020-9514.yaml
 ./poc/cve/CVE-2020-9514_1.yaml
@@ -29846,6 +29918,7 @@
 ./poc/cve/CVE-2021-24146_3.yaml
 ./poc/cve/CVE-2021-24146_4.yaml
 ./poc/cve/CVE-2021-24146_5.yaml
+./poc/cve/CVE-2021-24146_6.yaml
 ./poc/cve/CVE-2021-24147-2278ece3bf8ab36e6530bb0bfd1d74a4.yaml
 ./poc/cve/CVE-2021-24147.yaml
 ./poc/cve/CVE-2021-24147_1.yaml
@@ -29994,6 +30067,7 @@
 ./poc/cve/CVE-2021-24176_3.yaml
 ./poc/cve/CVE-2021-24176_3_1.yaml
 ./poc/cve/CVE-2021-24176_4.yaml
+./poc/cve/CVE-2021-24176_5.yaml
 ./poc/cve/CVE-2021-24177-9b4a544d576d2d22e8dbb99e8323d140.yaml
 ./poc/cve/CVE-2021-24177.yaml
 ./poc/cve/CVE-2021-24177_1.yaml
@@ -30293,6 +30367,7 @@
 ./poc/cve/CVE-2021-24235_3.yaml
 ./poc/cve/CVE-2021-24235_3_1.yaml
 ./poc/cve/CVE-2021-24235_4.yaml
+./poc/cve/CVE-2021-24235_5.yaml
 ./poc/cve/CVE-2021-24236(1).yaml
 ./poc/cve/CVE-2021-24236-0a15a9ce69655aea9774a25efe8115e7.yaml
 ./poc/cve/CVE-2021-24236.yaml
@@ -30499,6 +30574,7 @@
 ./poc/cve/CVE-2021-24276_1.yaml
 ./poc/cve/CVE-2021-24276_2.yaml
 ./poc/cve/CVE-2021-24276_3.yaml
+./poc/cve/CVE-2021-24276_4.yaml
 ./poc/cve/CVE-2021-24277-a9b3b73eb42fa5bd0785720ab1f1312f.yaml
 ./poc/cve/CVE-2021-24277.yaml
 ./poc/cve/CVE-2021-24277_1.yaml
@@ -30552,6 +30628,7 @@
 ./poc/cve/CVE-2021-24285_3.yaml
 ./poc/cve/CVE-2021-24285_3_1.yaml
 ./poc/cve/CVE-2021-24285_4.yaml
+./poc/cve/CVE-2021-24285_5.yaml
 ./poc/cve/CVE-2021-24286-bb438ca91bbe39dc03a706e917de013b.yaml
 ./poc/cve/CVE-2021-24286.yaml
 ./poc/cve/CVE-2021-24286_重复副本.yaml
@@ -30569,6 +30646,7 @@
 ./poc/cve/CVE-2021-24288_2.yaml
 ./poc/cve/CVE-2021-24288_3.yaml
 ./poc/cve/CVE-2021-24288_4.yaml
+./poc/cve/CVE-2021-24288_5.yaml
 ./poc/cve/CVE-2021-24289-1551ca15d860bb60937a9442c8481411.yaml
 ./poc/cve/CVE-2021-24289.yaml
 ./poc/cve/CVE-2021-24289_1.yaml
@@ -30622,6 +30700,7 @@
 ./poc/cve/CVE-2021-24298_3.yaml
 ./poc/cve/CVE-2021-24298_4.yaml
 ./poc/cve/CVE-2021-24298_5.yaml
+./poc/cve/CVE-2021-24298_6.yaml
 ./poc/cve/CVE-2021-24299-84d977bb82ff1a53a59c3cdc467e7f5d.yaml
 ./poc/cve/CVE-2021-24299.yaml
 ./poc/cve/CVE-2021-24299_1.yaml
@@ -30732,6 +30811,7 @@
 ./poc/cve/CVE-2021-24320_3.yaml
 ./poc/cve/CVE-2021-24320_4.yaml
 ./poc/cve/CVE-2021-24320_5.yaml
+./poc/cve/CVE-2021-24320_6.yaml
 ./poc/cve/CVE-2021-24321-ab388389acff6f6ebe431d10d785d1df.yaml
 ./poc/cve/CVE-2021-24321.yaml
 ./poc/cve/CVE-2021-24321_1.yaml
@@ -30834,6 +30914,7 @@
 ./poc/cve/CVE-2021-24340_4.yaml
 ./poc/cve/CVE-2021-24340_5.yaml
 ./poc/cve/CVE-2021-24340_6.yaml
+./poc/cve/CVE-2021-24340_7.yaml
 ./poc/cve/CVE-2021-24341-0181469fbd5e6c640e175b63300e33a6.yaml
 ./poc/cve/CVE-2021-24341.yaml
 ./poc/cve/CVE-2021-24341_1.yaml
@@ -31077,6 +31158,7 @@
 ./poc/cve/CVE-2021-24387_3.yaml
 ./poc/cve/CVE-2021-24387_4.yaml
 ./poc/cve/CVE-2021-24387_5.yaml
+./poc/cve/CVE-2021-24387_6.yaml
 ./poc/cve/CVE-2021-24388-14614859113ffb7afd9ac82859c04eb2.yaml
 ./poc/cve/CVE-2021-24388.yaml
 ./poc/cve/CVE-2021-24388_1.yaml
@@ -31091,6 +31173,7 @@
 ./poc/cve/CVE-2021-24389_2.yaml
 ./poc/cve/CVE-2021-24389_3.yaml
 ./poc/cve/CVE-2021-24389_4.yaml
+./poc/cve/CVE-2021-24389_5.yaml
 ./poc/cve/CVE-2021-24390-33ca2ab1d147e6ae40fe998202ee7899.yaml
 ./poc/cve/CVE-2021-24390.yaml
 ./poc/cve/CVE-2021-24390_1.yaml
@@ -31614,6 +31697,7 @@
 ./poc/cve/CVE-2021-24498_3.yaml
 ./poc/cve/CVE-2021-24498_4.yaml
 ./poc/cve/CVE-2021-24498_5.yaml
+./poc/cve/CVE-2021-24498_6.yaml
 ./poc/cve/CVE-2021-24499-cc486e9ec98357d351e68a8e99f26e7d.yaml
 ./poc/cve/CVE-2021-24499.yaml
 ./poc/cve/CVE-2021-24499_1.yaml
@@ -35055,6 +35139,7 @@
 ./poc/cve/CVE-2021-3129_1.yaml
 ./poc/cve/CVE-2021-3129_2.yaml
 ./poc/cve/CVE-2021-3129_3.yaml
+./poc/cve/CVE-2021-3129_4.yaml
 ./poc/cve/CVE-2021-31316.yaml
 ./poc/cve/CVE-2021-31324.yaml
 ./poc/cve/CVE-2021-3133-56aa2b4993d959935e930e514bbf1ec6.yaml
@@ -35340,6 +35425,7 @@
 ./poc/cve/CVE-2021-34621_4.yaml
 ./poc/cve/CVE-2021-34621_5.yaml
 ./poc/cve/CVE-2021-34621_6.yaml
+./poc/cve/CVE-2021-34621_7.yaml
 ./poc/cve/CVE-2021-34622-42dbf4428f471a636dc697ce69f75250.yaml
 ./poc/cve/CVE-2021-34622.yaml
 ./poc/cve/CVE-2021-34622_1.yaml
@@ -38249,6 +38335,7 @@
 ./poc/cve/CVE-2022-0234_3.yaml
 ./poc/cve/CVE-2022-0234_4.yaml
 ./poc/cve/CVE-2022-0234_4_1.yaml
+./poc/cve/CVE-2022-0234_5.yaml
 ./poc/cve/CVE-2022-0236-aca61a8fffb5436297aea7622e886538.yaml
 ./poc/cve/CVE-2022-0236.yaml
 ./poc/cve/CVE-2022-0236_1.yaml
@@ -38836,6 +38923,7 @@
 ./poc/cve/CVE-2022-0656_1.yaml
 ./poc/cve/CVE-2022-0656_1_1.yaml
 ./poc/cve/CVE-2022-0656_2.yaml
+./poc/cve/CVE-2022-0656_3.yaml
 ./poc/cve/CVE-2022-0657-0d82b66fb61f6f232ca179e403b576d9.yaml
 ./poc/cve/CVE-2022-0657.yaml
 ./poc/cve/CVE-2022-0657_1.yaml
@@ -41532,6 +41620,7 @@
 ./poc/cve/CVE-2022-23348_4.yaml
 ./poc/cve/CVE-2022-23348_5.yaml
 ./poc/cve/CVE-2022-23348_6.yaml
+./poc/cve/CVE-2022-23348_7.yaml
 ./poc/cve/CVE-2022-23349.yaml
 ./poc/cve/CVE-2022-23352.yaml
 ./poc/cve/CVE-2022-23379.yaml
@@ -43000,6 +43089,7 @@
 ./poc/cve/CVE-2022-28365_2.yaml
 ./poc/cve/CVE-2022-28365_3.yaml
 ./poc/cve/CVE-2022-28365_4.yaml
+./poc/cve/CVE-2022-28365_5.yaml
 ./poc/cve/CVE-2022-28368.yaml
 ./poc/cve/CVE-2022-2839-68b1a439ac1d3a5a51deeeaebb446f10.yaml
 ./poc/cve/CVE-2022-2839.yaml
@@ -43706,6 +43796,7 @@
 ./poc/cve/CVE-2022-31269_4.yaml
 ./poc/cve/CVE-2022-31269_5.yaml
 ./poc/cve/CVE-2022-31269_6.yaml
+./poc/cve/CVE-2022-31269_7.yaml
 ./poc/cve/CVE-2022-3126_1.yaml
 ./poc/cve/CVE-2022-3126_2.yaml
 ./poc/cve/CVE-2022-3127.yaml
@@ -43815,6 +43906,7 @@
 ./poc/cve/CVE-2022-31656_3.yaml
 ./poc/cve/CVE-2022-31656_4.yaml
 ./poc/cve/CVE-2022-31656_5.yaml
+./poc/cve/CVE-2022-31656_6.yaml
 ./poc/cve/CVE-2022-31657.yaml
 ./poc/cve/CVE-2022-31662.yaml
 ./poc/cve/CVE-2022-31663.yaml
@@ -43843,6 +43935,7 @@
 ./poc/cve/CVE-2022-31845_4.yaml
 ./poc/cve/CVE-2022-31845_5.yaml
 ./poc/cve/CVE-2022-31845_6.yaml
+./poc/cve/CVE-2022-31845_7.yaml
 ./poc/cve/CVE-2022-31846.yaml
 ./poc/cve/CVE-2022-31846_1.yaml
 ./poc/cve/CVE-2022-31846_2.yaml
@@ -43850,6 +43943,7 @@
 ./poc/cve/CVE-2022-31846_4.yaml
 ./poc/cve/CVE-2022-31846_5.yaml
 ./poc/cve/CVE-2022-31846_6.yaml
+./poc/cve/CVE-2022-31846_7.yaml
 ./poc/cve/CVE-2022-31847.yaml
 ./poc/cve/CVE-2022-31847_1.yaml
 ./poc/cve/CVE-2022-31847_2.yaml
@@ -43857,6 +43951,7 @@
 ./poc/cve/CVE-2022-31847_4.yaml
 ./poc/cve/CVE-2022-31847_5.yaml
 ./poc/cve/CVE-2022-31847_6.yaml
+./poc/cve/CVE-2022-31847_7.yaml
 ./poc/cve/CVE-2022-31854.yaml
 ./poc/cve/CVE-2022-31854_1.yaml
 ./poc/cve/CVE-2022-31854_2.yaml
@@ -44338,10 +44433,12 @@
 ./poc/cve/CVE-2022-34045_4.yaml
 ./poc/cve/CVE-2022-34045_5.yaml
 ./poc/cve/CVE-2022-34045_6.yaml
+./poc/cve/CVE-2022-34045_7.yaml
 ./poc/cve/CVE-2022-34046.yaml
 ./poc/cve/CVE-2022-34046_1.yaml
 ./poc/cve/CVE-2022-34046_2.yaml
 ./poc/cve/CVE-2022-34046_3.yaml
+./poc/cve/CVE-2022-34046_4.yaml
 ./poc/cve/CVE-2022-34047.yaml
 ./poc/cve/CVE-2022-34047_1.yaml
 ./poc/cve/CVE-2022-34047_2.yaml
@@ -44355,6 +44452,7 @@
 ./poc/cve/CVE-2022-34049_1.yaml
 ./poc/cve/CVE-2022-34049_2.yaml
 ./poc/cve/CVE-2022-34049_3.yaml
+./poc/cve/CVE-2022-34049_4.yaml
 ./poc/cve/CVE-2022-3408-d1800f0838c40318fdf7dc7ded6a1034.yaml
 ./poc/cve/CVE-2022-3408.yaml
 ./poc/cve/CVE-2022-3408_1.yaml
@@ -45243,6 +45341,7 @@
 ./poc/cve/CVE-2022-3768_2_1.yaml
 ./poc/cve/CVE-2022-3768_3.yaml
 ./poc/cve/CVE-2022-3768_3_1.yaml
+./poc/cve/CVE-2022-3768_4.yaml
 ./poc/cve/CVE-2022-3769-5f6327a48f3e82f7f9ba9da70272f8b0.yaml
 ./poc/cve/CVE-2022-3769.yaml
 ./poc/cve/CVE-2022-3769_1.yaml
@@ -46988,6 +47087,7 @@
 ./poc/cve/CVE-2022-4260_3.yaml
 ./poc/cve/CVE-2022-4260_4.yaml
 ./poc/cve/CVE-2022-4260_4_1.yaml
+./poc/cve/CVE-2022-4260_5.yaml
 ./poc/cve/CVE-2022-4265-f53cadc4c60d6680a897683f9ffa4530.yaml
 ./poc/cve/CVE-2022-4265.yaml
 ./poc/cve/CVE-2022-4265_1.yaml
@@ -56121,6 +56221,7 @@
 ./poc/cve/CVE-2023-26360_4.yaml
 ./poc/cve/CVE-2023-26360_5.yaml
 ./poc/cve/CVE-2023-26360_6.yaml
+./poc/cve/CVE-2023-26360_7.yaml
 ./poc/cve/CVE-2023-2636_1.yaml
 ./poc/cve/CVE-2023-2636_2.yaml
 ./poc/cve/CVE-2023-2636_3.yaml
@@ -96217,6 +96318,7 @@
 ./poc/cve/CVE-2025-22697-89add8ef473b1b0ef653a0d0150d89e6.yaml
 ./poc/cve/CVE-2025-22697.yaml
 ./poc/cve/CVE-2025-22698-1bd85f87fa7466bb0205533b065a3300.yaml
+./poc/cve/CVE-2025-22698-5a66eee86ed5e1f0f13b14b39b46fc69.yaml
 ./poc/cve/CVE-2025-22698.yaml
 ./poc/cve/CVE-2025-22699-c83ee585b02326e7b979b41926be6c29.yaml
 ./poc/cve/CVE-2025-22699-d9198a94ba09820f62c8afec53bf4e2c.yaml
@@ -96506,6 +96608,7 @@
 ./poc/cve/CVE-2025-23445-1c5ce8096cb1ff2529538d29c504778e.yaml
 ./poc/cve/CVE-2025-23445.yaml
 ./poc/cve/CVE-2025-23447-bb08abe9d2a354b39f63fb47eb233082.yaml
+./poc/cve/CVE-2025-23448-64d2889c2ccc0d64416cbd7562c9f53d.yaml
 ./poc/cve/CVE-2025-23449-9f8bd72703f34b64d3e2610b74f8128e.yaml
 ./poc/cve/CVE-2025-23449.yaml
 ./poc/cve/CVE-2025-23450-35f34b84b5344fb3a7107ff722f0d8cd.yaml
@@ -98554,6 +98657,7 @@
 ./poc/cve/CVE-2025-30574-56f8f9c2d8e5f949c9ecde91c54b11c4.yaml
 ./poc/cve/CVE-2025-30575-f48f0b439dccc1409752edc8e812443b.yaml
 ./poc/cve/CVE-2025-30576-7679c7eb0945167fe558b8d23a163b1c.yaml
+./poc/cve/CVE-2025-30577-2bed259f214f02525ed79002f89ed7dc.yaml
 ./poc/cve/CVE-2025-30577-f036b5714eb133b5357863a96f26211d.yaml
 ./poc/cve/CVE-2025-30578-b593e476921ffcfc7be33ee0af2e8959.yaml
 ./poc/cve/CVE-2025-3058-74fe6b5fba3be41f9ee61d7e84741601.yaml
@@ -98936,6 +99040,7 @@
 ./poc/cve/CVE-2025-31539-acd42e360de15b3c8a88d8425a5fd41a.yaml
 ./poc/cve/CVE-2025-31540-7675c48fb4dc49f1e524505745840794.yaml
 ./poc/cve/CVE-2025-31542-d92eabd2176dee71aab7e1c000dc8a1a.yaml
+./poc/cve/CVE-2025-31543-3571c76aa06b761e5ad0e6232aedcca9.yaml
 ./poc/cve/CVE-2025-31543-95459646754913d803f67632486692e8.yaml
 ./poc/cve/CVE-2025-31544-7243cffe7cc8c5038d53e14e119bbd1a.yaml
 ./poc/cve/CVE-2025-31545-2ca609e3c9d5fd32b4b67b908feb2a6e.yaml
@@ -98944,6 +99049,7 @@
 ./poc/cve/CVE-2025-31548-935d966681ba8ae19588f70d57603d82.yaml
 ./poc/cve/CVE-2025-31549-32457d6d48bf364d88baf1efead5565d.yaml
 ./poc/cve/CVE-2025-31550-73833eabb9e56a76f1b82e9fdc1720ad.yaml
+./poc/cve/CVE-2025-31550-8053431d91f9c234f056a7b416f45772.yaml
 ./poc/cve/CVE-2025-31551-3c248b593df22b2bc69c617d6ac0c280.yaml
 ./poc/cve/CVE-2025-31552-c7c208baf5bc918c702befa7fb290e20.yaml
 ./poc/cve/CVE-2025-31553-7633356b9c9ef6c7cdf35a1e04fcc312.yaml
@@ -99259,10 +99365,12 @@
 ./poc/cve/CVE-2025-32176-f3943a294022f913b902816f80d45955.yaml
 ./poc/cve/CVE-2025-32177-bdcf9717b47ac2372ead6d8441768a09.yaml
 ./poc/cve/CVE-2025-32179-69015ddf3644925dcb6c109a7fa28a56.yaml
+./poc/cve/CVE-2025-32181-214dd7872fe227b10d7a43631b61b715.yaml
 ./poc/cve/CVE-2025-32181-b1c42d62c3b88cb0254a7d3defe29371.yaml
 ./poc/cve/CVE-2025-32182-76f3c11caa9d43df72c40ce40d4b6dc9.yaml
 ./poc/cve/CVE-2025-32183-0a8cfadea32f81e37cc5eee3b90d32e0.yaml
 ./poc/cve/CVE-2025-32184-26517bea9b776a73f03607b3f8bf6207.yaml
+./poc/cve/CVE-2025-32184-35831c84926f74fcbe6a0209bc02a1c7.yaml
 ./poc/cve/CVE-2025-32185-4d074a96390681aa1052180bf3781f5f.yaml
 ./poc/cve/CVE-2025-32185-c18812ad01ef48aa0b2d22f77b97316b.yaml
 ./poc/cve/CVE-2025-32186-438b8ce0b682ade8222a2e8e4a185474.yaml
@@ -99295,10 +99403,12 @@
 ./poc/cve/CVE-2025-32211-97b7c90f8aec67ef2d5818f4bacb82fc.yaml
 ./poc/cve/CVE-2025-32213-8c083e5a3561e0eb8f65c84f6a3714d0.yaml
 ./poc/cve/CVE-2025-32214-ef71795c3909ca5902962a6f8624e96d.yaml
+./poc/cve/CVE-2025-32215-06aeb5529c782c3398a301033e5040ad.yaml
 ./poc/cve/CVE-2025-32215-e2cabc156b96f9f2b4757bfc9932f9e5.yaml
 ./poc/cve/CVE-2025-32216-d5feec492aa0cd3d4b92bc12c12158fd.yaml
 ./poc/cve/CVE-2025-32217-02f75621323b20dd874f489f0d5e5071.yaml
 ./poc/cve/CVE-2025-32218-7a914ac98cc66a8ac9be25a8f047a1b3.yaml
+./poc/cve/CVE-2025-32219-e7cf75d37093e4422299f8ea11c7069e.yaml
 ./poc/cve/CVE-2025-32220-7fe5309aced0913723101f6a5e9076b6.yaml
 ./poc/cve/CVE-2025-32221-66dc5a44432c35c9961b41e36871755d.yaml
 ./poc/cve/CVE-2025-32224-606acc7a6688a2b4cb7b0dcccdf22cde.yaml
@@ -99338,8 +99448,10 @@
 ./poc/cve/CVE-2025-32258-0a47052cb3b15cb43d9c670b0ae84dc6.yaml
 ./poc/cve/CVE-2025-32259-110882b70aa5cd8b10461bb03bea2c86.yaml
 ./poc/cve/CVE-2025-32260-6f70baa7e10578a4f9ae88f4de52d141.yaml
+./poc/cve/CVE-2025-32261-8b42a644eb5b5305dad4486f1cb4ea1f.yaml
 ./poc/cve/CVE-2025-32261-b16b96c62c868ef237b8c590ebe4e7b7.yaml
 ./poc/cve/CVE-2025-32262-78c44e6c7ec3e0f4f33b65354196f1be.yaml
+./poc/cve/CVE-2025-32263-88dce1836fdc7b54657bf3e231e0abc2.yaml
 ./poc/cve/CVE-2025-32263-b0a1bcb5eb56bf23d9bf4946c8e3e172.yaml
 ./poc/cve/CVE-2025-32264-f4e6002e0036fc0e29c259241b9358dd.yaml
 ./poc/cve/CVE-2025-32265-91722f79a0189d672b9f1f278ec1c842.yaml
@@ -99453,6 +99565,7 @@
 ./poc/cve/CVE-2025-32571-a912f392fe82268c05b50ec51bb8f7f6.yaml
 ./poc/cve/CVE-2025-32572-f903369f28b8619cb9cf3a8890c00581.yaml
 ./poc/cve/CVE-2025-32573-932767f87967b9d8f24dcf1eb56457ed.yaml
+./poc/cve/CVE-2025-32573-c1af336f07609299e5d838fbfbfac4aa.yaml
 ./poc/cve/CVE-2025-32575-b7aecece8df6ecba66faf39678628bac.yaml
 ./poc/cve/CVE-2025-32576-89bfc771d4f5c7f444a77aeb5dac5e18.yaml
 ./poc/cve/CVE-2025-32577-85c8acf6ef33771eeccc60df801602da.yaml
@@ -99525,6 +99638,7 @@
 ./poc/cve/CVE-2025-32647-b9707379545c72c4cf59156c0d17a3d4.yaml
 ./poc/cve/CVE-2025-32648-14fea49f428ecc7a1f6496e7d67fffe4.yaml
 ./poc/cve/CVE-2025-32649-8119826ce5e12728bcdc0e8d4ce3feb1.yaml
+./poc/cve/CVE-2025-32650-01ab52be8b0ef8dd2e26053f1daf2113.yaml
 ./poc/cve/CVE-2025-32650-57ff47c393daa6503f5cf228084b5fc2.yaml
 ./poc/cve/CVE-2025-32651-c7d15e9e0954427a7d84f21624b4e194.yaml
 ./poc/cve/CVE-2025-32652-7dc45a0be9d947ff0a320f14807d4d69.yaml
@@ -99631,6 +99745,7 @@
 ./poc/cve/CVE-2025-3513-0850586f673b1648f7c0554f9ef95da4.yaml
 ./poc/cve/CVE-2025-3514-b729f7c6e6d6c5870c060a203249222d.yaml
 ./poc/cve/CVE-2025-3521-5d27a82e6fb0d9eee16ce64bbc74b745.yaml
+./poc/cve/CVE-2025-3527-bd32991c485487b9124c522c5a19873b.yaml
 ./poc/cve/CVE-2025-3529-b0650650f85623b34e7fa5f0c102eabc.yaml
 ./poc/cve/CVE-2025-3583-8602b66640e74caed3ce3cb2261e6531.yaml
 ./poc/cve/CVE-2025-3597-6e444f713297ca77c50fde57e354b9a8.yaml
@@ -99661,6 +99776,7 @@
 ./poc/cve/CVE-2025-3809-cbc717b1b58a7a4c39274b8aa0dcf611.yaml
 ./poc/cve/CVE-2025-3810-e35da54b6662d647cf018f10f5f017f1.yaml
 ./poc/cve/CVE-2025-3811-6d42e09d1e99c8b1f62ae10858f4376d.yaml
+./poc/cve/CVE-2025-3812-b2797704c25a3b9e28c42c4cc4934eca.yaml
 ./poc/cve/CVE-2025-3814-2d6d32013187b6b342c9a6dc0179728f.yaml
 ./poc/cve/CVE-2025-3832-398a623d073038a004e9f137b60b4286.yaml
 ./poc/cve/CVE-2025-3832-f315542f65da793bac3dce6dc7cf9b1e.yaml
@@ -99885,6 +100001,7 @@
 ./poc/cve/CVE-2025-4055-3bb34d3afa76812338a9550182299a60.yaml
 ./poc/cve/CVE-2025-4099-400cb9bad24a61e87ecc37cd29c94ad8.yaml
 ./poc/cve/CVE-2025-4100-e33fc338b264d3ef52655e6d545ff73c.yaml
+./poc/cve/CVE-2025-4101-8d4527627a6e631eadefd7ad7042e52c.yaml
 ./poc/cve/CVE-2025-4104-76c7f9e223a88e0463cbbbf07ebbe4e2.yaml
 ./poc/cve/CVE-2025-4126-b8a01e46bf6b089572c55c8f6ec71a82.yaml
 ./poc/cve/CVE-2025-4127-a091742faad5e56b4a7f9aa37450c8a3.yaml
@@ -99896,6 +100013,8 @@
 ./poc/cve/CVE-2025-4172-b8c57f0f800326ea006bd515a3a5fd99.yaml
 ./poc/cve/CVE-2025-4177-b982432e500f4e778d4e6aa71d3ff7a7.yaml
 ./poc/cve/CVE-2025-4179-43013c9c678fb22352c7fddc1e3292c9.yaml
+./poc/cve/CVE-2025-4189-70c502413fad68fd71f977fbb9b2f000.yaml
+./poc/cve/CVE-2025-4194-b0d0754501ba7e8438b1f4a87761bd7a.yaml
 ./poc/cve/CVE-2025-4198-b498702eed6772b5e26e0dd6ee518b9a.yaml
 ./poc/cve/CVE-2025-4199-8afd8d621ca9a74f84af2d8c81376211.yaml
 ./poc/cve/CVE-2025-4206-8ac34d39774dff3cc15d5d46c74a17d9.yaml
@@ -99913,6 +100032,8 @@
 ./poc/cve/CVE-2025-43839-8bcb1663e8766c495d5ff6c23bbcf974.yaml
 ./poc/cve/CVE-2025-43840-c38a11fffb5209f3acc77c563898c5d2.yaml
 ./poc/cve/CVE-2025-43841-2dd6bffab465da62b991679d55c24194.yaml
+./poc/cve/CVE-2025-4391-912c0e7f15b1b4b6ba0154bf01594cc2.yaml
+./poc/cve/CVE-2025-4396-35070b3b3d361f67d0966449a4094ee7.yaml
 ./poc/cve/CVE-2025-4396-69b1e0599ae38fdf1df43c0f70fd3136.yaml
 ./poc/cve/CVE-2025-4403-b5e0548c92dd536331a22a46fc937d35.yaml
 ./poc/cve/CVE-2025-4434-2dda4232c4638e22dbd3b3121f061d1e.yaml
@@ -99921,6 +100042,7 @@
 ./poc/cve/CVE-2025-4564-77a981f402295e48eeed242b693cff03.yaml
 ./poc/cve/CVE-2025-4589-601c20bebd046f8c3e14133c3849e13c.yaml
 ./poc/cve/CVE-2025-4591-126ae57b1521333d571746358ecca308.yaml
+./poc/cve/CVE-2025-4610-aeaa04a0277446efc1928cb1f242b82a.yaml
 ./poc/cve/CVE-2025-46225-02f58bc7cc0d73a68cad417c63a715dc.yaml
 ./poc/cve/CVE-2025-46226-ca5532f5fdfff2d1473d4484e464ba5f.yaml
 ./poc/cve/CVE-2025-46227-7937e116d13aa35fdced67f5dc7b4448.yaml
@@ -99986,6 +100108,7 @@
 ./poc/cve/CVE-2025-46470-04109c9c9e232ac63afe933cfc57eee0.yaml
 ./poc/cve/CVE-2025-46471-eb7f0cf53cfe083119e8ca0e0f3d50b9.yaml
 ./poc/cve/CVE-2025-46472-bb741c8be7c3ce682319ff33d2e551fa.yaml
+./poc/cve/CVE-2025-46473-0e335df4ad68c288c9545cd813827488.yaml
 ./poc/cve/CVE-2025-46473-1256c4602c4b966d557acb365bbf8d43.yaml
 ./poc/cve/CVE-2025-46474-2b4e477c13adf61a4057804d572c3c80.yaml
 ./poc/cve/CVE-2025-46474-d80934d37d5c291e371e8d76521ddf98.yaml
@@ -100002,6 +100125,7 @@
 ./poc/cve/CVE-2025-46486-715c906bcbd8bd52f88de92e8fa60a8f.yaml
 ./poc/cve/CVE-2025-46486-8b2a015f9d55f54355d98e11ce9c0ec9.yaml
 ./poc/cve/CVE-2025-46487-b956da8530c15b5baeddcaddd86461ce.yaml
+./poc/cve/CVE-2025-46488-0724d059bf3cbde928056c65a06f969c.yaml
 ./poc/cve/CVE-2025-46488-bec87ddc39ae5965071890507bac6fec.yaml
 ./poc/cve/CVE-2025-46489-f70160e9c2a997364dfc7bdc2472c970.yaml
 ./poc/cve/CVE-2025-46490-d285b161dabc716d1b30646cca1c39f3.yaml
@@ -100161,10 +100285,12 @@
 ./poc/cve/CVE-2025-47621-ce2d5e9d0f9bf25129fa510d7c1b3504.yaml
 ./poc/cve/CVE-2025-47622-4b23a4d796de55e2e996933e553ae13a.yaml
 ./poc/cve/CVE-2025-47623-848502d45661aac09a83f7800e9e2986.yaml
+./poc/cve/CVE-2025-47623-e4e4209f61915a547a1a3c079680de56.yaml
 ./poc/cve/CVE-2025-47625-439895b410968d33827e515ad87918ae.yaml
 ./poc/cve/CVE-2025-47626-e66dc8ccbd661fb413a20181c76d5fff.yaml
 ./poc/cve/CVE-2025-47628-224a997643c05c90ef95ba6faa8025c3.yaml
 ./poc/cve/CVE-2025-47629-923f9891608927ce86c869059a1fc3ae.yaml
+./poc/cve/CVE-2025-47630-a3621b6fc75888e0170aa5863c95cf71.yaml
 ./poc/cve/CVE-2025-47630-a378bb61f069d2469299a833a613195f.yaml
 ./poc/cve/CVE-2025-47632-5c114026bd47f6e4b98e774e654c731c.yaml
 ./poc/cve/CVE-2025-47635-6c3d8c6bdc1cf08ec306c050b5a6f5f7.yaml
@@ -100195,6 +100321,7 @@
 ./poc/cve/CVE-2025-47680-e23a112e298c4966835a42890e7acd2a.yaml
 ./poc/cve/CVE-2025-47681-ca3f2b6ae03d6d4de6a2f496c3b4294b.yaml
 ./poc/cve/CVE-2025-47682-0e263ca6d76f51d28632bbf6a710545e.yaml
+./poc/cve/CVE-2025-47682-72fb085a45d1da3ac8832366b241d55b.yaml
 ./poc/cve/CVE-2025-47683-6d8c451e361c40d2ae4990d7add7b7b2.yaml
 ./poc/cve/CVE-2025-47685-ec4191d73d72451938e28a177cfef675.yaml
 ./poc/cve/CVE-2025-47686-bfcc3d7b6291c67f5f125cab2ef8171c.yaml
@@ -100202,6 +100329,7 @@
 ./poc/cve/CVE-2025-47688-36c77125b57ffde02f59494bf244f4e9.yaml
 ./poc/cve/CVE-2025-47688-59e71f2b3af38132f09816875de746c8.yaml
 ./poc/cve/CVE-2025-47690-44c44bfc0cd77b288711915723979d44.yaml
+./poc/cve/CVE-2025-47691-37499ac46650eb152379ecf4e2a4a1fa.yaml
 ./poc/cve/CVE-2025-47691-d7a5d31de29124139222e2a5ad191951.yaml
 ./poc/cve/CVE-2025-47692-1ccbcd12fa40293ba7c999b3e15e488a.yaml
 ./poc/cve/CVE202127562-220331-222408.yaml
@@ -100488,6 +100616,7 @@
 ./poc/cve/cve-2009-4223-1466.yaml
 ./poc/cve/cve-2009-4223-1466_1.yaml
 ./poc/cve/cve-2009-4223-1467.yaml
+./poc/cve/cve-2009-4223-1467_1.yaml
 ./poc/cve/cve-2009-4223-1468.yaml
 ./poc/cve/cve-2009-4679-1471.yaml
 ./poc/cve/cve-2009-4679-1471_1.yaml
@@ -101242,6 +101371,7 @@
 ./poc/cve/cve-2011-4336-2063.yaml
 ./poc/cve/cve-2011-4336-2065.yaml
 ./poc/cve/cve-2011-4336-2066.yaml
+./poc/cve/cve-2011-4336-2066_1.yaml
 ./poc/cve/cve-2011-4336.yaml
 ./poc/cve/cve-2011-4618-2067.yaml
 ./poc/cve/cve-2011-4618-2067_1.yaml
@@ -101446,6 +101576,7 @@
 ./poc/cve/cve-2013-2248-2232_1.yaml
 ./poc/cve/cve-2013-2248-2233.yaml
 ./poc/cve/cve-2013-2248-2235.yaml
+./poc/cve/cve-2013-2248-2235_1.yaml
 ./poc/cve/cve-2013-2248-2236.yaml
 ./poc/cve/cve-2013-2248-2236_1.yaml
 ./poc/cve/cve-2013-2248-2237.yaml
@@ -101511,6 +101642,7 @@
 ./poc/cve/cve-2013-7091-2283_1.yaml
 ./poc/cve/cve-2013-7091-2284.yaml
 ./poc/cve/cve-2013-7091-2285.yaml
+./poc/cve/cve-2013-7091-2285_1.yaml
 ./poc/cve/cve-2013-7091.yaml
 ./poc/cve/cve-2013-7240-2286.yaml
 ./poc/cve/cve-2013-7240-2287.yaml
@@ -101539,6 +101671,7 @@
 ./poc/cve/cve-2014-2323-2304.yaml
 ./poc/cve/cve-2014-2323.yaml
 ./poc/cve/cve-2014-2383-2305.yaml
+./poc/cve/cve-2014-2383-2305_1.yaml
 ./poc/cve/cve-2014-2383-2306.yaml
 ./poc/cve/cve-2014-2383-2306_1.yaml
 ./poc/cve/cve-2014-2383-2307.yaml
@@ -102249,8 +102382,10 @@
 ./poc/cve/cve-2017-11610-2873.yaml
 ./poc/cve/cve-2017-11610-2874.yaml
 ./poc/cve/cve-2017-11610-2875.yaml
+./poc/cve/cve-2017-11610-2875_1.yaml
 ./poc/cve/cve-2017-11610.yaml
 ./poc/cve/cve-2017-12138-2876.yaml
+./poc/cve/cve-2017-12138-2876_1.yaml
 ./poc/cve/cve-2017-12138-2877.yaml
 ./poc/cve/cve-2017-12138-2878.yaml
 ./poc/cve/cve-2017-12138.yaml
@@ -102619,6 +102754,7 @@
 ./poc/cve/cve-2018-10823-3181_1.yaml
 ./poc/cve/cve-2018-10823-3183.yaml
 ./poc/cve/cve-2018-10823-3184.yaml
+./poc/cve/cve-2018-10823-3184_1.yaml
 ./poc/cve/cve-2018-10823.yaml
 ./poc/cve/cve-2018-10956-3185.yaml
 ./poc/cve/cve-2018-10956-3186.yaml
@@ -102686,6 +102822,7 @@
 ./poc/cve/cve-2018-12296-3236.yaml
 ./poc/cve/cve-2018-12296.yaml
 ./poc/cve/cve-2018-12300-3237.yaml
+./poc/cve/cve-2018-12300-3237_1.yaml
 ./poc/cve/cve-2018-12300-3238.yaml
 ./poc/cve/cve-2018-12300-3239.yaml
 ./poc/cve/cve-2018-12300-3239_1.yaml
@@ -102709,6 +102846,7 @@
 ./poc/cve/cve-2018-12634-3255.yaml
 ./poc/cve/cve-2018-12634.yaml
 ./poc/cve/cve-2018-12675-3256.yaml
+./poc/cve/cve-2018-12675-3256_1.yaml
 ./poc/cve/cve-2018-12675-3257.yaml
 ./poc/cve/cve-2018-12675-3258.yaml
 ./poc/cve/cve-2018-12675.yaml
@@ -103053,6 +103191,7 @@
 ./poc/cve/cve-2018-2628-3513.yaml
 ./poc/cve/cve-2018-2628-3514.yaml
 ./poc/cve/cve-2018-2628-3515.yaml
+./poc/cve/cve-2018-2628-3515_1.yaml
 ./poc/cve/cve-2018-2628.yaml
 ./poc/cve/cve-2018-2791-3516.yaml
 ./poc/cve/cve-2018-2791-3517.yaml
@@ -103121,6 +103260,7 @@
 ./poc/cve/cve-2018-6008-3575.yaml
 ./poc/cve/cve-2018-6008.yaml
 ./poc/cve/cve-2018-6200-3576.yaml
+./poc/cve/cve-2018-6200-3576_1.yaml
 ./poc/cve/cve-2018-6200-3577.yaml
 ./poc/cve/cve-2018-6200-3578.yaml
 ./poc/cve/cve-2018-6200.yaml
@@ -103212,6 +103352,7 @@
 ./poc/cve/cve-2018-9118-3651_1.yaml
 ./poc/cve/cve-2018-9118-3653.yaml
 ./poc/cve/cve-2018-9118-3654.yaml
+./poc/cve/cve-2018-9118-3654_1.yaml
 ./poc/cve/cve-2018-9126-3655.yaml
 ./poc/cve/cve-2018-9161-3658.yaml
 ./poc/cve/cve-2018-9161-3659.yaml
@@ -103264,6 +103405,7 @@
 ./poc/cve/cve-2019-1010287-3698.yaml
 ./poc/cve/cve-2019-1010290-3700.yaml
 ./poc/cve/cve-2019-1010290-3701.yaml
+./poc/cve/cve-2019-1010290-3701_1.yaml
 ./poc/cve/cve-2019-1010290-3702.yaml
 ./poc/cve/cve-2019-1010290.yaml
 ./poc/cve/cve-2019-1010290_1.yaml
@@ -103737,6 +103879,7 @@
 ./poc/cve/cve-2019-3396-4124.yaml
 ./poc/cve/cve-2019-3396-4124_1.yaml
 ./poc/cve/cve-2019-3396-4126.yaml
+./poc/cve/cve-2019-3396-4126_1.yaml
 ./poc/cve/cve-2019-3396-4127.yaml
 ./poc/cve/cve-2019-3396-4128.yaml
 ./poc/cve/cve-2019-3396.yaml
@@ -103764,6 +103907,7 @@
 ./poc/cve/cve-2019-3911-4151.yaml
 ./poc/cve/cve-2019-3911.yaml
 ./poc/cve/cve-2019-3912-4152.yaml
+./poc/cve/cve-2019-3912-4152_1.yaml
 ./poc/cve/cve-2019-3912-4153.yaml
 ./poc/cve/cve-2019-3912-4154.yaml
 ./poc/cve/cve-2019-3912-4155.yaml
@@ -103833,6 +103977,7 @@
 ./poc/cve/cve-2019-7256-4217_1.yaml
 ./poc/cve/cve-2019-7256.yaml
 ./poc/cve/cve-2019-7275-4218.yaml
+./poc/cve/cve-2019-7275-4218_1.yaml
 ./poc/cve/cve-2019-7275-4220.yaml
 ./poc/cve/cve-2019-7275-4221.yaml
 ./poc/cve/cve-2019-7275-4222.yaml
@@ -104021,6 +104166,7 @@
 ./poc/cve/cve-2020-1147-4404.yaml
 ./poc/cve/cve-2020-1147.yaml
 ./poc/cve/cve-2020-11529-4406.yaml
+./poc/cve/cve-2020-11529-4406_1.yaml
 ./poc/cve/cve-2020-11529-4407.yaml
 ./poc/cve/cve-2020-11529-4408.yaml
 ./poc/cve/cve-2020-11529-4409.yaml
@@ -104269,6 +104415,7 @@
 ./poc/cve/cve-2020-17453-4660.yaml
 ./poc/cve/cve-2020-17453-4662.yaml
 ./poc/cve/cve-2020-17453-4664.yaml
+./poc/cve/cve-2020-17453-4664_1.yaml
 ./poc/cve/cve-2020-17453-4665.yaml
 ./poc/cve/cve-2020-17456-4666.yaml
 ./poc/cve/cve-2020-17456-4667.yaml
@@ -104312,6 +104459,7 @@
 ./poc/cve/cve-2020-17530-4699.yaml
 ./poc/cve/cve-2020-17530.yaml
 ./poc/cve/cve-2020-18268-4700.yaml
+./poc/cve/cve-2020-18268-4700_1.yaml
 ./poc/cve/cve-2020-18268-4701.yaml
 ./poc/cve/cve-2020-18268-4702.yaml
 ./poc/cve/cve-2020-18268-4702_1.yaml
@@ -104400,6 +104548,7 @@
 ./poc/cve/cve-2020-23015-4768.yaml
 ./poc/cve/cve-2020-23015-4769.yaml
 ./poc/cve/cve-2020-23015-4770.yaml
+./poc/cve/cve-2020-23015-4770_1.yaml
 ./poc/cve/cve-2020-23015-4771.yaml
 ./poc/cve/cve-2020-23015.yaml
 ./poc/cve/cve-2020-23517-4772.yaml
@@ -104792,6 +104941,7 @@
 ./poc/cve/cve-2020-36289-5122.yaml
 ./poc/cve/cve-2020-36289.yaml
 ./poc/cve/cve-2020-36365-5123.yaml
+./poc/cve/cve-2020-36365-5123_1.yaml
 ./poc/cve/cve-2020-36365-5124.yaml
 ./poc/cve/cve-2020-36365-5125.yaml
 ./poc/cve/cve-2020-36365-5125_1.yaml
@@ -107543,6 +107693,7 @@
 ./poc/default/change-default-login-logo-url-and-title.yaml
 ./poc/default/change-default-login-logo-url-and-title_1.yaml
 ./poc/default/chinaunicom-default-login-906.yaml
+./poc/default/chinaunicom-default-login-906_1.yaml
 ./poc/default/chinaunicom-default-login-908.yaml
 ./poc/default/chinaunicom-default-login-909.yaml
 ./poc/default/chinaunicom-default-login-909_1.yaml
@@ -107689,6 +107840,7 @@
 ./poc/default/default-glassfish-server-page_1.yaml
 ./poc/default/default-ibm-http-server-6857.yaml
 ./poc/default/default-iis7-page-6858.yaml
+./poc/default/default-iis7-page-6858_1.yaml
 ./poc/default/default-iis7-page-6859.yaml
 ./poc/default/default-iis7-page-6859_1.yaml
 ./poc/default/default-iis7-page-6859_2.yaml
@@ -107785,6 +107937,7 @@
 ./poc/default/default-plesk-page.yaml
 ./poc/default/default-plesk-page_1.yaml
 ./poc/default/default-redhat-test-page-6902.yaml
+./poc/default/default-redhat-test-page-6902_1.yaml
 ./poc/default/default-redhat-test-page-6903.yaml
 ./poc/default/default-redhat-test-page-6903_1.yaml
 ./poc/default/default-redhat-test-page-6904.yaml
@@ -107831,6 +107984,7 @@
 ./poc/default/dell-idrac-default-login-6945.yaml
 ./poc/default/dell-idrac-default-login-6946.yaml
 ./poc/default/dell-idrac-default-login.yaml
+./poc/default/dell-idrac-default-login_1.yaml
 ./poc/default/dell-idrac9-default-login-6930.yaml
 ./poc/default/dell-idrac9-default-login-6932.yaml
 ./poc/default/dell-idrac9-default-login-6933.yaml
@@ -108708,6 +108862,7 @@
 ./poc/detect/ascom-detect_1.yaml
 ./poc/detect/aspnet-version-detect.yaml
 ./poc/detect/aspnet-version-detect_1.yaml
+./poc/detect/aspnet-version-detect_2.yaml
 ./poc/detect/atlantis-detect.yaml
 ./poc/detect/atlantis-detect_1.yaml
 ./poc/detect/atlantis-detect_2.yaml
@@ -108721,6 +108876,7 @@
 ./poc/detect/autoset-detect.yaml
 ./poc/detect/autoset-detect_1.yaml
 ./poc/detect/autoset-detect_2.yaml
+./poc/detect/autoset-detect_3.yaml
 ./poc/detect/avantfax-detect-598.yaml
 ./poc/detect/avantfax-detect-600.yaml
 ./poc/detect/avantfax-detect-600_1.yaml
@@ -108767,6 +108923,7 @@
 ./poc/detect/bigbluebutton-detect-723.yaml
 ./poc/detect/bigbluebutton-detect.yaml
 ./poc/detect/bigbluebutton-detect_1.yaml
+./poc/detect/bigbluebutton-detect_2.yaml
 ./poc/detect/bigip-apm-detect.yaml
 ./poc/detect/bigip-detect.yaml
 ./poc/detect/bigip-detect_1.yaml
@@ -108839,6 +108996,7 @@
 ./poc/detect/chevereto-detect-905.yaml
 ./poc/detect/chevereto-detect.yaml
 ./poc/detect/chevereto-detect_1.yaml
+./poc/detect/chevereto-detect_2.yaml
 ./poc/detect/chp-ads-block-detector-17650862b73dff4b34a6315938f6b250.yaml
 ./poc/detect/chp-ads-block-detector-b7efff873ee4bed005e48f45da9d3636.yaml
 ./poc/detect/chp-ads-block-detector-dba98e5ea73e2f1d6a07c9c27a108767.yaml
@@ -108859,6 +109017,7 @@
 ./poc/detect/citrix-adc-gateway-detect_1.yaml
 ./poc/detect/citrix-adc-gateway-detect_2.yaml
 ./poc/detect/citrix-adc-gateway-detect_3.yaml
+./poc/detect/citrix-adc-gateway-detect_4.yaml
 ./poc/detect/citrix-honeypot-detect.yaml
 ./poc/detect/citrix-honeypot-detect_1.yaml
 ./poc/detect/citrix-honeypot-detection.yaml
@@ -108870,6 +109029,7 @@
 ./poc/detect/citrix-vpn-detect_1.yaml
 ./poc/detect/citrix-vpn-detect_2.yaml
 ./poc/detect/citrix-vpn-detect_3.yaml
+./poc/detect/citrix-vpn-detect_4.yaml
 ./poc/detect/clamav-detect.yaml
 ./poc/detect/clamav-detect_1.yaml
 ./poc/detect/clamav-detect_1_1.yaml
@@ -108914,6 +109074,7 @@
 ./poc/detect/compalex-panel-detect.yaml
 ./poc/detect/compalex-panel-detect_1.yaml
 ./poc/detect/compalex-panel-detect_2.yaml
+./poc/detect/compalex-panel-detect_3.yaml
 ./poc/detect/comprehensive-swagger-ui-version-detection.yaml
 ./poc/detect/comprehensive-swagger-ui-version-detection_1.yaml
 ./poc/detect/connectwise-control-detect.yaml
@@ -109139,6 +109300,7 @@
 ./poc/detect/dionaea-smb-honeypot-detection_1.yaml
 ./poc/detect/directus-detect.yaml
 ./poc/detect/directus-detect_1.yaml
+./poc/detect/directus-detect_2.yaml
 ./poc/detect/dizquetv-detect.yaml
 ./poc/detect/dizquetv-detect_1.yaml
 ./poc/detect/dmarc-detect.yaml
@@ -109289,6 +109451,7 @@
 ./poc/detect/fanruanoa-detect-7392.yaml
 ./poc/detect/fanruanoa-detect-7392_1.yaml
 ./poc/detect/fanruanoa-detect.yaml
+./poc/detect/fanruanoa-detect_1.yaml
 ./poc/detect/fanruanoa2012-detect-7388.yaml
 ./poc/detect/fanruanoa2012-detect.yaml
 ./poc/detect/fanruanoa2012-detect_1.yaml
@@ -109526,6 +109689,7 @@
 ./poc/detect/hashicorp-vault-detect_1.yaml
 ./poc/detect/hcpanywhere-detect.yaml
 ./poc/detect/hcpanywhere-detect_1.yaml
+./poc/detect/hcpanywhere-detect_2.yaml
 ./poc/detect/herokuapp-detect-7938.yaml
 ./poc/detect/herokuapp-detect-7938_1.yaml
 ./poc/detect/herokuapp-detect-7938_2.yaml
@@ -109615,6 +109779,7 @@
 ./poc/detect/icewarp-panel-detect_3.yaml
 ./poc/detect/icewarp-panel-detect_4.yaml
 ./poc/detect/identity-server-v3-detect.yaml
+./poc/detect/identity-server-v3-detect_1.yaml
 ./poc/detect/identityguard-detect.yaml
 ./poc/detect/iis-detect.yaml
 ./poc/detect/iis-detect_1.yaml
@@ -109629,6 +109794,7 @@
 ./poc/detect/ilo-upnp-detect_1.yaml
 ./poc/detect/imap-detect.yaml
 ./poc/detect/imap-detect_1.yaml
+./poc/detect/imap-detect_2.yaml
 ./poc/detect/imgproxy-detect.yaml
 ./poc/detect/impresscms-detect.yaml
 ./poc/detect/impresscms-detect_1.yaml
@@ -109691,6 +109857,7 @@
 ./poc/detect/jeecg-boot-detect-8248_2.yaml
 ./poc/detect/jeecg-boot-detect.yaml
 ./poc/detect/jeecg-boot-detect_1.yaml
+./poc/detect/jeecg-boot-detect_2.yaml
 ./poc/detect/jeedom-detect-8249.yaml
 ./poc/detect/jeedom-detect-8249_1.yaml
 ./poc/detect/jeedom-detect-8251.yaml
@@ -110371,6 +110538,7 @@
 ./poc/detect/puppetserver-detect.yaml
 ./poc/detect/puppetserver-detect_1.yaml
 ./poc/detect/puppetserver-detect_2.yaml
+./poc/detect/puppetserver-detect_3.yaml
 ./poc/detect/pypiserver-detect.yaml
 ./poc/detect/pypiserver-detect_1.yaml
 ./poc/detect/pypiserver-detect_2.yaml
@@ -110597,6 +110765,7 @@
 ./poc/detect/smartstore-detect.yaml
 ./poc/detect/smartstore-detect_1.yaml
 ./poc/detect/smartstore-detect_2.yaml
+./poc/detect/smartstore-detect_3.yaml
 ./poc/detect/smb-detect.yaml
 ./poc/detect/smb-detect_1.yaml
 ./poc/detect/smb-detect_2.yaml
@@ -111484,6 +111653,7 @@
 ./poc/docker/kubernetes-version-8552_1.yaml
 ./poc/docker/kubernetes-version-8553.yaml
 ./poc/docker/kubernetes-version-8553_1.yaml
+./poc/docker/kubernetes-version-8553_2.yaml
 ./poc/docker/kubernetes-web-view.yaml
 ./poc/docker/kubernetes-web-view_1.yaml
 ./poc/docker/kubernetes-web-view_1_1.yaml
@@ -112227,6 +112397,7 @@
 ./poc/elk/elasticsearch-5-version.yaml
 ./poc/elk/elasticsearch-5-version_1.yaml
 ./poc/elk/elasticsearch-7193.yaml
+./poc/elk/elasticsearch-7193_1.yaml
 ./poc/elk/elasticsearch-7194.yaml
 ./poc/elk/elasticsearch-7195.yaml
 ./poc/elk/elasticsearch-7196.yaml
@@ -112306,6 +112477,7 @@
 ./poc/exposed/adobe-connect-username-exposure.yaml
 ./poc/exposed/adobe-connect-username-exposure_1.yaml
 ./poc/exposed/adobe-connect-username-exposure_1_1.yaml
+./poc/exposed/adobe-connect-username-exposure_2.yaml
 ./poc/exposed/affiliate-disclosure-statement.yaml
 ./poc/exposed/affiliate-disclosure-statement_1.yaml
 ./poc/exposed/airflow-configuration-exposure.yaml
@@ -112338,6 +112510,7 @@
 ./poc/exposed/ansible-tower-exposure_1.yaml
 ./poc/exposed/ansible-tower-exposure_2.yaml
 ./poc/exposed/ansible-tower-exposure_3.yaml
+./poc/exposed/ansible-tower-exposure_4.yaml
 ./poc/exposed/apache-drill-exposure.yaml
 ./poc/exposed/apache-drill-exposure_1.yaml
 ./poc/exposed/apache-drill-exposure_2.yaml
@@ -112360,6 +112533,7 @@
 ./poc/exposed/appspec-yml-disclosure.yaml
 ./poc/exposed/appspec-yml-disclosure_1.yaml
 ./poc/exposed/aspnetmvc-version-disclosure.yaml
+./poc/exposed/aspnetmvc-version-disclosure_1.yaml
 ./poc/exposed/avtech-dvr-exposure-614.yaml
 ./poc/exposed/avtech-dvr-exposure-616.yaml
 ./poc/exposed/avtech-dvr-exposure-617.yaml
@@ -112435,6 +112609,7 @@
 ./poc/exposed/deployment-interface-exposed.yaml
 ./poc/exposed/desktop-ini-exposure.yaml
 ./poc/exposed/desktop-ini-exposure_1.yaml
+./poc/exposed/desktop-ini-exposure_2.yaml
 ./poc/exposed/dgraph-dashboard-exposure.yaml
 ./poc/exposed/dgraph-dashboard-exposure_1.yaml
 ./poc/exposed/dgraph-dashboard-exposure_2.yaml
@@ -112497,6 +112672,7 @@
 ./poc/exposed/editor-exposure_1.yaml
 ./poc/exposed/editor-exposure_2.yaml
 ./poc/exposed/editor-exposure_3.yaml
+./poc/exposed/editor-exposure_4.yaml
 ./poc/exposed/eea-disclosure.yaml
 ./poc/exposed/ehanced-webpack-sourcemap-disclosure.yaml
 ./poc/exposed/env-disclosure.yaml
@@ -112542,24 +112718,28 @@
 ./poc/exposed/exposed-authentication-asmx-7288.yaml
 ./poc/exposed/exposed-authentication-asmx-7288_1.yaml
 ./poc/exposed/exposed-authentication-asmx.yaml
+./poc/exposed/exposed-authentication-asmx_1.yaml
 ./poc/exposed/exposed-bitkeeper-7291.yaml
 ./poc/exposed/exposed-bitkeeper-7292.yaml
 ./poc/exposed/exposed-bitkeeper-7292_1.yaml
 ./poc/exposed/exposed-bitkeeper.yaml
 ./poc/exposed/exposed-bitkeeper_1.yaml
 ./poc/exposed/exposed-bitkeeper_2.yaml
+./poc/exposed/exposed-bitkeeper_3.yaml
 ./poc/exposed/exposed-bzr-7294.yaml
 ./poc/exposed/exposed-bzr-7295.yaml
 ./poc/exposed/exposed-bzr-7295_1.yaml
 ./poc/exposed/exposed-bzr.yaml
 ./poc/exposed/exposed-bzr_1.yaml
 ./poc/exposed/exposed-bzr_2.yaml
+./poc/exposed/exposed-bzr_3.yaml
 ./poc/exposed/exposed-darcs-7297.yaml
 ./poc/exposed/exposed-darcs-7298.yaml
 ./poc/exposed/exposed-darcs-7298_1.yaml
 ./poc/exposed/exposed-darcs.yaml
 ./poc/exposed/exposed-darcs_1.yaml
 ./poc/exposed/exposed-darcs_2.yaml
+./poc/exposed/exposed-darcs_3.yaml
 ./poc/exposed/exposed-docker-api-7299.yaml
 ./poc/exposed/exposed-docker-api.yaml
 ./poc/exposed/exposed-docker-api_1.yaml
@@ -112604,6 +112784,7 @@
 ./poc/exposed/exposed-hg.yaml
 ./poc/exposed/exposed-hg_1.yaml
 ./poc/exposed/exposed-hg_2.yaml
+./poc/exposed/exposed-hg_3.yaml
 ./poc/exposed/exposed-jira.yaml
 ./poc/exposed/exposed-jquery-file-upload-7313.yaml
 ./poc/exposed/exposed-jquery-file-upload-7313_1.yaml
@@ -112670,6 +112851,7 @@
 ./poc/exposed/exposed-sharepoint-list-7345.yaml
 ./poc/exposed/exposed-sqlite-manager.yaml
 ./poc/exposed/exposed-sqlite-manager_1.yaml
+./poc/exposed/exposed-sqlite-manager_2.yaml
 ./poc/exposed/exposed-struts.yaml
 ./poc/exposed/exposed-svn-7351.yaml
 ./poc/exposed/exposed-svn-7351_1.yaml
@@ -112686,6 +112868,7 @@
 ./poc/exposed/exposed-vscode-7357.yaml
 ./poc/exposed/exposed-vscode.yaml
 ./poc/exposed/exposed-vscode_1.yaml
+./poc/exposed/exposed-vscode_2.yaml
 ./poc/exposed/exposed-webalizer-7358.yaml
 ./poc/exposed/exposed-webalizer-7360.yaml
 ./poc/exposed/exposed-zookeeper-7361.yaml
@@ -113696,11 +113879,13 @@
 ./poc/fuzz/log4j-fuzz2.yaml
 ./poc/fuzz/prestashop-module-fuzz.yaml
 ./poc/gcloud/gcloud-access-token.yaml
+./poc/gcloud/gcloud-access-token_1.yaml
 ./poc/gcloud/gcloud-config-default.yaml
 ./poc/gcloud/gcloud-config-default_1.yaml
 ./poc/gcloud/gcloud-config-default_2.yaml
 ./poc/gcloud/gcloud-config-default_3.yaml
 ./poc/gcloud/gcloud-credentials.yaml
+./poc/gcloud/gcloud-credentials_1.yaml
 ./poc/gcloud/nktagcloud-a8e6501893b16cbc2185c791f71d5631.yaml
 ./poc/gcloud/nktagcloud.yaml
 ./poc/gcloud/nktagcloud_1.yaml
@@ -113792,6 +113977,7 @@
 ./poc/git/digitalrebar-default-login.yaml
 ./poc/git/digitalrebar-login.yaml
 ./poc/git/digitalrebar-login_1.yaml
+./poc/git/digitalrebar-login_2.yaml
 ./poc/git/digitalrebar-provision-default-login.yaml
 ./poc/git/digitalrebar-provision-ui.yaml
 ./poc/git/digitalrebar-provision-ui_1.yaml
@@ -113892,6 +114078,7 @@
 ./poc/git/gitbook-detect-7624.yaml
 ./poc/git/gitbook-detect-7624_1.yaml
 ./poc/git/gitbook-takeover.yaml
+./poc/git/gitbook-takeover_1.yaml
 ./poc/git/gitbook.yaml
 ./poc/git/gitbucket.yaml
 ./poc/git/gitea-detect-1.yaml
@@ -113905,6 +114092,7 @@
 ./poc/git/gitea-installer_4.yaml
 ./poc/git/gitea-login.yaml
 ./poc/git/gitea-login_1.yaml
+./poc/git/gitea-login_2.yaml
 ./poc/git/gitea-public-signup.yaml
 ./poc/git/gitea-rce.yaml
 ./poc/git/gitea.yaml
@@ -113976,6 +114164,7 @@
 ./poc/git/gitlab-public-signup-7681.yaml
 ./poc/git/gitlab-public-signup.yaml
 ./poc/git/gitlab-public-signup_1.yaml
+./poc/git/gitlab-public-signup_2.yaml
 ./poc/git/gitlab-public-snippets-1.yaml
 ./poc/git/gitlab-public-snippets-2.yaml
 ./poc/git/gitlab-public-snippets-7685.yaml
@@ -113990,6 +114179,7 @@
 ./poc/git/gitlab-public-snippets-7690_2.yaml
 ./poc/git/gitlab-public-snippets.yaml
 ./poc/git/gitlab-public-snippets_1.yaml
+./poc/git/gitlab-public-snippets_2.yaml
 ./poc/git/gitlab-rce-7691.yaml
 ./poc/git/gitlab-rce-7691_1.yaml
 ./poc/git/gitlab-rce-7692.yaml
@@ -114004,6 +114194,7 @@
 ./poc/git/gitlab-saml_1.yaml
 ./poc/git/gitlab-snippets.yaml
 ./poc/git/gitlab-uninitialized-password-7695.yaml
+./poc/git/gitlab-uninitialized-password.yaml
 ./poc/git/gitlab-user-enum.yaml
 ./poc/git/gitlab-user-enumeration-7697.yaml
 ./poc/git/gitlab-user-enumeration-7697_1.yaml
@@ -115176,6 +115367,7 @@
 ./poc/http/http-missing-security-headers-8058.yaml
 ./poc/http/http-missing-security-headers.yaml
 ./poc/http/http-missing-security-headers_1.yaml
+./poc/http/http-missing-security-headers_2.yaml
 ./poc/http/http-multiple-matcher-condition.yaml
 ./poc/http/http-multiple-matcher-condition_1.yaml
 ./poc/http/http-multiple-matcher.yaml
@@ -115206,8 +115398,10 @@
 ./poc/http/httpbin-open-redirect.yaml
 ./poc/http/httpbin-open-redirect_1.yaml
 ./poc/http/httpbin-open-redirect_2.yaml
+./poc/http/httpbin-open-redirect_3.yaml
 ./poc/http/httpbin-panel-8050.yaml
 ./poc/http/httpbin-panel-8050_1.yaml
+./poc/http/httpbin-panel-8050_2.yaml
 ./poc/http/httpbin-panel-8051.yaml
 ./poc/http/httpbin-panel-8051_1.yaml
 ./poc/http/httpbin-panel.yaml
@@ -115217,6 +115411,7 @@
 ./poc/http/httpbin-xss.yaml
 ./poc/http/httpbin-xss_1.yaml
 ./poc/http/httpbin-xss_2.yaml
+./poc/http/httpbin-xss_3.yaml
 ./poc/http/httpd-config-8055.yaml
 ./poc/http/httpd-config.yaml
 ./poc/http/httpfs.yaml
@@ -115307,8 +115502,10 @@
 ./poc/ibm/ibm-dcec-panel.yaml
 ./poc/ibm/ibm-dcec-panel_1.yaml
 ./poc/ibm/ibm-decision-runner.yaml
+./poc/ibm/ibm-decision-runner_1.yaml
 ./poc/ibm/ibm-decision-server-console.yaml
 ./poc/ibm/ibm-decision-server-runtime.yaml
+./poc/ibm/ibm-decision-server-runtime_1.yaml
 ./poc/ibm/ibm-friendly-path-exposure-8092.yaml
 ./poc/ibm/ibm-friendly-path-exposure-8093.yaml
 ./poc/ibm/ibm-friendly-path-exposure.yaml
@@ -115618,6 +115815,7 @@
 ./poc/java/generic-j2ee-lfi_1.yaml
 ./poc/java/generic-j2ee-lfi_1_1.yaml
 ./poc/java/generic-j2ee-lfi_2.yaml
+./poc/java/generic-j2ee-lfi_3.yaml
 ./poc/java/graphql-java-detect.yaml
 ./poc/java/h3c-iMC-JSF-rce.yaml
 ./poc/java/hangseng-jrescloud-uploadimage-fileupload.yaml
@@ -116201,6 +116399,7 @@
 ./poc/javascript/bower-json_1.yaml
 ./poc/javascript/bower-json_2.yaml
 ./poc/javascript/bower-json_3.yaml
+./poc/javascript/bower-json_4.yaml
 ./poc/javascript/composer-auth-json.yaml
 ./poc/javascript/config-js.yaml
 ./poc/javascript/config-json.yaml
@@ -116323,6 +116522,7 @@
 ./poc/javascript/get-access-token-json.yaml
 ./poc/javascript/google-services-json.yaml
 ./poc/javascript/google-services-json_1.yaml
+./poc/javascript/google-services-json_2.yaml
 ./poc/javascript/google-services-json_3.yaml
 ./poc/javascript/google-services-json_3_1.yaml
 ./poc/javascript/gpc-json.yaml
@@ -117333,6 +117533,7 @@
 ./poc/local_file_inclusion/elfinder-detect-7201_1.yaml
 ./poc/local_file_inclusion/elfinder-detect-7202.yaml
 ./poc/local_file_inclusion/elfinder-detect.yaml
+./poc/local_file_inclusion/elfinder-detect_1.yaml
 ./poc/local_file_inclusion/elfinder-path-traversal-7203.yaml
 ./poc/local_file_inclusion/elfinder-path-traversal-7203_1.yaml
 ./poc/local_file_inclusion/elfinder-path-traversal.yaml
@@ -117523,6 +117724,7 @@
 ./poc/local_file_inclusion/huawei-hg659-lfi.yaml
 ./poc/local_file_inclusion/huawei-hg659-lfi_1.yaml
 ./poc/local_file_inclusion/huawei-hg659-lfi_2.yaml
+./poc/local_file_inclusion/huawei-hg659-lfi_3.yaml
 ./poc/local_file_inclusion/ibm-infoprint-lfi-8101.yaml
 ./poc/local_file_inclusion/ibm-infoprint-lfi-8103.yaml
 ./poc/local_file_inclusion/ibm-infoprint-lfi-8103_1.yaml
@@ -118440,6 +118642,7 @@
 ./poc/microsoft/bolt-cms-panel.yaml
 ./poc/microsoft/bolt-cms-panel_1.yaml
 ./poc/microsoft/bolt-cms-panel_2.yaml
+./poc/microsoft/bolt-cms-panel_3.yaml
 ./poc/microsoft/booking-sms-6e9ad46ba7b82908596d92a906a7c328.yaml
 ./poc/microsoft/booking-sms-d025c95ce85de2f4cfa3bfa54af8279c.yaml
 ./poc/microsoft/booking-sms.yaml
@@ -118819,6 +119022,7 @@
 ./poc/microsoft/dotcms-admin-panel.yaml
 ./poc/microsoft/dotcms-admin-panel_1.yaml
 ./poc/microsoft/dotcms-admin-panel_2.yaml
+./poc/microsoft/dotcms-admin-panel_3.yaml
 ./poc/microsoft/dotcms.yaml
 ./poc/microsoft/dotnetcms-sqli-7089.yaml
 ./poc/microsoft/drupal_module-comscore_direct-cross-site-scripting.yaml
@@ -118985,6 +119189,7 @@
 ./poc/microsoft/forticlientems-panel.yaml
 ./poc/microsoft/forticlientems-panel_1.yaml
 ./poc/microsoft/forticlientems-panel_2.yaml
+./poc/microsoft/forticlientems-panel_3.yaml
 ./poc/microsoft/fraudlabs-pro-sms-verification.yaml
 ./poc/microsoft/fraudlabs-pro-sms-verification_1.yaml
 ./poc/microsoft/fscf-sms-6e9ad46ba7b82908596d92a906a7c328.yaml
@@ -118995,6 +119200,7 @@
 ./poc/microsoft/fuelcms-panel_1.yaml
 ./poc/microsoft/fuelcms-panel_2.yaml
 ./poc/microsoft/fuelcms-panel_3.yaml
+./poc/microsoft/fuelcms-panel_4.yaml
 ./poc/microsoft/funnelforms-free-1297d1fb57bd7d885d80a5e4a197f915.yaml
 ./poc/microsoft/funnelforms-free-182b5732619f0f04ba87986d9af8fe8b.yaml
 ./poc/microsoft/funnelforms-free-19432733cb05d68c31ecb2ea6d0c38ae.yaml
@@ -120472,6 +120678,7 @@
 ./poc/microsoft/zzcms.yaml
 ./poc/microsoft/zzzcms-info-disclosure.yaml
 ./poc/microsoft/zzzcms-info-disclosure_1.yaml
+./poc/microsoft/zzzcms-ssrf.yaml
 ./poc/microsoft/zzzcms.yaml
 ./poc/microsoft/铭飞mcms.yaml
 ./poc/mongodb/alibaba-mongoshake-unauth-268.yaml
@@ -120540,6 +120747,8 @@
 ./poc/mysql/exposed-mysql-initial-7322.yaml
 ./poc/mysql/exposed-mysql-initial-7323.yaml
 ./poc/mysql/exposed-mysql-initial.yaml
+./poc/mysql/exposed-mysql-initial_1.yaml
+./poc/mysql/mysql-detect.yaml
 ./poc/mysql/mysql-history.yaml
 ./poc/mysql/mysql-load-file.yaml
 ./poc/mysql/mysql-show-databases.yaml
@@ -120864,6 +121073,7 @@
 ./poc/open_redirect/all-404-redirect-to-homepage_2.yaml
 ./poc/open_redirect/all-404-redirect-to-homepage_3.yaml
 ./poc/open_redirect/all-404-redirect-to-homepage_4.yaml
+./poc/open_redirect/all-404-redirect-to-homepage_5.yaml
 ./poc/open_redirect/all-in-one-redirection-01209db5d618d8a7dcadce9768308b17.yaml
 ./poc/open_redirect/all-in-one-redirection-40669ba7afc409a809558b70fb86dc5a.yaml
 ./poc/open_redirect/all-in-one-redirection-9e1b1d2bb03fd53ceb91ffb3132e70ec.yaml
@@ -120878,6 +121088,7 @@
 ./poc/open_redirect/aspnuke-openredirect_2.yaml
 ./poc/open_redirect/aspnuke-openredirect_3.yaml
 ./poc/open_redirect/aspnuke-openredirect_4.yaml
+./poc/open_redirect/aspnuke-openredirect_5.yaml
 ./poc/open_redirect/attitude-theme-open-redirect-586.yaml
 ./poc/open_redirect/attitude-theme-open-redirect-588.yaml
 ./poc/open_redirect/attitude-theme-open-redirect.yaml
@@ -120914,6 +121125,7 @@
 ./poc/open_redirect/bitrix-open-redirect_3.yaml
 ./poc/open_redirect/bitrix-open-redirect_4.yaml
 ./poc/open_redirect/bitrix-open-redirect_5.yaml
+./poc/open_redirect/bitrix-open-redirect_6.yaml
 ./poc/open_redirect/bitrix-trackmailclick-open-redirect.yaml
 ./poc/open_redirect/blogger-301-redirect-395f905429d6602b9180d85126621e88.yaml
 ./poc/open_redirect/blogger-301-redirect.yaml
@@ -121051,6 +121263,7 @@
 ./poc/open_redirect/icewarp-open-redirect_1.yaml
 ./poc/open_redirect/icewarp-open-redirect_2.yaml
 ./poc/open_redirect/icewarp-open-redirect_3.yaml
+./poc/open_redirect/icewarp-open-redirect_4.yaml
 ./poc/open_redirect/icewarp-openredirects.yaml
 ./poc/open_redirect/icewarp-openredirects_1.yaml
 ./poc/open_redirect/icewarp-openredirects_2.yaml
@@ -121675,6 +121888,7 @@
 ./poc/oracle/oracle-cgi-printenv_1.yaml
 ./poc/oracle/oracle-cgi-printenv_2.yaml
 ./poc/oracle/oracle-cgi-printenv_3.yaml
+./poc/oracle/oracle-cgi-printenv_4.yaml
 ./poc/oracle/oracle-commerce-cloud.yaml
 ./poc/oracle/oracle-ebs-bispgraph-file-access-1.yaml
 ./poc/oracle/oracle-ebs-bispgraph-file-access-2.yaml
@@ -121955,6 +122169,7 @@
 ./poc/other/3cx-phone-management-panel.yaml
 ./poc/other/3cx-phone-management-panel_1.yaml
 ./poc/other/3cx-phone-management-panel_2.yaml
+./poc/other/3cx-phone-management-panel_3.yaml
 ./poc/other/3cx.yaml
 ./poc/other/3d-avatar-user-profile-a51e9baefb34f51ab4b9562b06f8f29f.yaml
 ./poc/other/3d-avatar-user-profile.yaml
@@ -123484,6 +123699,7 @@
 ./poc/other/adiscon-loganalyzer_3.yaml
 ./poc/other/adiscon-loganalyzer_4.yaml
 ./poc/other/adiscon-loganalyzer_5.yaml
+./poc/other/adiscon-loganalyzer_6.yaml
 ./poc/other/adl-post-slider-b5e2241734a6cb5f414ce8482568297e.yaml
 ./poc/other/adl-post-slider.yaml
 ./poc/other/adl-post-slider_1.yaml
@@ -123624,6 +123840,7 @@
 ./poc/other/adminer-panel-77.yaml
 ./poc/other/adminer-panel.yaml
 ./poc/other/adminer-panel_1.yaml
+./poc/other/adminer-panel_2.yaml
 ./poc/other/adminer-plugin-d41d8cd98f00b204e9800998ecf8427e.yaml
 ./poc/other/adminer-plugin.yaml
 ./poc/other/adminer-plugin_1.yaml
@@ -124844,6 +125061,7 @@
 ./poc/other/alt-manager.yaml
 ./poc/other/alt-manager_1.yaml
 ./poc/other/alt-manager_2.yaml
+./poc/other/alt-monitoring-d7584cf1f98b669d7dc9a8c3ee29829c.yaml
 ./poc/other/alt-report-68f26f78c029ccafb81a87dde1ec9521.yaml
 ./poc/other/alt-report.yaml
 ./poc/other/altair-5f9699fb6ef30350b50e8957de73b688.yaml
@@ -125684,6 +125902,7 @@
 ./poc/other/arendelle_2.yaml
 ./poc/other/ares-rat-c2.yaml
 ./poc/other/ares-rat-c2_1.yaml
+./poc/other/ares-rat-c2_2.yaml
 ./poc/other/argo-properties.yaml
 ./poc/other/argo-properties_1.yaml
 ./poc/other/argo_cd.yaml
@@ -126210,6 +126429,7 @@
 ./poc/other/audio-and-video-player.yaml
 ./poc/other/audio-and-video-player_1.yaml
 ./poc/other/audio-b1046053e2875b7352804c4a573d020a.yaml
+./poc/other/audio-comments-2599679b30123ddfa20f148ec7220ada.yaml
 ./poc/other/audio-comparison-lite.yaml
 ./poc/other/audio-comparison-lite_1.yaml
 ./poc/other/audio-d41d8cd98f00b204e9800998ecf8427e.yaml
@@ -126535,6 +126755,7 @@
 ./poc/other/avantfax-panel.yaml
 ./poc/other/avantfax-panel_1.yaml
 ./poc/other/avantfax-panel_2.yaml
+./poc/other/avantfax-panel_3.yaml
 ./poc/other/avantfax.yaml
 ./poc/other/avartan-slider-lite-a56daa181a96e4fd76593fcf4315d467.yaml
 ./poc/other/avartan-slider-lite.yaml
@@ -126552,10 +126773,12 @@
 ./poc/other/avayaaura-cm-panel.yaml
 ./poc/other/avayaaura-cm-panel_1.yaml
 ./poc/other/avayaaura-cm-panel_2.yaml
+./poc/other/avayaaura-cm-panel_3.yaml
 ./poc/other/avayaaura-system-manager-panel.yaml
 ./poc/other/avayaaura-system-manager-panel_1.yaml
 ./poc/other/avayaaura-system-manager-panel_2.yaml
 ./poc/other/avayaaura-system-manager-panel_3.yaml
+./poc/other/avayaaura-system-manager-panel_4.yaml
 ./poc/other/avchat-3-46f6f67c83c3b1fbe1cea6bc4c768254.yaml
 ./poc/other/avchat-3-6f5699247c472ae49faad00d51868820.yaml
 ./poc/other/avchat-3-a3ba2d61628e894267cdc60f45266115.yaml
@@ -126589,12 +126812,14 @@
 ./poc/other/aviatrix-panel.yaml
 ./poc/other/aviatrix-panel_1.yaml
 ./poc/other/aviatrix-panel_2.yaml
+./poc/other/aviatrix-panel_3.yaml
 ./poc/other/avideo-install.yaml
 ./poc/other/avideo-install_1.yaml
 ./poc/other/avideo-install_1_1.yaml
 ./poc/other/avideo-install_2.yaml
 ./poc/other/avideo-install_3.yaml
 ./poc/other/avideo-install_4.yaml
+./poc/other/avideo-install_5.yaml
 ./poc/other/avideo.yaml
 ./poc/other/avif-support-2bbcba43bf2c7dc0ba52374b8d9a9833.yaml
 ./poc/other/avif-support.yaml
@@ -126784,6 +127009,7 @@
 ./poc/other/azure-connection_1.yaml
 ./poc/other/azure-domain-tenant.yaml
 ./poc/other/azure-domain-tenant_1.yaml
+./poc/other/azure-domain-tenant_2.yaml
 ./poc/other/azure-storage-sas-leak.yaml
 ./poc/other/azurecurve-floating-featured-image-cc34c2403883272a07bb4d0afcc25ea9.yaml
 ./poc/other/azurecurve-shortcodes-in-comments-dded18440635206a9c443630c8ea220c.yaml
@@ -128275,6 +128501,7 @@
 ./poc/other/booking-e40fa94bb42bb4e9e4bfdaca9a9f482e.yaml
 ./poc/other/booking-e60f7b46d2b5a6b79c4b44d56ad74d86.yaml
 ./poc/other/booking-eb50978d55c34ee42ca0f442483ebdf8.yaml
+./poc/other/booking-fe5a90ee08acad198a97f3d107c86dc6.yaml
 ./poc/other/booking-manager-4291c6197635b0364fb9405dd558d274.yaml
 ./poc/other/booking-manager-a41a35dcf76bfc2c1341041a8c83a52c.yaml
 ./poc/other/booking-manager.yaml
@@ -128413,6 +128640,7 @@
 ./poc/other/bookstack-panel.yaml
 ./poc/other/bookstack-panel_1.yaml
 ./poc/other/bookstack-panel_2.yaml
+./poc/other/bookstack-panel_3.yaml
 ./poc/other/bookster-d7178fde7250b903ca0da98bdd5227c1.yaml
 ./poc/other/bookster.yaml
 ./poc/other/bookster_1.yaml
@@ -129621,6 +129849,7 @@
 ./poc/other/cacti-panel_1.yaml
 ./poc/other/cacti-panel_2.yaml
 ./poc/other/cacti-panel_3.yaml
+./poc/other/cacti-panel_4.yaml
 ./poc/other/cacti-weathermap-file-write-1.yaml
 ./poc/other/cacti-weathermap-file-write-2.yaml
 ./poc/other/cacti-weathermap-file-write-831.yaml
@@ -129688,6 +129917,7 @@
 ./poc/other/caldera-c2.yaml
 ./poc/other/caldera-c2_1.yaml
 ./poc/other/caldera-c2_2.yaml
+./poc/other/caldera-c2_3.yaml
 ./poc/other/calendapp-6d43843528b871f4823e655015b9208b.yaml
 ./poc/other/calendapp.yaml
 ./poc/other/calendar-16959bb7a77786fa99adf23cd6bcb3b8.yaml
@@ -130922,6 +131152,7 @@
 ./poc/other/circarlife-setup.yaml
 ./poc/other/circarlife-setup_1.yaml
 ./poc/other/circarlife-setup_2.yaml
+./poc/other/circarlife-setup_3.yaml
 ./poc/other/circarlife-system-log.yaml
 ./poc/other/circarlife-system-log_1.yaml
 ./poc/other/circle-image-slider-with-lightbox-4fd17830432213426bf64fdc98490b12.yaml
@@ -131121,6 +131352,7 @@
 ./poc/other/clearpass-policy-manager.yaml
 ./poc/other/clearpass-policy-manager_1.yaml
 ./poc/other/clearpass-policy-manager_2.yaml
+./poc/other/clearpass-policy-manager_3.yaml
 ./poc/other/clearwell-e-discovery.yaml
 ./poc/other/clerkio-3d42535c4159ccd533c88b8d40b68844.yaml
 ./poc/other/clerkio.yaml
@@ -131970,6 +132202,7 @@
 ./poc/other/compal-panel.yaml
 ./poc/other/compal-panel_1.yaml
 ./poc/other/compal-panel_2.yaml
+./poc/other/compal-panel_3.yaml
 ./poc/other/compal.yaml
 ./poc/other/companion-auto-update-02d6d09566c18c54d4c5e559e1f141df.yaml
 ./poc/other/companion-auto-update-1edea1f7e2402867189528ca77cfcaba.yaml
@@ -132096,6 +132329,7 @@
 ./poc/other/concrete5-panel.yaml
 ./poc/other/concrete5-panel_1.yaml
 ./poc/other/concrete5-panel_2.yaml
+./poc/other/concrete5-panel_3.yaml
 ./poc/other/condition-flow-no-operators.yaml
 ./poc/other/condition-flow-no-operators_1.yaml
 ./poc/other/condition-flow.yaml
@@ -133380,6 +133614,7 @@
 ./poc/other/craw-data-a12ef7ae6072663c7d8126b335e31950.yaml
 ./poc/other/craw-data.yaml
 ./poc/other/craw-data_1.yaml
+./poc/other/crawlomatic-multipage-scraper-post-generator-74106d3465bc467d9caf68dcaed84e9c.yaml
 ./poc/other/crayon-syntax-highlighter-2285c3c8c9599e2b452f301ecab3e92e.yaml
 ./poc/other/crayon-syntax-highlighter-5f0ccb8412bfbd4c4fa7950df03d5cc7.yaml
 ./poc/other/crayon-syntax-highlighter-7b85fb72281494a4f9bde9f3bd8cabb4.yaml
@@ -134202,6 +134437,7 @@
 ./poc/other/d-link-arbitary-fileread-7046_1.yaml
 ./poc/other/d-link-arbitary-fileread.yaml
 ./poc/other/d-link-arbitary-fileread_1.yaml
+./poc/other/d-link-arbitary-fileread_2.yaml
 ./poc/other/d-link-wireless-7047.yaml
 ./poc/other/d-link-wireless-7048.yaml
 ./poc/other/d-link-wireless-7048_1.yaml
@@ -134402,6 +134638,7 @@
 ./poc/other/data_science_studio.yaml
 ./poc/other/dataease-panel.yaml
 ./poc/other/dataease-panel_1.yaml
+./poc/other/dataease-panel_2.yaml
 ./poc/other/dataease.yaml
 ./poc/other/dataease_1.yaml
 ./poc/other/datagerry-panel.yaml
@@ -135249,6 +135486,7 @@
 ./poc/other/dokuwiki-installer_4.yaml
 ./poc/other/dokuwiki-panel.yaml
 ./poc/other/dokuwiki-panel_1.yaml
+./poc/other/dokuwiki-panel_2.yaml
 ./poc/other/dokuwiki.yaml
 ./poc/other/dolibarr-installer.yaml
 ./poc/other/dolibarr-installer_1.yaml
@@ -135286,6 +135524,7 @@
 ./poc/other/domcfg-page.yaml
 ./poc/other/domcfg-page_1.yaml
 ./poc/other/domcfg-page_2.yaml
+./poc/other/domcfg-page_3.yaml
 ./poc/other/don8-a7ff6c950fec57e9a71ac919aefe0d85.yaml
 ./poc/other/don8.yaml
 ./poc/other/don8_1.yaml
@@ -135359,6 +135598,7 @@
 ./poc/other/doris-panel.yaml
 ./poc/other/doris-panel_1.yaml
 ./poc/other/doris-panel_2.yaml
+./poc/other/doris-panel_3.yaml
 ./poc/other/dos.yaml
 ./poc/other/dos_1.yaml
 ./poc/other/dotclear-panel.yaml
@@ -135738,6 +135978,7 @@
 ./poc/other/druid-monitor.yaml
 ./poc/other/druid-monitor_1.yaml
 ./poc/other/druid-monitor_2.yaml
+./poc/other/druid-monitor_3.yaml
 ./poc/other/druid-panel.yaml
 ./poc/other/druid-panel_1.yaml
 ./poc/other/druid-panel_2.yaml
@@ -136100,6 +136341,7 @@
 ./poc/other/dzzoffice-install_3.yaml
 ./poc/other/dzzoffice-install_4.yaml
 ./poc/other/dzzoffice-install_5.yaml
+./poc/other/dzzoffice-install_6.yaml
 ./poc/other/dzzoffice-panel.yaml
 ./poc/other/dzzoffice-panel_1.yaml
 ./poc/other/dzzoffice-panel_2.yaml
@@ -136154,6 +136396,7 @@
 ./poc/other/eMerge-panel_2.yaml
 ./poc/other/eMerge-panel_3.yaml
 ./poc/other/eMerge-panel_3_1.yaml
+./poc/other/eMerge-panel_4.yaml
 ./poc/other/eagleeye.yaml
 ./poc/other/earcu-panel.yaml
 ./poc/other/earcu-panel_1.yaml
@@ -136371,6 +136614,7 @@
 ./poc/other/easy-media-gallery-pro-listing_1.yaml
 ./poc/other/easy-media-gallery-pro-listing_2.yaml
 ./poc/other/easy-media-gallery-pro-listing_3.yaml
+./poc/other/easy-media-gallery-pro-listing_4.yaml
 ./poc/other/easy-media-gallery-pro-plugin-d41d8cd98f00b204e9800998ecf8427e.yaml
 ./poc/other/easy-media-gallery-pro-plugin.yaml
 ./poc/other/easy-media-gallery-pro-plugin_1.yaml
@@ -136659,6 +136903,7 @@
 ./poc/other/easyfonts-9e84e332edff4ef8c4ba17cf0e68a0bc.yaml
 ./poc/other/easyjob-panel.yaml
 ./poc/other/easyjob-panel_1.yaml
+./poc/other/easyjob-panel_2.yaml
 ./poc/other/easyjobs-56a622068c79021228d35cf97f658931.yaml
 ./poc/other/easyjobs-58829393ce218580d4867cca6b753ab8.yaml
 ./poc/other/easyjobs-ac863379e8a5b596ad90fce4f04ffd77.yaml
@@ -137725,6 +137970,7 @@
 ./poc/other/empty-tags-remover-ca806f04cff7cd00d1838961e532205f.yaml
 ./poc/other/emqx-panel.yaml
 ./poc/other/emqx-panel_1.yaml
+./poc/other/emqx-panel_2.yaml
 ./poc/other/enable-accessibility-d1b70bbc56e31b5e146631f879f8076a.yaml
 ./poc/other/enable-accessibility-f7219f5b36f79e71a1c47ba232f14bf1.yaml
 ./poc/other/enable-accessibility.yaml
@@ -137896,6 +138142,7 @@
 ./poc/other/environment-rb_3_1.yaml
 ./poc/other/environment-rb_3_2.yaml
 ./poc/other/environment-rb_4.yaml
+./poc/other/environment-rb_5.yaml
 ./poc/other/envision-gateway-7226.yaml
 ./poc/other/envision-gateway-7226_1.yaml
 ./poc/other/envision-gateway-7227.yaml
@@ -138066,6 +138313,7 @@
 ./poc/other/eset-phish_3.yaml
 ./poc/other/eset-protect-panel.yaml
 ./poc/other/eset-protect-panel_1.yaml
+./poc/other/eset-protect-panel_2.yaml
 ./poc/other/eshop-10b2af6f499cef10e735afd2b1274094.yaml
 ./poc/other/eshop-76c567854af6e6e9973a832bc93c5cd6.yaml
 ./poc/other/eshop-aa3c1c94beb1fa886b55ca82ed010b85.yaml
@@ -138537,6 +138785,7 @@
 ./poc/other/eventon-80ededcb04b6752d3faef45c3780a14a.yaml
 ./poc/other/eventon-844fb4d219463c99c77f5611e67fdc7c.yaml
 ./poc/other/eventon-acea22a8f16a1c74e7b36a657caa82b9.yaml
+./poc/other/eventon-caa8f70cd0068984a9e39d0c646d0eb8.yaml
 ./poc/other/eventon-e3471aad01d96cd74a894921ef360cdf.yaml
 ./poc/other/eventon-lite-05536e60a8e410c7bf97debf0e612600.yaml
 ./poc/other/eventon-lite-22af8f6d96a4d4ac81dda49156693b98.yaml
@@ -139428,6 +139677,7 @@
 ./poc/other/fastcgi-echo_1.yaml
 ./poc/other/fastcgi-echo_2.yaml
 ./poc/other/fastcgi-echo_3.yaml
+./poc/other/fastcgi-echo_4.yaml
 ./poc/other/fastdup-4d937436569e469e00e1b26c70c6dd2f.yaml
 ./poc/other/fastdup-d463033e6c4a961471bff9c9179f1c0e.yaml
 ./poc/other/fastdup.yaml
@@ -139653,6 +139903,7 @@
 ./poc/other/feedzy-rss-feeds_2.yaml
 ./poc/other/feiyuxing-ent-router-infoleak.yaml
 ./poc/other/feiyuxing-info-leak.yaml
+./poc/other/feiyuxing-info-leak_1.yaml
 ./poc/other/felici-0f5ffd48d13e5822e2ad539970d7fdf7.yaml
 ./poc/other/felici-315f44de66b35a24d871594b0eb82aef.yaml
 ./poc/other/felici-423c8f702169b564faf702c63864f7ca.yaml
@@ -139935,6 +140186,7 @@
 ./poc/other/fiorilaunchpad-logon.yaml
 ./poc/other/fiorilaunchpad-logon_1.yaml
 ./poc/other/fiorilaunchpad-logon_2.yaml
+./poc/other/fiorilaunchpad-logon_3.yaml
 ./poc/other/fioxen.yaml
 ./poc/other/fioxen_1.yaml
 ./poc/other/firebase-urls-7497.yaml
@@ -140979,6 +141231,7 @@
 ./poc/other/fortiwlm-panel.yaml
 ./poc/other/fortiwlm-panel_1.yaml
 ./poc/other/fortiwlm-panel_2.yaml
+./poc/other/fortiwlm-panel_3.yaml
 ./poc/other/fortiwlm.yaml
 ./poc/other/forty-four-5930b8994b7097b0f47e612f9e04c83e.yaml
 ./poc/other/forty-four.yaml
@@ -141181,6 +141434,7 @@
 ./poc/other/friechat_2.yaml
 ./poc/other/friendica-panel.yaml
 ./poc/other/friendica-panel_1.yaml
+./poc/other/friendica-panel_2.yaml
 ./poc/other/friendly-functions-for-welcart.yaml
 ./poc/other/friendly-functions-for-welcart_1.yaml
 ./poc/other/friends-413a2ada9a6ce3cb0188478529434f59.yaml
@@ -142085,6 +142339,7 @@
 ./poc/other/getsimple-installation.yaml
 ./poc/other/getsimple-installation_1.yaml
 ./poc/other/getsimple-installation_2.yaml
+./poc/other/getsimple-installation_3.yaml
 ./poc/other/gettext-override-translations-7d18748d3ca6312ba31dc1d6e2f752f2.yaml
 ./poc/other/gettext-override-translations.yaml
 ./poc/other/gettext-override-translations_1.yaml
@@ -142406,6 +142661,7 @@
 ./poc/other/globalprotect-panel_1.yaml
 ./poc/other/globalprotect-panel_2.yaml
 ./poc/other/globalprotect-panel_3.yaml
+./poc/other/globalprotect-panel_4.yaml
 ./poc/other/globalquran-2c993a0ed3949cb100e55e3991793a4c.yaml
 ./poc/other/globalquran.yaml
 ./poc/other/globalsign-cert.yaml
@@ -142493,6 +142749,7 @@
 ./poc/other/gnu-mailman_2.yaml
 ./poc/other/gnu-mailman_3.yaml
 ./poc/other/gnu-mailman_4.yaml
+./poc/other/gnu-mailman_5.yaml
 ./poc/other/gnuboard5.yaml
 ./poc/other/gnupress-276441e3d32ecb1a7f031da20b2d50d3.yaml
 ./poc/other/go-anywhere-client-7743.yaml
@@ -142571,6 +142828,7 @@
 ./poc/other/good10000-tios.yaml
 ./poc/other/goodjob-dashboard.yaml
 ./poc/other/goodjob-dashboard_1.yaml
+./poc/other/goodjob-dashboard_2.yaml
 ./poc/other/goodlayers-blocks-e7698bfc54e0a661185360940e2ab7ee.yaml
 ./poc/other/goodlayers-core-0bc746811e7c1e3dab81d761317ba039.yaml
 ./poc/other/goodlayers-core.yaml
@@ -142604,6 +142862,7 @@
 ./poc/other/gotcha-gesture-based-captcha-38013c22c60d1732131aa18a77d296c9.yaml
 ./poc/other/gotify-panel.yaml
 ./poc/other/gotify-panel_1.yaml
+./poc/other/gotify-panel_2.yaml
 ./poc/other/gotmls-029073e443761e33b949f00044dc7b4d.yaml
 ./poc/other/gotmls-02d309adae53e1877ffec61907d7259c.yaml
 ./poc/other/gotmls-0882b692bd7154174f85575b0bf983de.yaml
@@ -142689,6 +142948,7 @@
 ./poc/other/gradle-enterprise-panel.yaml
 ./poc/other/gradle-enterprise-panel_1.yaml
 ./poc/other/gradle-enterprise-panel_2.yaml
+./poc/other/gradle-enterprise-panel_3.yaml
 ./poc/other/gradle-libs.yaml
 ./poc/other/gradle-libs_1.yaml
 ./poc/other/gradle-libs_2.yaml
@@ -142752,6 +143012,7 @@
 ./poc/other/graylog-panel.yaml
 ./poc/other/graylog-panel_1.yaml
 ./poc/other/graylog-panel_2.yaml
+./poc/other/graylog-panel_3.yaml
 ./poc/other/graylog.yaml
 ./poc/other/graylog_1.yaml
 ./poc/other/great-quotes-b9ff6fdd55a9b22b32ddac6bebb6e805.yaml
@@ -143153,6 +143414,7 @@
 ./poc/other/hack-me-if-you-can.yaml
 ./poc/other/hack5-cloud-c2.yaml
 ./poc/other/hack5-cloud-c2_1.yaml
+./poc/other/hack5-cloud-c2_2.yaml
 ./poc/other/hacklog-downloadmanager-cbc219d5354325277cdf244cc75e5d16.yaml
 ./poc/other/hacklog-downloadmanager.yaml
 ./poc/other/hacklog-remote-attachment-d4e7a854fd91737a2b16b41abd453a25.yaml
@@ -143164,6 +143426,7 @@
 ./poc/other/haitian-oa.yaml
 ./poc/other/haivision-gateway-panel.yaml
 ./poc/other/haivision-gateway-panel_1.yaml
+./poc/other/haivision-gateway-panel_2.yaml
 ./poc/other/haivision-media-platform-panel.yaml
 ./poc/other/haivision-media-platform-panel_1.yaml
 ./poc/other/haivision-media-platform-panel_1_1.yaml
@@ -143571,6 +143834,7 @@
 ./poc/other/hitpay-payment-gateway.yaml
 ./poc/other/hitron-technologies-7959.yaml
 ./poc/other/hitron-technologies-7961.yaml
+./poc/other/hitron-technologies-7961_1.yaml
 ./poc/other/hitron-technologies-7962.yaml
 ./poc/other/hitron-technologies.yaml
 ./poc/other/hits-counter.yaml
@@ -143655,6 +143919,7 @@
 ./poc/other/hmc-hybris-panel_1.yaml
 ./poc/other/hmc-hybris-panel_2.yaml
 ./poc/other/hmc-hybris-panel_3.yaml
+./poc/other/hmc-hybris-panel_4.yaml
 ./poc/other/hmd.yaml
 ./poc/other/hmenu-488c8721ad49893b1b94c8c589967b46.yaml
 ./poc/other/hmenu-6a1da3cc6dda6c0f7cbb28bd85a2aeeb.yaml
@@ -143892,6 +144157,7 @@
 ./poc/other/hp-ilo-5.yaml
 ./poc/other/hp-ilo-5_1.yaml
 ./poc/other/hp-ilo-5_2.yaml
+./poc/other/hp-ilo-5_3.yaml
 ./poc/other/hp-ilo.yaml
 ./poc/other/hp-service-manager-1.yaml
 ./poc/other/hp-service-manager-2.yaml
@@ -143905,6 +144171,7 @@
 ./poc/other/hp-service-manager.yaml
 ./poc/other/hp-service-manager_1.yaml
 ./poc/other/hp-service-manager_2.yaml
+./poc/other/hp-service-manager_3.yaml
 ./poc/other/hp-sitescope.yaml
 ./poc/other/hp-system-management.yaml
 ./poc/other/hp-virtual-connect-manager.yaml
@@ -144165,6 +144432,7 @@
 ./poc/other/huierdun_download_fileread_1.yaml
 ./poc/other/huijietong-cloud-fileread-8082.yaml
 ./poc/other/huijietong-cloud-fileread-8082_1.yaml
+./poc/other/huijietong-cloud-fileread-8082_2.yaml
 ./poc/other/huijietong-cloud-fileread-8084.yaml
 ./poc/other/huijietong-cloud-fileread-8084_1.yaml
 ./poc/other/huijietong-cloud-fileread-8085.yaml
@@ -144175,6 +144443,7 @@
 ./poc/other/huijietong-cloud-fileread-8087.yaml
 ./poc/other/huijietong-cloud-fileread.yaml
 ./poc/other/huijietong-cloud-fileread_1.yaml
+./poc/other/huijietong-cloud-fileread_2.yaml
 ./poc/other/huiwen-bibliographic-info-leak.yaml
 ./poc/other/huiwen-bibliographic-info-leak_1.yaml
 ./poc/other/huiwen-bibliographic-info-leak_2.yaml
@@ -147089,6 +147358,7 @@
 ./poc/other/kubelet-healthz-8519.yaml
 ./poc/other/kubelet-healthz-8519_1.yaml
 ./poc/other/kubelet-healthz.yaml
+./poc/other/kubelet-healthz_1.yaml
 ./poc/other/kubelet-metrics-8520.yaml
 ./poc/other/kubelet-metrics-8520_1.yaml
 ./poc/other/kubelet-metrics-8521.yaml
@@ -147096,12 +147366,14 @@
 ./poc/other/kubelet-metrics.yaml
 ./poc/other/kubelet-metrics_1.yaml
 ./poc/other/kubelet-metrics_2.yaml
+./poc/other/kubelet-metrics_3.yaml
 ./poc/other/kubelet-pods-8522.yaml
 ./poc/other/kubelet-pods-8522_1.yaml
 ./poc/other/kubelet-pods-8523.yaml
 ./poc/other/kubelet-pods-8523_1.yaml
 ./poc/other/kubelet-pods-8523_2.yaml
 ./poc/other/kubelet-pods.yaml
+./poc/other/kubelet-pods_1.yaml
 ./poc/other/kubelet-runningpods-8524.yaml
 ./poc/other/kubelet-runningpods-8524_1.yaml
 ./poc/other/kubelet-runningpods-8525.yaml
@@ -147770,6 +148042,7 @@
 ./poc/other/lenxel-core.yaml
 ./poc/other/leostream-panel-8609.yaml
 ./poc/other/leostream-panel-8609_1.yaml
+./poc/other/leostream-panel-8609_2.yaml
 ./poc/other/leostream-panel-8610.yaml
 ./poc/other/leostream-panel-8610_1.yaml
 ./poc/other/leostream-panel.yaml
@@ -148495,6 +148768,7 @@
 ./poc/other/lotus-domino-version-8657.yaml
 ./poc/other/lotus-domino-version.yaml
 ./poc/other/lotus-domino-version_1.yaml
+./poc/other/lotus-domino-version_2.yaml
 ./poc/other/lovetravel-23e1aaa9c3f9ff0df0ea74cdaffa6f35.yaml
 ./poc/other/lovetravel-42490e299390004a5c2f5515978038b5.yaml
 ./poc/other/lovetravel-4c6d971480738015e66686ec6b71effc.yaml
@@ -149979,6 +150253,7 @@
 ./poc/other/memcached-stats_1.yaml
 ./poc/other/memcached-stats_2.yaml
 ./poc/other/memcached-stats_3.yaml
+./poc/other/memcached-stats_4.yaml
 ./poc/other/memeone-f46c433adf6f633dfecead1cfba60c4e.yaml
 ./poc/other/memeone.yaml
 ./poc/other/memorialday.yaml
@@ -150163,6 +150438,7 @@
 ./poc/other/metadata-hetzner_3.yaml
 ./poc/other/metadata-openstack-8825.yaml
 ./poc/other/metadata-openstack-8825_1.yaml
+./poc/other/metadata-openstack-8825_2.yaml
 ./poc/other/metadata-openstack-8826.yaml
 ./poc/other/metadata-openstack-8826_1.yaml
 ./poc/other/metadata-openstack-8827.yaml
@@ -152830,6 +153106,7 @@
 ./poc/other/ns-asg-file-read-9154.yaml
 ./poc/other/ns-asg-file-read-9154_1.yaml
 ./poc/other/ns-asg-file-read.yaml
+./poc/other/ns-asg-file-read_1.yaml
 ./poc/other/ns-asg.yaml
 ./poc/other/ns-coupon-to-become-customer-7937a8d2d4473985a3f546f6a2747fbf.yaml
 ./poc/other/ns-coupon-to-become-customer.yaml
@@ -157281,6 +157558,7 @@
 ./poc/other/put-method-enabled_1_1.yaml
 ./poc/other/put-method-enabled_2.yaml
 ./poc/other/put-method-enabled_3.yaml
+./poc/other/put-method-enabled_4.yaml
 ./poc/other/put.yaml
 ./poc/other/putMethod-1.yaml
 ./poc/other/putMethod-2.yaml
@@ -159700,6 +159978,7 @@
 ./poc/other/rsfirewall-265dc4143d82225bb1efb384ee2f7c52.yaml
 ./poc/other/rsfirewall.yaml
 ./poc/other/rsfirewall_1.yaml
+./poc/other/rss-feed-post-generator-echo-89656c9183c2dd705c5d2339a3c9e811.yaml
 ./poc/other/rss-feed-post-generator-echo.yaml
 ./poc/other/rss-feed-reader-b8c180e9afbfd946ec957b8884660fa5.yaml
 ./poc/other/rss-feed-reader.yaml
@@ -163963,6 +164242,7 @@
 ./poc/other/split-test-for-elementor_1.yaml
 ./poc/other/splunk-enterprise-panel-10414.yaml
 ./poc/other/splunk-enterprise-panel-10414_1.yaml
+./poc/other/splunk-enterprise-panel-10414_2.yaml
 ./poc/other/splunk-enterprise-panel-10415.yaml
 ./poc/other/splunk-enterprise-panel-10415_1.yaml
 ./poc/other/splunk-enterprise-panel.yaml
@@ -171087,6 +171367,7 @@
 ./poc/other/wisdm-reports-for-learndash.yaml
 ./poc/other/wise-361b4625da00651d196bf168b5902896.yaml
 ./poc/other/wise-9099a88f255af571eb05254581f8054d.yaml
+./poc/other/wise-chat-82839192cda4c2bdecb295f68b629e19.yaml
 ./poc/other/wise-chat-8c10bb16c734c3ae0e0598296078da6b.yaml
 ./poc/other/wise-chat-d2542c9b1e541509d4efa66a9f72a895.yaml
 ./poc/other/wise-chat-d41d8cd98f00b204e9800998ecf8427e.yaml
@@ -172694,6 +172975,7 @@
 ./poc/other/xds-amr-status-11668.yaml
 ./poc/other/xds-amr-status-11668_1.yaml
 ./poc/other/xds-amr-status-11669.yaml
+./poc/other/xds-amr-status-11669_1.yaml
 ./poc/other/xds-amr-status.yaml
 ./poc/other/xecure-vpn.yaml
 ./poc/other/xecurevpn.yaml
@@ -173756,6 +174038,7 @@
 ./poc/other/zuul-panel-11842_2.yaml
 ./poc/other/zuul-panel-11843.yaml
 ./poc/other/zuul-panel-11843_1.yaml
+./poc/other/zuul-panel-11843_2.yaml
 ./poc/other/zuul-panel.yaml
 ./poc/other/zuul-panel_1.yaml
 ./poc/other/zwave2mqtt-health-check.yaml
@@ -174552,6 +174835,7 @@
 ./poc/php/symfony-phpinfo_1.yaml
 ./poc/php/thinkphp-2-rce-10738.yaml
 ./poc/php/thinkphp-2-rce-10740.yaml
+./poc/php/thinkphp-2-rce-10740_1.yaml
 ./poc/php/thinkphp-2-rce-10741.yaml
 ./poc/php/thinkphp-2-rce-10741_1.yaml
 ./poc/php/thinkphp-501-rce-10743.yaml
@@ -174686,6 +174970,7 @@
 ./poc/python/django-admin-panel-7023_1.yaml
 ./poc/python/django-admin-panel.yaml
 ./poc/python/django-admin-panel_1.yaml
+./poc/python/django-admin-panel_2.yaml
 ./poc/python/django-debug-detect-7024.yaml
 ./poc/python/django-debug-detect-7024_1.yaml
 ./poc/python/django-debug-detect-7026.yaml
@@ -174826,6 +175111,7 @@
 ./poc/remote_code_execution/Front-NoCondition-RCE.yaml
 ./poc/remote_code_execution/Front-NoCondition-RCE_1.yaml
 ./poc/remote_code_execution/Geovision-rce.yaml
+./poc/remote_code_execution/Geovision-rce_1.yaml
 ./poc/remote_code_execution/HIKVISION-iSecure-Center-rce-applyCT.yaml
 ./poc/remote_code_execution/HIKVISION-iSecure-Center-rce-applyCT_1.yaml
 ./poc/remote_code_execution/HIKVISION-iSecure-Center-rce-keepAlive.yaml
@@ -175425,6 +175711,7 @@
 ./poc/remote_code_execution/co2ok-for-woocommerce.yaml
 ./poc/remote_code_execution/co2ok-for-woocommerce_1.yaml
 ./poc/remote_code_execution/code42-log4j-rce-1130.yaml
+./poc/remote_code_execution/code42-log4j-rce-1130_1.yaml
 ./poc/remote_code_execution/code42-log4j-rce-1131.yaml
 ./poc/remote_code_execution/code42-log4j-rce-1132.yaml
 ./poc/remote_code_execution/code42-log4j-rce-1132_1.yaml
@@ -175639,6 +175926,7 @@
 ./poc/remote_code_execution/dc-woocommerce-multi-vendor-d70ba2d9b3a849fde9281ffdc252c706.yaml
 ./poc/remote_code_execution/dc-woocommerce-multi-vendor-e48cd4f2cf89d641c9d0f9cf06042b00.yaml
 ./poc/remote_code_execution/dc-woocommerce-multi-vendor-e56b22252295256971ba0d1467d15789.yaml
+./poc/remote_code_execution/dc-woocommerce-multi-vendor-e5905f7731f8a124604d86daf46ec7d7.yaml
 ./poc/remote_code_execution/dc-woocommerce-multi-vendor-e916a436815bf2c7d78e7b17e950dee8.yaml
 ./poc/remote_code_execution/dc-woocommerce-multi-vendor-ed1793e2af2038f1d49b43fe722d14cd.yaml
 ./poc/remote_code_execution/dc-woocommerce-multi-vendor-f7954b2b63876d72450814846cb1ae4c.yaml
@@ -175819,6 +176107,7 @@
 ./poc/remote_code_execution/elasticsearch5-log4j-rce_2.yaml
 ./poc/remote_code_execution/elasticsearch5-log4j-rce_3.yaml
 ./poc/remote_code_execution/elasticsearch5-log4j-rce_4.yaml
+./poc/remote_code_execution/elasticsearch5-log4j-rce_5.yaml
 ./poc/remote_code_execution/elex-bulk-edit-products-prices-attributes-for-woocommerce-basic-0ec03617c21b32741085916078d06c31.yaml
 ./poc/remote_code_execution/elex-bulk-edit-products-prices-attributes-for-woocommerce-basic.yaml
 ./poc/remote_code_execution/elex-bulk-edit-products-prices-attributes-for-woocommerce-basic_1.yaml
@@ -175956,6 +176245,7 @@
 ./poc/remote_code_execution/extra-product-options-for-woocommerce_2.yaml
 ./poc/remote_code_execution/eyou-email-rce-7378.yaml
 ./poc/remote_code_execution/eyou-email-rce-7378_1.yaml
+./poc/remote_code_execution/eyou-email-rce-7378_2.yaml
 ./poc/remote_code_execution/eyou-email-rce-7380.yaml
 ./poc/remote_code_execution/eyou-email-rce-7380_1.yaml
 ./poc/remote_code_execution/eyou-email-rce-7380_2.yaml
@@ -176241,9 +176531,11 @@
 ./poc/remote_code_execution/hiboss-rce-7949_2.yaml
 ./poc/remote_code_execution/hiboss-rce-7950.yaml
 ./poc/remote_code_execution/hiboss-rce-7950_1.yaml
+./poc/remote_code_execution/hiboss-rce-7950_2.yaml
 ./poc/remote_code_execution/hiboss-rce.yaml
 ./poc/remote_code_execution/hiboss-rce_1.yaml
 ./poc/remote_code_execution/hiboss-rce_2.yaml
+./poc/remote_code_execution/hiboss-rce_3.yaml
 ./poc/remote_code_execution/hide-category-by-user-role-for-woocommerce.yaml
 ./poc/remote_code_execution/hide-category-by-user-role-for-woocommerce_1.yaml
 ./poc/remote_code_execution/hide-shipping-method-for-woocommerce-2551a852a2322f801f9d791245c4c110.yaml
@@ -176472,6 +176764,7 @@
 ./poc/remote_code_execution/landray-oa-sysSearchMain-editParam-rce.yaml
 ./poc/remote_code_execution/landray-oa-treexml-rce.yaml
 ./poc/remote_code_execution/landray-oa-treexml-rce_1.yaml
+./poc/remote_code_execution/landray-oa-treexml-rce_2.yaml
 ./poc/remote_code_execution/lanhaizhuoyue-debug-rce.yaml
 ./poc/remote_code_execution/laravel-vite-php-source-disclosure.yaml
 ./poc/remote_code_execution/laravelphpunitrce-220331-222918.yaml
@@ -176599,6 +176892,7 @@
 ./poc/remote_code_execution/mcafee-epo-rce.yaml
 ./poc/remote_code_execution/mcafee-epo-rce_1.yaml
 ./poc/remote_code_execution/mcafee-epo-rce_2.yaml
+./poc/remote_code_execution/mcafee-epo-rce_3.yaml
 ./poc/remote_code_execution/mediaburst-ecommerce-sms-notifications-6e9ad46ba7b82908596d92a906a7c328.yaml
 ./poc/remote_code_execution/mediaburst-ecommerce-sms-notifications.yaml
 ./poc/remote_code_execution/meite-crm-sync_emp_weixin-rce.yaml
@@ -177389,6 +177683,7 @@
 ./poc/remote_code_execution/rce-shellshock-user-agent.yaml
 ./poc/remote_code_execution/rce-shellshock-user-agent_1.yaml
 ./poc/remote_code_execution/rce-shellshock-user-agent_2.yaml
+./poc/remote_code_execution/rce-shellshock-user-agent_3.yaml
 ./poc/remote_code_execution/rce-user-agent-shell-shock.yaml
 ./poc/remote_code_execution/rce-via-java-deserialization.yaml
 ./poc/remote_code_execution/rce-via-java-deserialization_1.yaml
@@ -177796,6 +178091,7 @@
 ./poc/remote_code_execution/springboot-log4j-rce-10474.yaml
 ./poc/remote_code_execution/springboot-log4j-rce.yaml
 ./poc/remote_code_execution/springboot-log4j-rce_1.yaml
+./poc/remote_code_execution/springboot-log4j-rce_1_1.yaml
 ./poc/remote_code_execution/springboot-log4j-rce_2.yaml
 ./poc/remote_code_execution/springboot_eureka_rce.yaml
 ./poc/remote_code_execution/springboot_eureka_rce_1.yaml
@@ -177906,6 +178202,7 @@
 ./poc/remote_code_execution/tableau-log4j-rce.yaml
 ./poc/remote_code_execution/tamronos-rce-10647.yaml
 ./poc/remote_code_execution/tamronos-rce-10647_1.yaml
+./poc/remote_code_execution/tamronos-rce-10647_2.yaml
 ./poc/remote_code_execution/tamronos-rce-10649.yaml
 ./poc/remote_code_execution/tamronos-rce-10649_1.yaml
 ./poc/remote_code_execution/tamronos-rce-10650.yaml
@@ -177913,6 +178210,7 @@
 ./poc/remote_code_execution/tamronos-rce-10651.yaml
 ./poc/remote_code_execution/tamronos-rce.yaml
 ./poc/remote_code_execution/tamronos-rce_1.yaml
+./poc/remote_code_execution/tamronos-rce_2.yaml
 ./poc/remote_code_execution/tax-report-for-woocommerce-4188382411133ccbd69016d75e9fbb60.yaml
 ./poc/remote_code_execution/tax-switch-for-woocommerce-4ab4808ff4007523b4b0442aa74b7df7.yaml
 ./poc/remote_code_execution/taxonomy-discounts-woocommerce-2502c6cebcb32a04d43a8b9daa3390a4.yaml
@@ -178006,6 +178304,7 @@
 ./poc/remote_code_execution/topsec-topSAG-synRequest-rce.yaml
 ./poc/remote_code_execution/topsec-topacm-naborTable-static-convert-rce.yaml
 ./poc/remote_code_execution/topsec-topacm-naborTable-static-convert-rce_1.yaml
+./poc/remote_code_execution/topsec-topacm-rce.yaml
 ./poc/remote_code_execution/tosei_washing_machine_network_test_rce.yaml
 ./poc/remote_code_execution/tosei_washing_machine_network_test_rce_1.yaml
 ./poc/remote_code_execution/total-sales-for-woocommerce-09712df89f849ba85b08f5f0deb0865b.yaml
@@ -181299,6 +181598,7 @@
 ./poc/social/devbuddy-twitter-feed.yaml
 ./poc/social/devbuddy-twitter-feed_1.yaml
 ./poc/social/drupal_module-social-access-bypass.yaml
+./poc/social/drupal_module-social-access-bypass_1.yaml
 ./poc/social/drupal_module-social-information-disclosure.yaml
 ./poc/social/dsgnwrks-twitter-importer-979ad6426400801053e5406eb52d51e9.yaml
 ./poc/social/duitku-social-payment-gateway-00bd2277c641ac0f8870ff39d1abb82f.yaml
@@ -182527,6 +182827,7 @@
 ./poc/sql/74cms-sqli-10.yaml
 ./poc/sql/74cms-sqli-2.yaml
 ./poc/sql/74cms-sqli-8.yaml
+./poc/sql/74cms-sqli-8_1.yaml
 ./poc/sql/74cms-sqli-9.yaml
 ./poc/sql/74cms-sqli.yaml
 ./poc/sql/74cms-sqli_1.yaml
@@ -184181,6 +184482,7 @@
 ./poc/sql/CVE-2024-13592-cd38a5811c7d01aa4976b6a2713dbe0c.yaml
 ./poc/sql/CVE-2024-13596-7d5e00b5a94edbbb7de987cc4b37e517.yaml
 ./poc/sql/CVE-2024-13604-303489552a0db53ef00d833b50648d49.yaml
+./poc/sql/CVE-2024-13613-06e7485472ebe3dbea205ff968e71ebe.yaml
 ./poc/sql/CVE-2024-13638-4abcc803461d51eb9f2be3c797fedb7f.yaml
 ./poc/sql/CVE-2024-13641-ba52fe2fadb6bf5a3ddd173db9fd2332.yaml
 ./poc/sql/CVE-2024-13644-d8c536069e27c90ed9490f951f24db86.yaml
@@ -185501,6 +185803,7 @@
 ./poc/sql/CVE-2025-3779-14713653ae23acc3485db6a1763dd4b5.yaml
 ./poc/sql/CVE-2025-3815-2c2fb872cd80628b2a1d7db14451aa17.yaml
 ./poc/sql/CVE-2025-3874-c4156c43a7f5ca405b08720b561db0ec.yaml
+./poc/sql/CVE-2025-3888-e8129a2cf077eeaf94a8cdbf11b615db.yaml
 ./poc/sql/CVE-2025-39348-21514960851899db038d0a5928e7f2a1.yaml
 ./poc/sql/CVE-2025-39352-f829e7b173adbd669bb483f68589e7be.yaml
 ./poc/sql/CVE-2025-39354-1902ca0eaa7a1684b40db32e0e8ffa2a.yaml
@@ -185536,6 +185839,7 @@
 ./poc/sql/CVE-2025-4279-406ac79f35f674376b4c7d74d6db4d5f.yaml
 ./poc/sql/CVE-2025-43833-d6e5b7e854edb24b01d33ebd510fbb30.yaml
 ./poc/sql/CVE-2025-43836-fc97c3f94db896bb7c6ed37b3605e1c6.yaml
+./poc/sql/CVE-2025-4389-dcbfb07dc669f1db2593fd06838be4bc.yaml
 ./poc/sql/CVE-2025-4396-16c77bcde700cdb0ed62d16f26663cc2.yaml
 ./poc/sql/CVE-2025-4579-6c00f230d375b2385e1a9db4b3327e40.yaml
 ./poc/sql/CVE-2025-46230-45092d177b566bfffbec4cdbaa92fd31.yaml
@@ -185551,6 +185855,7 @@
 ./poc/sql/CVE-2025-46515-7ab497e4d29db626271c454816aa0f9b.yaml
 ./poc/sql/CVE-2025-46522-291f3db8294be495c53e158c8ecf8b9e.yaml
 ./poc/sql/CVE-2025-46534-005fa8c3c4547c31fb490a7a61dba8a8.yaml
+./poc/sql/CVE-2025-4669-bbcfd6717dbe3462e77963b6e3b3ad16.yaml
 ./poc/sql/CVE-2025-47451-6fc4db70812d908e3f16852fc96674c6.yaml
 ./poc/sql/CVE-2025-47473-f51db54aa424800d031160125a32b684.yaml
 ./poc/sql/CVE-2025-47481-836ad49987a8ca1842682db5ac955f14.yaml
@@ -186699,6 +187004,7 @@
 ./poc/sql/buildbot-panel.yaml
 ./poc/sql/buildbot-panel_1.yaml
 ./poc/sql/buildbot-panel_2.yaml
+./poc/sql/buildbot-panel_3.yaml
 ./poc/sql/builder-contact-05cefda973a9af46db8fb07d4529e095.yaml
 ./poc/sql/builder-shortcode-extras-8c37ab5e41a1769ed8ed6058f27adba7.yaml
 ./poc/sql/builderchild-depot-73cea7db1be46dff05c6aee565d437e4.yaml
@@ -187989,6 +188295,7 @@
 ./poc/sql/finecms-sqli-7475_2.yaml
 ./poc/sql/finecms-sqli.yaml
 ./poc/sql/finecms-sqli_1.yaml
+./poc/sql/finecms-sqli_2.yaml
 ./poc/sql/fintelligence-calculator-975282056af51c8024e9dbaee291deaa.yaml
 ./poc/sql/firebase-database-extractor.yaml
 ./poc/sql/five-minute-webshop-7552fa5d1f3d06ebacccbdbb8bbb515e.yaml
@@ -188713,6 +189020,7 @@
 ./poc/sql/jtrt-responsive-tables-33a8abaa9e01a96da3db578219b6255e.yaml
 ./poc/sql/jupiter-0bdb7246ddebf33428d3196ad4b5173c.yaml
 ./poc/sql/jupiterx-0bdb7246ddebf33428d3196ad4b5173c.yaml
+./poc/sql/jupiterx-core-2c3c4fd65b3631b1253db546ae49717e.yaml
 ./poc/sql/jupiterx-core-9692f828017cdb5a31886e855ce80c1f.yaml
 ./poc/sql/jupiterx-core-9ea2aeee4330fa45e5806e756289db33.yaml
 ./poc/sql/jupiterx-core-f2d1bc29d454dba7c1d6bcc1f4013aab.yaml
@@ -189565,6 +189873,7 @@
 ./poc/sql/plugin-5dcfaa6624128695b8dbff266dad887f.yaml
 ./poc/sql/plugins-on-steroids-3c5e646c22c4a2ee0780b32e276ba0db.yaml
 ./poc/sql/pmb-sqli.yaml
+./poc/sql/pmb-sqli_1.yaml
 ./poc/sql/pmpro-ccbill-ca203c1416f8db65ff994af39c261ed6.yaml
 ./poc/sql/pmpro-mailchimp-600922105e67d46673ae767cdb2376bd.yaml
 ./poc/sql/podamibe-twilio-private-call-340daa4aa40dba1687cf7e9949a29443.yaml
@@ -190541,6 +190850,7 @@
 ./poc/sql/stackable-ultimate-gutenberg-blocks-5dbfbaa575cc0686acfb350260e2673b.yaml
 ./poc/sql/stackable-ultimate-gutenberg-blocks-6477bf18cad6c823db485408d49b337b.yaml
 ./poc/sql/stackposts-sqli.yaml
+./poc/sql/stackposts-sqli_1.yaml
 ./poc/sql/staff-directory-pro-6fdb51bf6b53bd24d56544dc11cd2a71.yaml
 ./poc/sql/stafflist-3c37ae305a6cc468acd37b9dbb9beb6a.yaml
 ./poc/sql/stafflist-87e952ff3eef3cba8a915e675b7db316.yaml
@@ -193037,6 +193347,7 @@
 ./poc/ssrf/skype-blind-ssrf.yaml
 ./poc/ssrf/splash-render-ssrf.yaml
 ./poc/ssrf/splash-render-ssrf_1.yaml
+./poc/ssrf/splash-render-ssrf_2.yaml
 ./poc/ssrf/spon-ip-ssrf.yaml
 ./poc/ssrf/ssrf-blind-host.yaml
 ./poc/ssrf/ssrf-blind-host_1.yaml
@@ -193187,6 +193498,7 @@
 ./poc/subdomain_takeover/agilecrm-takeover.yaml
 ./poc/subdomain_takeover/agilecrm-takeover_1.yaml
 ./poc/subdomain_takeover/agilecrm-takeover_2.yaml
+./poc/subdomain_takeover/agilecrm-takeover_3.yaml
 ./poc/subdomain_takeover/aha-takeover-213.yaml
 ./poc/subdomain_takeover/aha-takeover-214.yaml
 ./poc/subdomain_takeover/aha-takeover-214_1.yaml
@@ -193205,6 +193517,7 @@
 ./poc/subdomain_takeover/airee-takeover_1.yaml
 ./poc/subdomain_takeover/airee-takeover_2.yaml
 ./poc/subdomain_takeover/airee-takeover_3.yaml
+./poc/subdomain_takeover/airee-takeover_4.yaml
 ./poc/subdomain_takeover/anima-takeover-317.yaml
 ./poc/subdomain_takeover/anima-takeover-318.yaml
 ./poc/subdomain_takeover/anima-takeover-318_1.yaml
@@ -193215,6 +193528,7 @@
 ./poc/subdomain_takeover/anima-takeover_2.yaml
 ./poc/subdomain_takeover/announcekit-takeover-321.yaml
 ./poc/subdomain_takeover/announcekit-takeover-322.yaml
+./poc/subdomain_takeover/announcekit-takeover-322_1.yaml
 ./poc/subdomain_takeover/announcekit-takeover-323.yaml
 ./poc/subdomain_takeover/announcekit-takeover-323_1.yaml
 ./poc/subdomain_takeover/announcekit-takeover-324.yaml
@@ -193237,6 +193551,7 @@
 ./poc/subdomain_takeover/bigcartel-takeover.yaml
 ./poc/subdomain_takeover/bigcartel-takeover_1.yaml
 ./poc/subdomain_takeover/bigcartel-takeover_2.yaml
+./poc/subdomain_takeover/bigcartel-takeover_3.yaml
 ./poc/subdomain_takeover/bitbucket-takeover-739.yaml
 ./poc/subdomain_takeover/bitbucket-takeover.yaml
 ./poc/subdomain_takeover/bitbucket-takeover_1.yaml
@@ -193351,6 +193666,7 @@
 ./poc/subdomain_takeover/frontify-takeover.yaml
 ./poc/subdomain_takeover/frontify-takeover_1.yaml
 ./poc/subdomain_takeover/frontify-takeover_2.yaml
+./poc/subdomain_takeover/frontify-takeover_3.yaml
 ./poc/subdomain_takeover/gemfury-takeover-7576.yaml
 ./poc/subdomain_takeover/gemfury-takeover-7576_1.yaml
 ./poc/subdomain_takeover/gemfury-takeover-7577.yaml
@@ -193363,6 +193679,7 @@
 ./poc/subdomain_takeover/gemfury-takeover.yaml
 ./poc/subdomain_takeover/gemfury-takeover_1.yaml
 ./poc/subdomain_takeover/gemfury-takeover_2.yaml
+./poc/subdomain_takeover/gemfury-takeover_3.yaml
 ./poc/subdomain_takeover/getresponse-takeover-7607.yaml
 ./poc/subdomain_takeover/getresponse-takeover-7607_1.yaml
 ./poc/subdomain_takeover/getresponse-takeover-7608.yaml
@@ -193485,6 +193802,7 @@
 ./poc/subdomain_takeover/hubspot-takeover_1.yaml
 ./poc/subdomain_takeover/hubspot-takeover_2.yaml
 ./poc/subdomain_takeover/hubspot-takeover_3.yaml
+./poc/subdomain_takeover/hubspot-takeover_4.yaml
 ./poc/subdomain_takeover/intercom-takeover-8166.yaml
 ./poc/subdomain_takeover/intercom-takeover-8166_1.yaml
 ./poc/subdomain_takeover/intercom-takeover-8167.yaml
@@ -194957,6 +195275,7 @@
 ./poc/web/3cx-phone-webclient-management-panel_1.yaml
 ./poc/web/3cx-phone-webclient-management-panel_2.yaml
 ./poc/web/3cx-phone-webclient-management-panel_3.yaml
+./poc/web/3cx-phone-webclient-management-panel_4.yaml
 ./poc/web/3dady-real-time-web-stats-42d45c7cd5a93ca2860239ffff32ac83.yaml
 ./poc/web/3dady-real-time-web-stats-973e2493447963f796ffef4921ec45aa.yaml
 ./poc/web/3dady-real-time-web-stats-9fc1dd046516e6c7d8c642f85d04f7b0.yaml
@@ -195109,6 +195428,7 @@
 ./poc/web/cleanweb-panel.yaml
 ./poc/web/cleanweb-panel_1.yaml
 ./poc/web/cleanweb-panel_2.yaml
+./poc/web/cleanweb-panel_3.yaml
 ./poc/web/cobbler-webgui-1122.yaml
 ./poc/web/cobbler-webgui-1123.yaml
 ./poc/web/cobbler-webgui-1124.yaml
@@ -195149,6 +195469,7 @@
 ./poc/web/cypress-web-config.yaml
 ./poc/web/dahua-web-panel.yaml
 ./poc/web/dahua-web-panel_1.yaml
+./poc/web/dahua-web-panel_2.yaml
 ./poc/web/defaced-website-detect.yaml
 ./poc/web/default-websphere-liberty.yaml
 ./poc/web/delete-all-comments-of-website-6477bf18cad6c823db485408d49b337b.yaml
@@ -195198,6 +195519,7 @@
 ./poc/web/ehole-web-fingerprints.yaml
 ./poc/web/ehole-web-fingerprints_1.yaml
 ./poc/web/element-web-detect.yaml
+./poc/web/element-web-detect_1.yaml
 ./poc/web/emc-documentum-webtop.yaml
 ./poc/web/emerson-intellislot-webcard.yaml
 ./poc/web/emerson-xweb-evo.yaml
@@ -195211,6 +195533,7 @@
 ./poc/web/ep-web-cms-xss.yaml
 ./poc/web/epoint-web-zwdt.yaml
 ./poc/web/epson-web-control-detect-7239.yaml
+./poc/web/epson-web-control-detect-7239_1.yaml
 ./poc/web/epson-web-control-detect-7241.yaml
 ./poc/web/epson-web-control-detect-7242.yaml
 ./poc/web/epson-web-control-detect-7242_1.yaml
@@ -195272,6 +195595,7 @@
 ./poc/web/fingerprinthub-web-fingerprints_1.yaml
 ./poc/web/fingerprinthub-web-fingerprints_2.yaml
 ./poc/web/fingerprinthub-web-fingerprints_3.yaml
+./poc/web/fingerprinthub-web-fingerprints_4.yaml
 ./poc/web/five-minute-webshop-9d27fa4970a82eb922c7bcb4bdb6d676.yaml
 ./poc/web/five-minute-webshop.yaml
 ./poc/web/five-minute-webshop_1.yaml
@@ -195355,6 +195679,7 @@
 ./poc/web/hashicorp-consul-webgui_1.yaml
 ./poc/web/hashicorp-consul-webgui_2.yaml
 ./poc/web/hashicorp-consul-webgui_3.yaml
+./poc/web/hashicorp-consul-webgui_4.yaml
 ./poc/web/heading-web-server.yaml
 ./poc/web/hisense-webpos.yaml
 ./poc/web/hiweb-migration-simple-a86fc829bdd665012760aa4d4044abed.yaml
@@ -195436,6 +195761,7 @@
 ./poc/web/icewarp-webclient-rce-8131.yaml
 ./poc/web/icewarp-webclient-rce-8132.yaml
 ./poc/web/icewarp-webclient-rce-8133.yaml
+./poc/web/icewarp-webclient-rce.yaml
 ./poc/web/icinga-web-login-8137.yaml
 ./poc/web/icinga-web-login.yaml
 ./poc/web/icinga-web-login_1.yaml
@@ -195530,6 +195856,7 @@
 ./poc/web/microweber-detect_1.yaml
 ./poc/web/microweber-stored-xss.yaml
 ./poc/web/microweber-xss-8864.yaml
+./poc/web/microweber-xss-8864_1.yaml
 ./poc/web/microweber-xss-8865.yaml
 ./poc/web/microweber-xss.yaml
 ./poc/web/mongo-express-web-gui.yaml
@@ -195560,6 +195887,7 @@
 ./poc/web/netsweeper-webadmin-detect-9068.yaml
 ./poc/web/netsweeper-webadmin-detect.yaml
 ./poc/web/netsweeper-webadmin-detect_1.yaml
+./poc/web/netsweeper-webadmin-detect_2.yaml
 ./poc/web/nettalk-webserver.yaml
 ./poc/web/netzone-webcache.yaml
 ./poc/web/nginx-webui-rce.yaml
@@ -195579,6 +195907,7 @@
 ./poc/web/office-webapps-panel.yaml
 ./poc/web/office-webapps-panel_1.yaml
 ./poc/web/office-webapps-panel_2.yaml
+./poc/web/office-webapps-ssrf.yaml
 ./poc/web/office_web_apps_server.yaml
 ./poc/web/officeweb365.yaml
 ./poc/web/olt-web-interface.yaml
@@ -196069,6 +196398,7 @@
 ./poc/web/webeditors.yaml
 ./poc/web/webeditors_1.yaml
 ./poc/web/webeditors_2.yaml
+./poc/web/webeditors_3.yaml
 ./poc/web/webengage-c50307d2c43335962383eda32cef7359.yaml
 ./poc/web/webengage.yaml
 ./poc/web/webengage_1.yaml
@@ -199621,6 +199951,7 @@
 ./poc/wordpress/wordpress-user-enumeration_2.yaml
 ./poc/wordpress/wordpress-user-enumeration_2_1.yaml
 ./poc/wordpress/wordpress-user-enumeration_3.yaml
+./poc/wordpress/wordpress-user-enumeration_4.yaml
 ./poc/wordpress/wordpress-users-8f130e01fe79277e477c686f6f80b3f9.yaml
 ./poc/wordpress/wordpress-users-9cb1611f6e40c8e16f4af99a9bc891b2.yaml
 ./poc/wordpress/wordpress-users.yaml
@@ -202963,6 +203294,7 @@
 ./poc/wordpress/wp-megamenu_1.yaml
 ./poc/wordpress/wp-members-0e06bc303271d3dd0f159fde6a16d15c.yaml
 ./poc/wordpress/wp-members-0fd5b42d78c1a98ecec129bb96c7eb8b.yaml
+./poc/wordpress/wp-members-3ec907f1693a90ec6590018a8a64aa71.yaml
 ./poc/wordpress/wp-members-59670ea7d44b96f3df6e11e0f647119e.yaml
 ./poc/wordpress/wp-members-68898d38b159910b419ff6b80fce35d1.yaml
 ./poc/wordpress/wp-members-717b0afc7b43636298c4b517aad93014.yaml
@@ -205989,6 +206321,7 @@
 ./poc/wordpress/wpbookit.yaml
 ./poc/wordpress/wpbookit_1.yaml
 ./poc/wordpress/wpbot-pro-4050333dd539750709bfec5e609afefb.yaml
+./poc/wordpress/wpbot-pro-55aa9318cc509ae118d4e65ef5afa829.yaml
 ./poc/wordpress/wpbot-pro-c5aa2ea55661995e605a8b3e56610255.yaml
 ./poc/wordpress/wpbot-pro.yaml
 ./poc/wordpress/wpbrutalai-0cac881e66b4c181ccd92e001d979796.yaml
@@ -207039,6 +207372,7 @@
 ./poc/xss/acme-xss.yaml
 ./poc/xss/acme-xss_1.yaml
 ./poc/xss/acme-xss_2.yaml
+./poc/xss/acme-xss_3.yaml
 ./poc/xss/admin-ajax-xss.yaml
 ./poc/xss/admin-ajax-xss_1.yaml
 ./poc/xss/admin-ajax-xss_2.yaml
@@ -207097,6 +207431,7 @@
 ./poc/xss/avchat-video-chat-xss_2_1.yaml
 ./poc/xss/avchat-video-chat-xss_3.yaml
 ./poc/xss/avchat-video-chat-xss_4.yaml
+./poc/xss/avchat-video-chat-xss_5.yaml
 ./poc/xss/axublog-goindes-xss.yaml
 ./poc/xss/axublog-goindes-xss_1.yaml
 ./poc/xss/basic-xss-prober-695.yaml
@@ -207156,6 +207491,7 @@
 ./poc/xss/ckan-dom-based-xss-993.yaml
 ./poc/xss/ckan-dom-based-xss.yaml
 ./poc/xss/ckan-dom-based-xss_1.yaml
+./poc/xss/ckan-dom-based-xss_2.yaml
 ./poc/xss/clearfy-cache-xss.yaml
 ./poc/xss/clearfy-cache-xss_1.yaml
 ./poc/xss/clearfy-cache-xss_2.yaml
@@ -207180,6 +207516,7 @@
 ./poc/xss/concrete-xss.yaml
 ./poc/xss/concrete-xss_1.yaml
 ./poc/xss/concrete-xss_2.yaml
+./poc/xss/concrete-xss_3.yaml
 ./poc/xss/concrete5-xss.yaml
 ./poc/xss/concrete5-xss_1.yaml
 ./poc/xss/concretexss.yaml
@@ -207210,6 +207547,7 @@
 ./poc/xss/dom-xss-siteminder(1)_1.yaml
 ./poc/xss/dom-xss-web-message.yaml
 ./poc/xss/drupal-avatar-xss.yaml
+./poc/xss/drupal-avatar-xss_1.yaml
 ./poc/xss/drupal-avatar-xss_2.yaml
 ./poc/xss/drupal_module-fraction-xss-vulnerability.yaml
 ./poc/xss/drupal_module-fraction-xss-vulnerability_1.yaml
@@ -207246,6 +207584,7 @@
 ./poc/xss/eris-xss_2.yaml
 ./poc/xss/eris-xss_3.yaml
 ./poc/xss/eris-xss_4.yaml
+./poc/xss/eris-xss_5.yaml
 ./poc/xss/feedwordpress-xss-7459.yaml
 ./poc/xss/feedwordpress-xss-7460.yaml
 ./poc/xss/feedwordpress-xss.yaml
@@ -207290,12 +207629,14 @@
 ./poc/xss/gnuboard5-rxss_2_1.yaml
 ./poc/xss/gnuboard5-rxss_2_2.yaml
 ./poc/xss/gnuboard5-rxss_3.yaml
+./poc/xss/gnuboard5-rxss_4.yaml
 ./poc/xss/gnuboard5-xss.yaml
 ./poc/xss/gnuboard5-xss_1.yaml
 ./poc/xss/gnuboard5-xss_2.yaml
 ./poc/xss/gnuboard5-xss_2_1.yaml
 ./poc/xss/gnuboard5-xss_3.yaml
 ./poc/xss/gnuboard5-xss_4.yaml
+./poc/xss/gnuboard5-xss_5.yaml
 ./poc/xss/gz-forum-script-xss.yaml
 ./poc/xss/gz-forum-script-xss_1.yaml
 ./poc/xss/header_blind_xss-7914.yaml
@@ -207360,6 +207701,7 @@
 ./poc/xss/keycloak-xss-8481_1.yaml
 ./poc/xss/keycloak-xss-8482.yaml
 ./poc/xss/keycloak-xss.yaml
+./poc/xss/keycloak-xss_1.yaml
 ./poc/xss/khodrochi-cms-xss.yaml
 ./poc/xss/knr-widget-xss.yaml
 ./poc/xss/knr-widget-xss_1.yaml
@@ -207830,6 +208172,7 @@
 ./poc/xss/wp-finder-xss-11449.yaml
 ./poc/xss/wp-finder-xss-11450.yaml
 ./poc/xss/wp-finder-xss-11450_1.yaml
+./poc/xss/wp-finder-xss-11450_2.yaml
 ./poc/xss/wp-finder-xss.yaml
 ./poc/xss/wp-finder-xss_1.yaml
 ./poc/xss/wp-flagem-xss-11451.yaml

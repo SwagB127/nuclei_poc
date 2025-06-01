@@ -131933,6 +131933,7 @@
 ./poc/other/circarlife-setup_1.yaml
 ./poc/other/circarlife-setup_2.yaml
 ./poc/other/circarlife-setup_3.yaml
+./poc/other/circarlife-setup_3_1.yaml
 ./poc/other/circarlife-system-log.yaml
 ./poc/other/circarlife-system-log_1.yaml
 ./poc/other/circle-image-slider-with-lightbox-4fd17830432213426bf64fdc98490b12.yaml

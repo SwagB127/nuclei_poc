@@ -3316,6 +3316,7 @@
 ./poc/auth/fusionauth-admin-panel_2.yaml
 ./poc/auth/fusionauth-admin-setup.yaml
 ./poc/auth/fusionauth-admin-setup_1.yaml
+./poc/auth/fuzz-oauth.yaml
 ./poc/auth/g-meta-keywords-a824864ce8ac08ab55d838469642237b.yaml
 ./poc/auth/g-meta-keywords.yaml
 ./poc/auth/gaxx-keywords-1643b95f00dd189ad99da6edffb24782.yaml
@@ -5034,6 +5035,7 @@
 ./poc/auth/mycred_1.yaml
 ./poc/auth/mycred_2.yaml
 ./poc/auth/mysql-empty-password.yaml
+./poc/auth/mysql-native-password-8981.yaml
 ./poc/auth/nacos-auth-bypass.yaml
 ./poc/auth/nacos-auth-bypass_1.yaml
 ./poc/auth/nacos-auth-bypass_2.yaml
@@ -6465,6 +6467,7 @@
 ./poc/auth/smartsense-default-login.yaml
 ./poc/auth/smartsense-default-login_1.yaml
 ./poc/auth/smartsense-default-login_2.yaml
+./poc/auth/smb-default-creds.yaml
 ./poc/auth/smb-signing-not-required.yaml
 ./poc/auth/smb-signing-not-required_1.yaml
 ./poc/auth/smb-signing-not-required_2.yaml
@@ -6617,6 +6620,7 @@
 ./poc/auth/ssh-auth-methods.yaml
 ./poc/auth/ssh-authorized-keys-10523.yaml
 ./poc/auth/ssh-authorized-keys-10523_1.yaml
+./poc/auth/ssh-default-logins.yaml
 ./poc/auth/ssh-password-auth.yaml
 ./poc/auth/ssh-password-auth_1.yaml
 ./poc/auth/ssh-weak-public-key.yaml
@@ -6884,6 +6888,7 @@
 ./poc/auth/tomcat-examples-login_CVE-2022-34305.yaml
 ./poc/auth/tongda-arbitrary-login.yaml
 ./poc/auth/tongda-arbitrary-login_1.yaml
+./poc/auth/tongda-auth-bypass.yaml
 ./poc/auth/tongda-login-code-authbypass.yaml
 ./poc/auth/tongda-login-code-authbypass_1.yaml
 ./poc/auth/tongda-meeting-unauth.yaml
@@ -7593,6 +7598,8 @@
 ./poc/auth/wordpress-updraftplus-pem-key-11328.yaml
 ./poc/auth/wordpress-updraftplus-pem-key.yaml
 ./poc/auth/wordpress-updraftplus-pem-key_1.yaml
+./poc/auth/wordpress-weak-credentials-11335.yaml
+./poc/auth/wordpress-weak-credentials-11336.yaml
 ./poc/auth/wp-autokeyword-dfef24f090b1fe48222d9c9793317219.yaml
 ./poc/auth/wp-awesome-login-bff57ffdf8ed44b0944be0d854802a8a.yaml
 ./poc/auth/wp-awesome-login.yaml

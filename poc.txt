@@ -101489,6 +101489,7 @@
 ./poc/cve/CVE-2025-5923-71ac54a412dfaca50304c13d5d2813c1.yaml
 ./poc/cve/CVE-2025-5925-721dd3262b114a9d10dc78dd898a8fbf.yaml
 ./poc/cve/CVE-2025-5926-d0a6a8a8940151e4283cd715c2c88f41.yaml
+./poc/cve/CVE-2025-5927-ac2690a583463493cdd153e6f211e3a1.yaml
 ./poc/cve/CVE-2025-5928-43a94b63ac10031bd78445256e09eb9d.yaml
 ./poc/cve/CVE-2025-5938-878b354bb009987e18e69351a4ad78b2.yaml
 ./poc/cve/CVE-2025-5939-2e7fff6ae7f8214d78d6de335ea61983.yaml
@@ -120465,6 +120466,7 @@
 ./poc/microsoft/everest-forms-b6b3e80f59fa873307197ce9659b9c44.yaml
 ./poc/microsoft/everest-forms-c0a0e81c146bf7cecaaeae90b639da7b.yaml
 ./poc/microsoft/everest-forms-c736e825a20c9c5ddf7033e9bcb1df59.yaml
+./poc/microsoft/everest-forms-pro-b2c651756aa732332454b79fbc70e272.yaml
 ./poc/microsoft/everest-forms.yaml
 ./poc/microsoft/everest-forms_1.yaml
 ./poc/microsoft/everest-forms_2.yaml
@@ -165762,6 +165764,7 @@
 ./poc/other/so-widgets-bundle-12246c67482cc81113f95b53d4a54f04.yaml
 ./poc/other/so-widgets-bundle-180c430fc45a724a110d6335d32e96f4.yaml
 ./poc/other/so-widgets-bundle-7815d5616dfb70208d5884aff281d688.yaml
+./poc/other/so-widgets-bundle-88dc44a8c4f1f5a29a238973f1cece16.yaml
 ./poc/other/so-widgets-bundle-92dc9daa82044d420b1ee35cdf66e7ae.yaml
 ./poc/other/so-widgets-bundle-92ee98fa3b74b713ba950a259247d7f6.yaml
 ./poc/other/so-widgets-bundle-d32a7a08a7f7049ae462fe2e7701eaaf.yaml
@@ -188342,6 +188345,7 @@
 ./poc/sql/CVE-2025-5395-a2a978c07cb8f3c50e44c3c635fabdbf.yaml
 ./poc/sql/CVE-2025-5490-9e09ec405f724763d187d9db4afa0bbe.yaml
 ./poc/sql/CVE-2025-5565-a59c8dbf223621e88f8a255f1867f00b.yaml
+./poc/sql/CVE-2025-5585-5ed434fa554db6e41ee5055c48a51702.yaml
 ./poc/sql/CVE-2025-5673-036795216bdbaf295fb0accf74278b9d.yaml
 ./poc/sql/CVE-2025-5930-9454db1bc4e6d38f40cf2a95774868a7.yaml
 ./poc/sql/Changdao-165-SQLi.yaml

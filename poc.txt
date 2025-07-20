@@ -4462,6 +4462,7 @@
 ./poc/auth/keybase-phish_4.yaml
 ./poc/auth/keybase-phish_5.yaml
 ./poc/auth/keybase-phish_6.yaml
+./poc/auth/keybase-phish_7.yaml
 ./poc/auth/keycaptcha-886e454be2c26e9b9196cfbbeeff60e6.yaml
 ./poc/auth/keycloak-admin-panel.yaml
 ./poc/auth/keycloak-admin-panel_1.yaml
@@ -5290,6 +5291,7 @@
 ./poc/auth/naver-login-phish_3.yaml
 ./poc/auth/naver-login-phish_4.yaml
 ./poc/auth/naver-login-phish_5.yaml
+./poc/auth/naver-login-phish_6.yaml
 ./poc/auth/netauth.yaml
 ./poc/auth/netcore-unauth.yaml
 ./poc/auth/netdisco-default-login.yaml
@@ -114150,6 +114152,7 @@
 ./poc/detect/admiralcloud-detect_4.yaml
 ./poc/detect/admiralcloud-detect_5.yaml
 ./poc/detect/admiralcloud-detect_5_1.yaml
+./poc/detect/admiralcloud-detect_6.yaml
 ./poc/detect/adobe-coldfusion-detect-1.yaml
 ./poc/detect/adobe-coldfusion-detect-2.yaml
 ./poc/detect/adobe-coldfusion-detect-3.yaml
@@ -119791,6 +119794,7 @@
 ./poc/git/digital-ocean-phish_4.yaml
 ./poc/git/digital-ocean-phish_5.yaml
 ./poc/git/digital-ocean-phish_6.yaml
+./poc/git/digital-ocean-phish_7.yaml
 ./poc/git/digital-ocean-ssrf.yaml
 ./poc/git/digital-publications-by-supsystic-3654b5b992852653b7e966396c0613b4.yaml
 ./poc/git/digital-publications-by-supsystic-376d5bb594e0789e7ff3e9afba783e55.yaml
@@ -119982,6 +119986,7 @@
 ./poc/git/github-phish_4.yaml
 ./poc/git/github-phish_5.yaml
 ./poc/git/github-phish_6.yaml
+./poc/git/github-phish_7.yaml
 ./poc/git/github-refresh.yaml
 ./poc/git/github-refresh_1.yaml
 ./poc/git/github-refresh_2.yaml
@@ -125748,6 +125753,7 @@
 ./poc/microsoft/microsoft-teams-phish_4.yaml
 ./poc/microsoft/microsoft-teams-phish_5.yaml
 ./poc/microsoft/microsoft-teams-phish_6.yaml
+./poc/microsoft/microsoft-teams-phish_7.yaml
 ./poc/microsoft/microsoft-teams-webhook-8856.yaml
 ./poc/microsoft/microsoft-teams-webhook-8858.yaml
 ./poc/microsoft/mightyforms-29983d9146384be621b7b03b0b101b56.yaml
@@ -134352,6 +134358,7 @@
 ./poc/other/bitwarden-phish_6.yaml
 ./poc/other/bitwarden-phish_7.yaml
 ./poc/other/bitwarden-phish_8.yaml
+./poc/other/bitwarden-phish_9.yaml
 ./poc/other/bitwarden-vault-panel.yaml
 ./poc/other/bitwarden-vault-panel_1.yaml
 ./poc/other/bitwarden-vault-panel_2.yaml
@@ -134420,6 +134427,7 @@
 ./poc/other/blazor_server.yaml
 ./poc/other/blender-phish.yaml
 ./poc/other/blender-phish_1.yaml
+./poc/other/blender-phish_10.yaml
 ./poc/other/blender-phish_1_1.yaml
 ./poc/other/blender-phish_2.yaml
 ./poc/other/blender-phish_3.yaml
@@ -136271,6 +136279,7 @@
 ./poc/other/bynder-panel_2.yaml
 ./poc/other/bynder-panel_3.yaml
 ./poc/other/bynder-panel_4.yaml
+./poc/other/bynder-panel_5.yaml
 ./poc/other/byzoro-下一代防火墙.yaml
 ./poc/other/byzoro-安全网关.yaml
 ./poc/other/byzoro-百卓审计网关.yaml
@@ -137400,6 +137409,7 @@
 ./poc/other/chase-phish_6.yaml
 ./poc/other/chase-phish_7.yaml
 ./poc/other/chase-phish_8.yaml
+./poc/other/chase-phish_9.yaml
 ./poc/other/chat-bee-ab3d2811b40cfb001a24722e62a5442e.yaml
 ./poc/other/chat-bee.yaml
 ./poc/other/chat-bee_1.yaml
@@ -147077,6 +147087,7 @@
 ./poc/other/firefox-phish_4.yaml
 ./poc/other/firefox-phish_5.yaml
 ./poc/other/firefox-phish_5_1.yaml
+./poc/other/firefox-phish_6.yaml
 ./poc/other/firehose_service_monitoring.yaml
 ./poc/other/firerp-soft.yaml
 ./poc/other/firestats-c1d16628f7629b1198c0813bb5edf908.yaml
@@ -150430,6 +150441,7 @@
 ./poc/other/haivision-media-platform-panel_4.yaml
 ./poc/other/haivision-media-platform-panel_5.yaml
 ./poc/other/haivision-media-platform-panel_6.yaml
+./poc/other/haivision-media-platform-panel_7.yaml
 ./poc/other/hal-management-panel.yaml
 ./poc/other/hal.yaml
 ./poc/other/hal_1.yaml
@@ -157435,6 +157447,7 @@
 ./poc/other/mega-phish_4.yaml
 ./poc/other/mega-phish_5.yaml
 ./poc/other/mega-phish_6.yaml
+./poc/other/mega-phish_7.yaml
 ./poc/other/mega_main_menu-63af3007da329791634e01d0ac2d7e19.yaml
 ./poc/other/mega_main_menu-92df36df315e507c0cd53b96853ee003.yaml
 ./poc/other/mega_main_menu-ad7fd04e1ec32d41ed7ef794220c2a12.yaml
@@ -160179,6 +160192,7 @@
 ./poc/other/nexus-panel_3.yaml
 ./poc/other/nexus-panel_4.yaml
 ./poc/other/nexus-panel_4_1.yaml
+./poc/other/nexus-panel_5.yaml
 ./poc/other/nexus-repository-manager.yaml
 ./poc/other/nexus.yaml
 ./poc/other/nexus_1.yaml
@@ -160453,6 +160467,7 @@
 ./poc/other/nordpass-phish_5.yaml
 ./poc/other/nordpass-phish_6.yaml
 ./poc/other/nordpass-phish_7.yaml
+./poc/other/nordpass-phish_8.yaml
 ./poc/other/norton-cloud-connect.yaml
 ./poc/other/norton-phish.yaml
 ./poc/other/norton-phish_1.yaml
@@ -161989,6 +162004,7 @@
 ./poc/other/pairdrop-panel_2.yaml
 ./poc/other/pairdrop-panel_3.yaml
 ./poc/other/pairdrop-panel_3_1.yaml
+./poc/other/pairdrop-panel_4.yaml
 ./poc/other/pakke-197e72230e873eea5bd97a4c5a2f3190.yaml
 ./poc/other/paloalto-expedition-panel.yaml
 ./poc/other/paloalto-globalprotect-version-date.yaml
@@ -165812,6 +165828,7 @@
 ./poc/other/quora-phish_4.yaml
 ./poc/other/quora-phish_5.yaml
 ./poc/other/quora-phish_6.yaml
+./poc/other/quora-phish_7.yaml
 ./poc/other/quota-453b39613dcca9c94569ea039b8538d4.yaml
 ./poc/other/quota.yaml
 ./poc/other/quota_1.yaml
@@ -166511,6 +166528,7 @@
 ./poc/other/reddit-phish_3.yaml
 ./poc/other/reddit-phish_4.yaml
 ./poc/other/reddit-phish_5.yaml
+./poc/other/reddit-phish_6.yaml
 ./poc/other/reddoxx.yaml
 ./poc/other/redflag-linux-cluster-management-system.yaml
 ./poc/other/redhat-satellite-panel.yaml
@@ -171083,6 +171101,7 @@
 ./poc/other/skyscanner-phish_4.yaml
 ./poc/other/skyscanner-phish_4_1.yaml
 ./poc/other/skyscanner-phish_5.yaml
+./poc/other/skyscanner-phish_6.yaml
 ./poc/other/skywalking.yaml
 ./poc/other/skyword-plugin.yaml
 ./poc/other/sl-user-create-6156aa0c305980057885391ecbb8a697.yaml
@@ -178530,6 +178549,7 @@
 ./poc/other/vlc-player-phish_1_1.yaml
 ./poc/other/vlc-player-phish_1_2.yaml
 ./poc/other/vlc-player-phish_2.yaml
+./poc/other/vlc-player-phish_3.yaml
 ./poc/other/vmag-25d89512289e9a002531a0ad7c38058b.yaml
 ./poc/other/vmag-4e4b0c9d94ab1b4da1d632c804d14f1c.yaml
 ./poc/other/vmag-54ef72624c401c1ed7008472a2e7cb8c.yaml
